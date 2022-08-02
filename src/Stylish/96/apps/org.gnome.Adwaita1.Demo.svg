@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="org.gnome.Adwaita1.Demo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8.2708333"
+     inkscape:cx="47.939547"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3625"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#8ff0a4;stop-opacity:1;"
+         offset="0"
+         id="stop3621" />
+      <stop
+         style="stop-color:#3584e4;stop-opacity:1;"
+         offset="1"
+         id="stop3623" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3625"
+       id="linearGradient7699"
+       x1="32"
+       y1="60"
+       x2="32"
+       y2="4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.5)" />
+  </defs>
+  <path
+     id="path563"
+     style="opacity:0.2;fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 39,7 C 11.696456,7 6,12.819478 6,40 v 18 c 0,27.180518 5.696456,33 33,33 H 57 C 84.30354,91 90,85.180518 90,58 V 40 C 90,12.819478 84.30354,7 57,7 Z" />
+  <path
+     id="path530"
+     style="fill:url(#linearGradient7699);fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 39,6 C 11.696455,6 6,11.819478 6,39 v 18 c 0,27.180518 5.696455,33 33,33 H 57 C 84.30354,90 90,84.180518 90,57 V 39 C 90,11.819478 84.30354,6 57,6 Z" />
+  <path
+     d="M 15,48.000006 H 48 V 81 Z"
+     style="fill:#ffffff;stroke-width:13.2;stroke-linejoin:round"
+     id="path34713" />
+  <path
+     d="M 48,48.000008 69,48 v 21.000008 z"
+     style="opacity:0.4;fill:#ffffff;stroke-width:14;stroke-linejoin:round"
+     id="path34685"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 48,21.000006 75,21 48,48.000006 Z"
+     style="opacity:0.75;fill:#ffffff;stroke-width:13.5;stroke-linejoin:round"
+     id="path34741"
+     sodipodi:nodetypes="cccc" />
+</svg>
