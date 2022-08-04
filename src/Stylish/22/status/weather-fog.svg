@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg2123"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="weather-fog.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     id="rect849"
+     style="fill:url(#linearGradient1695);fill-opacity:1;stroke-width:0.500001;stroke-linejoin:round"
+     d="M 4.0000002,4 C 3.446,4 2.9999999,4.4460001 2.9999999,4.9999999 2.9999999,5.554 3.446,6.0000002 4.0000002,6.0000002 H 13 c 0.554,0 1.000001,-0.4460002 1.000001,-1.0000003 C 14.000001,4.4460001 13.554,4 13,4 Z M 6.9999999,8 C 6.4460001,8 6,8.4460001 6,9.0000002 6,9.5539999 6.4460001,10 6.9999999,10 H 19 C 19.554,10 20,9.5539999 20,9.0000002 20,8.4460001 19.554,8 19,8 Z m -4,4 C 2.4460001,12 2,12.446001 2,13 c 0,0.554 0.4460001,1 0.9999999,1 H 15.000001 C 15.554,14 16,13.554 16,13 16,12.446001 15.554,12 15.000001,12 Z M 6,16.000001 c -0.5539998,0 -0.9999999,0.445999 -0.9999999,1 C 5.0000001,17.554 5.4460002,18 6,18 h 13 c 0.554,0 1,-0.446 1,-0.999999 0,-0.554001 -0.446,-1 -1,-1 z" />
+  <sodipodi:namedview
+     id="namedview2125"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="19.744149"
+     inkscape:cx="-1.0382823"
+     inkscape:cy="12.231472"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2123"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2120">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2887">
+      <stop
+         style="stop-color:#eff1f1;stop-opacity:1;"
+         offset="0"
+         id="stop2883" />
+      <stop
+         style="stop-color:#b0b8b8;stop-opacity:1"
+         offset="1"
+         id="stop2885" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2887"
+       id="linearGradient1695"
+       x1="20"
+       y1="4.012958"
+       x2="20"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+</svg>

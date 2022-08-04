@@ -112,5 +112,7 @@ ln -s folder-blue.svg folder.svg;
 ln -s folder.svg inode-directory.svg;
 ln -s folder.svg stock_folder.svg;
 ln -s folder-open.svg stock_open.svg;
+ln -s user-trash.svg trashcan_empty.svg;
+ln -s user-trash-full.svg trashcan_full.svg;
 
 exit
