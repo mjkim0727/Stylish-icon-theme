@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="preferences-desktop-font.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1144"
+       id="linearGradient3500"
+       x1="2"
+       y1="2"
+       x2="31.333334"
+       y2="31.333334"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.75,0,0,0.75,-0.5,-0.5)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1144">
+      <stop
+         style="stop-color:#adb2b9;stop-opacity:1;"
+         offset="0"
+         id="stop1140" />
+      <stop
+         style="stop-color:#e0e2e4;stop-opacity:1;"
+         offset="1"
+         id="stop1142" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path530"
+     style="fill:url(#linearGradient3500);fill-opacity:1;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
+     d="M 9,1 C 2.174114,1 1,2.2048695 1,9 v 4 c 0,6.79513 1.174114,8 8,8 h 4 c 6.825886,0 8,-1.20487 8,-8 V 9 C 21,2.2048695 19.825886,1 13,1 Z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     d="M 7.30617,6 4,15.033861 H 5.1725599 L 6.0773132,12.48849 h 3.6310767 l 0.9047531,2.545371 h 1.185428 L 8.75,6 Z m 0.5492849,1.4596691 h 0.074794 L 9.364986,11.502511 H 6.420717 Z m 7.5991231,0.7117395 c -0.490786,0 -0.934258,0.078393 -1.329383,0.2364418 -0.390967,0.1538907 -0.704674,0.3703432 -0.941749,0.6490102 -0.237074,0.278666 -0.378075,0.599197 -0.423825,0.9610484 h 1.122698 c 0.07904,-0.2703484 0.249456,-0.4890754 0.511488,-0.6554434 0.262029,-0.170528 0.599149,-0.255743 1.01091,-0.255743 0.503264,0 0.883324,0.118392 1.141196,0.355467 0.262028,0.232916 0.393266,0.5677604 0.393266,1.0044764 v 0.549288 c -0.145573,0.0042 -0.415535,0.017 -0.81066,0.0378 -0.395124,0.0208 -0.736792,0.04113 -1.023779,0.06192 -0.73618,0.05407 -1.345535,0.226778 -1.828003,0.517922 -0.47831,0.286984 -0.717369,0.780223 -0.717369,1.47897 0,0.428399 0.101804,0.800164 0.305606,1.116263 0.203802,0.31194 0.480585,0.551002 0.829959,0.717369 0.349374,0.162208 0.740807,0.245956 1.173365,0.250115 0.532379,-0.0042 0.966753,-0.11506 1.30365,-0.331342 0.341055,-0.220438 0.580116,-0.471537 0.717369,-0.754364 h 0.04986 V 15.03386 H 17.99995 V 10.567191 C 18.004081,9.6313686 17.743917,8.9986026 17.219857,8.6700248 16.695796,8.3372876 16.107578,8.1714051 15.454582,8.1714051 Z m 1.484601,3.7243684 v 0.679569 c 0,0.291145 -0.07466,0.564183 -0.22438,0.817896 -0.145571,0.253713 -0.359749,0.457321 -0.642576,0.611211 -0.282826,0.153892 -0.61767,0.230813 -1.004477,0.230813 -0.432557,0 -0.780245,-0.09122 -1.042276,-0.274242 -0.25787,-0.183004 -0.388301,-0.449222 -0.392461,-0.798595 0.0042,-0.357691 0.142884,-0.630731 0.417393,-0.817895 0.278666,-0.187165 0.672374,-0.297263 1.179798,-0.330537 l 0.885452,-0.06193 c 0.453356,-0.03327 0.727868,-0.05214 0.823527,-0.05629 z"
+     style="font-size:8.21007px;line-height:1.25;font-family:Pretendard;-inkscape-font-specification:Pretendard;fill:#4d4d4d;stroke-width:0.319429"
+     id="path1940"
+     sodipodi:nodetypes="ccccccccccccccscscccscscsccsccccccccccsssscsscccccs" />
+</svg>

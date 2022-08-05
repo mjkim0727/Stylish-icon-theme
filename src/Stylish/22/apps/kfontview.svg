@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="kfontview.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="37.181818"
+     inkscape:cx="7.6650367"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3147"
+       id="linearGradient3500"
+       x1="28.666666"
+       y1="28.666666"
+       x2="2"
+       y2="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.75,0,0,0.75,-0.5,-0.5)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3147">
+      <stop
+         style="stop-color:#41bbff;stop-opacity:1;"
+         offset="0"
+         id="stop3143" />
+      <stop
+         style="stop-color:#0091f9;stop-opacity:1;"
+         offset="1"
+         id="stop3145" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path530"
+     style="fill:url(#linearGradient3500);fill-opacity:1.0;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
+     d="M 9,1 C 2.174114,1 1,2.2048695 1,9 v 4 c 0,6.79513 1.174114,8 8,8 h 4 c 6.825886,0 8,-1.20487 8,-8 V 9 C 21,2.2048695 19.825886,1 13,1 Z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     d="M 7.30617,6 4,15.033861 H 5.1725599 L 6.0773132,12.48849 H 9.70839 l 0.904753,2.545371 h 1.185428 L 8.75,6 Z m 0.5492849,1.4596691 h 0.074794 L 9.364986,11.502511 H 6.420717 Z m 7.5991231,0.7117391 c -0.490786,0 -0.934258,0.07839 -1.329383,0.236442 -0.390967,0.153891 -0.704674,0.370343 -0.941749,0.649011 -0.237074,0.278666 -0.378075,0.599197 -0.423825,0.9610478 h 1.122698 c 0.07904,-0.2703478 0.249456,-0.4890748 0.511488,-0.6554428 0.262029,-0.170528 0.599149,-0.255743 1.01091,-0.255743 0.503264,0 0.883324,0.118392 1.141196,0.355467 0.262028,0.232916 0.393266,0.5677598 0.393266,1.0044758 v 0.549288 c -0.145573,0.0042 -0.415535,0.017 -0.81066,0.0378 -0.395124,0.0208 -0.736792,0.04113 -1.023779,0.06192 -0.73618,0.05407 -1.345535,0.226778 -1.828003,0.517922 -0.47831,0.286984 -0.717369,0.780223 -0.717369,1.47897 0,0.428399 0.101804,0.800164 0.305606,1.116263 0.203802,0.31194 0.480585,0.551002 0.829959,0.717369 0.349374,0.162208 0.740807,0.245956 1.173365,0.250115 0.532379,-0.0042 0.966753,-0.11506 1.30365,-0.331342 0.341055,-0.220438 0.580116,-0.471537 0.717369,-0.754364 h 0.04986 v 0.923253 h 1.060773 v -4.466669 c 0.0041,-0.9358218 -0.256033,-1.5685888 -0.780093,-1.8971658 -0.524061,-0.332738 -1.112279,-0.49862 -1.765275,-0.49862 z m 1.484601,3.7243688 v 0.679569 c 0,0.291145 -0.07466,0.564183 -0.22438,0.817896 -0.145571,0.253713 -0.359749,0.457321 -0.642576,0.611211 -0.282826,0.153892 -0.61767,0.230813 -1.004477,0.230813 -0.432557,0 -0.780245,-0.09122 -1.042276,-0.274242 -0.25787,-0.183004 -0.388301,-0.449222 -0.392461,-0.798595 0.0042,-0.357691 0.142884,-0.630731 0.417393,-0.817895 0.278666,-0.187165 0.672374,-0.297263 1.179798,-0.330537 l 0.885452,-0.06193 c 0.453356,-0.03327 0.727868,-0.05214 0.823527,-0.05629 z"
+     style="font-size:8.21007px;line-height:1.25;font-family:Pretendard;-inkscape-font-specification:Pretendard;fill:#ffffff;stroke-width:0.319429"
+     id="path1940"
+     sodipodi:nodetypes="ccccccccccccccscscccscscsccsccccccccccsssscsscccccs" />
+</svg>
