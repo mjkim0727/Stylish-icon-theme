@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="internet-chat.svg"
+   sodipodi:docname="deepin-feedback.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.421875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="4.391796"
+     inkscape:cx="14.458777"
+     inkscape:cy="43.148634"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="0"
@@ -38,26 +38,26 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient868">
-      <stop
-         style="stop-color:#ffe32b;stop-opacity:1;"
-         offset="0"
-         id="stop864" />
-      <stop
-         style="stop-color:#ff9e1d;stop-opacity:1;"
-         offset="1"
-         id="stop866" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient868"
+       xlink:href="#linearGradient2472"
        id="linearGradient4780"
-       x1="30"
-       y1="30"
-       x2="2"
-       y2="2"
+       x1="2"
+       y1="2"
+       x2="30"
+       y2="30"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(2)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2472">
+      <stop
+         style="stop-color:#3ec90e;stop-opacity:1;"
+         offset="0"
+         id="stop2468" />
+      <stop
+         style="stop-color:#75db10;stop-opacity:1;"
+         offset="1"
+         id="stop2470" />
+    </linearGradient>
   </defs>
   <path
      d="M 26,5 C 7.797619,5 4,8.879634 4,27 V 39 C 4,57.120366 7.797619,61 26,61 H 38 C 56.20238,61 60,57.120366 60,39 V 27 C 60,8.879634 56.20238,5 38,5"
