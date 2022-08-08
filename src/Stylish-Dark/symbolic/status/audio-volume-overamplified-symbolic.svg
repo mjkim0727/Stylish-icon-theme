@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="audio-volume-overamplified-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="66.245293"
+     inkscape:cx="6.9967235"
+     inkscape:cy="7.9930207"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1577"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <path
+     id="path1306"
+     style="fill:#f2f2f2"
+     d="M 7.5,2 C 7.3674009,2.0000255 7.2402399,2.0527167 7.1464844,2.1464844 L 4,5 H 2 C 0.8920033,5 0,5.8920033 0,7 v 2 c 0,1.107997 0.8920033,2 2,2 h 2 l 3.1464844,2.853516 C 7.4614806,14.16829 7.9998256,13.945316 8,13.5 V 2.5 C 7.9995926,2.2981544 7.8778722,2.1163436 7.6914062,2.0390625 7.6307931,2.0135845 7.5657493,2.0003104 7.5,2 Z M 7,3.75 v 8.5 L 4.4570312,10 H 4 2 C 1.4460012,10 1,9.5539988 1,9 V 7 C 1,6.4460012 1.4460012,6 2,6 h 2 0.4570312 z"
+     sodipodi:nodetypes="cccssssccccccccccssssccc" />
+  <path
+     id="rect12805"
+     style="fill:#f2f2f2;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 13.5 2 C 13.223 2 13 2.2230003 13 2.5 L 13 13.5 C 13 13.777 13.223 14 13.5 14 C 13.777 14 14 13.777 14 13.5 L 14 2.5 C 14 2.2230003 13.777 2 13.5 2 z M 10.5 5 C 10.223 5 10 5.2230003 10 5.5 L 10 10.5 C 10 10.777 10.223 11 10.5 11 C 10.777 11 11 10.777 11 10.5 L 11 5.5 C 11 5.2230003 10.777 5 10.5 5 z " />
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="go-first.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="52"
+     inkscape:cx="8.0096154"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style id="current-color-scheme" type="text/css">
+      .ColorScheme-Text { color:#f2f2f2; }
+    </style>
+  </defs>
+  <path
+     d="m 9.65625,4.0507812 c -0.1278102,-8e-7 -0.2555851,0.048547 -0.3535156,0.1464844 L 5,8.5 9.3027344,12.804688 c 0.1958678,0.195867 0.5111619,0.195867 0.7070316,0 0.195867,-0.195869 0.19587,-0.511166 0,-0.707032 L 6.9140625,9 H 14.5 C 14.777,9 15.000001,8.7769997 15.000001,8.5 15.000001,8.2230003 14.777,8 14.5,8 H 6.9140625 L 10.009766,4.9042969 c 0.195859,-0.1958769 0.195868,-0.5111631 0,-0.7070313 C 9.9118317,4.0993316 9.7840602,4.0507821 9.65625,4.0507812 Z"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     id="path510" />
+  <circle
+     style="fill:currentColor;stroke-width:1.99999;stroke-linecap:round;stroke-linejoin:round"
+     id="path679"
+     class="ColorScheme-Text"
+     cx="2.5"
+     cy="-8.5"
+     r="1.5"
+     transform="scale(1,-1)" />
+</svg>
