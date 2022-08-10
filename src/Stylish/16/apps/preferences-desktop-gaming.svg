@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="50.1875"
      inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:cy="7.9900374"
      inkscape:window-width="1920"
      inkscape:window-height="1006"
      inkscape:window-x="0"
@@ -62,6 +62,13 @@
      id="path530"
      style="fill:url(#linearGradient1091);fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
      d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
+  <rect
+     style="fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect480"
+     width="9"
+     height="4"
+     x="3.5"
+     y="5.5" />
   <path
      id="path375"
      style="fill:#4d4d4d;fill-opacity:1"
