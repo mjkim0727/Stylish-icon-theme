@@ -5,8 +5,6 @@ Modern icon theme for Linux Desktops
 
 * Fluent-icon-theme by vinceliuice
 
-*
-
 ## Preview
 
 ![folder-colors](images/folder-color-icons.png)
