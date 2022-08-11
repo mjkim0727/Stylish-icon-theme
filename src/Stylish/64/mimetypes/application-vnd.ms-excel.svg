@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000004"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-vnd.ms-excel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="12.90625"
+     inkscape:cx="31.961259"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect234"
+     style="opacity:0.2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14.000001,4.9999999 H 38 L 54.000001,21.000001 v 36.000001 c 0,2.216 -1.784,4 -4,4 h -36 c -2.216,0 -4,-1.784 -4,-4 V 9.0000001 c 0,-2.2160001 1.784,-4.0000002 4,-4.0000002 z"
+     sodipodi:nodetypes="sccssssss" />
+  <path
+     id="rect448"
+     style="fill:#407855;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14.000001,4.0000001 H 38 l 6.000001,10.0000009 10,6 v 36.000001 c 0,2.216 -1.784,4 -4,4 h -36 c -2.216,0 -4,-1.784 -4,-4 V 8.0000003 c 0,-2.2160001 1.784,-4.0000002 4,-4.0000002 z"
+     sodipodi:nodetypes="scccssssss" />
+  <rect
+     style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:7.99998;stroke-linejoin:bevel"
+     id="rect25302"
+     width="22"
+     height="28"
+     x="23"
+     y="26"
+     ry="1.9999999" />
+  <path
+     id="rect29937"
+     style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:7.99998;stroke-linejoin:bevel"
+     d="m 23.000001,33.000001 v 6.999805 h 11 L 34,33.000001 Z m 11,6.999805 v 7.0001 L 45,47.000094 V 40 Z"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     id="path29903"
+     style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:3.99998;stroke-linejoin:bevel"
+     d="m 23,39.999806 v 12.000097 c 0,1.107998 0.892002,2.000004 2,2.000004 l 18,1.9e-4 c 1.108,0 2,-0.892006 2,-2.000006 v -4.999993 l -10.999999,-1.92e-4 v -7.0001 z"
+     sodipodi:nodetypes="csccscccc" />
+  <path
+     id="rect28337"
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:3.99998;stroke-linejoin:bevel"
+     d="m 24.949219,26.000193 c -1.083878,0.02728 -1.949218,0.909314 -1.949218,2 v 4.999808 H 34 v -6.999808 h -8.999999 c -0.0174,0 -0.03356,-4.34e-4 -0.0508,0 z M 34,33.000001 V 40 h 11 v -6.999999 z"
+     sodipodi:nodetypes="cscccsccccccc" />
+  <path
+     d="M 54.000001,21.000001 H 42 c -2.216,0 -4,-1.784 -4,-4.000001 V 4.0000001 L 54.000001,20.000001 Z"
+     style="opacity:0.2;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     id="path611"
+     sodipodi:nodetypes="cssccc" />
+  <path
+     id="rect600"
+     style="fill:#b8cdc0;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 54.000001,20.000001 H 42 c -2.216,0 -4,-1.784 -4,-4.000001 V 4.0000001 L 46.000001,12 Z"
+     sodipodi:nodetypes="cssccc" />
+  <rect
+     style="fill:#407855;fill-opacity:1;stroke-width:2"
+     id="rect3242"
+     width="18"
+     height="18"
+     x="14"
+     y="31"
+     ry="3" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999994"
+     id="rect2687"
+     width="16"
+     height="16"
+     x="15"
+     y="31.999914"
+     ry="1.9999994" />
+  <path
+     id="rect1366"
+     style="fill:#407855;stroke-linecap:round;stroke-linejoin:round"
+     d="m 18,34 3.5,6 -3.5,6 h 2 L 22.5,41.714844 25,46 h 2 L 23.5,40 27,34 H 25 L 22.5,38.285156 20,34 Z" />
+</svg>
