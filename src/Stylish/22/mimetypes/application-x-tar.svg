@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-x-tar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.363636"
+     inkscape:cx="11.01375"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect234"
+     style="opacity:0.2;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="m 4,2 h 9 l 6,6 v 13 c 0,0.554 -0.446,1 -1,1 H 4 C 3.446,22 3,21.554 3,21 V 3 C 3,2.446 3.446,2 4,2 Z"
+     sodipodi:nodetypes="sccssssss" />
+  <path
+     id="rect448"
+     style="fill:#d0684d;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="m 4,1 h 9 l 1,4 5,2 v 13 c 0,0.554 -0.446,1 -1,1 H 4 C 3.446,21 3,20.554 3,20 V 2 C 3,1.446 3.446,1 4,1 Z"
+     sodipodi:nodetypes="scccssssss" />
+  <path
+     id="rect287"
+     style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 6 1 L 6 2 L 7 2 L 7 1 L 6 1 z M 7 2 L 7 3 L 8 3 L 8 2 L 7 2 z M 7 3 L 6 3 L 6 4 L 7 4 L 7 3 z M 7 4 L 7 5 L 8 5 L 8 4 L 7 4 z M 7 5 L 6 5 L 6 6 L 7 6 L 7 5 z M 7 6 L 7 7 L 8 7 L 8 6 L 7 6 z M 7 7 L 6 7 L 6 8 L 7 8 L 7 7 z M 7 8 L 7 9 L 8 9 L 8 8 L 7 8 z M 7 9 L 6 9 L 6 10 L 7 10 L 7 9 z M 7 10 L 7 11 L 8 11 L 8 10 L 7 10 z M 6 12 L 6 14.5 C 6 14.777 6.2230003 15 6.5 15 L 7.5 15 C 7.7769997 15 8 14.777 8 14.5 L 8 12 L 6 12 z " />
+  <path
+     d="M 19,8 H 14 C 13.446,8 13,7.554 13,7 V 1 l 6,6 z"
+     style="opacity:0.2;fill:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     id="path611"
+     sodipodi:nodetypes="cssccc" />
+  <path
+     id="rect600"
+     style="fill:#edc4ba;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 19,7 H 14 C 13.446,7 13,6.554 13,6 V 1 Z"
+     sodipodi:nodetypes="csscc" />
+</svg>
