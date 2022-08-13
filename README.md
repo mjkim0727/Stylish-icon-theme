@@ -12,3 +12,5 @@ Modern icon theme for Linux Desktops
 ## Screenshots
 
 ![kde](images/kde_screenshot.png)
+
+![gnome](images/gnome_screenshot.png)
