@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg361"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="fcitx-hangul.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview363"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.454545"
+     inkscape:cx="10.986284"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg361" />
+  <defs
+     id="defs358">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     id="rect584"
+     style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="M 5,3 C 3.8920022,3 3,3.8920022 3,5 v 12 c 0,1.107998 0.8920022,2 2,2 h 12 c 1.107998,0 2,-0.892002 2,-2 V 5 C 19,3.8920022 18.107998,3 17,3 Z m 0,1 h 12 c 0.553998,0 1,0.4460012 1,1 v 12 c 0,0.553998 -0.446002,1 -1,1 H 5 C 4.4460012,18 4,17.553998 4,17 V 5 C 4,4.4460012 4.4460012,4 5,4 Z m 3,1 v 1 h 2 V 5 Z m 6,1 v 8 h 1 v -4 h 2 V 9 H 15 V 6 Z M 6,7 v 1 h 6 V 7 Z M 9,9 C 7.4031016,9 6,10.057701 6,11.5 6,12.942299 7.4031016,14 9,14 10.596898,14 12,12.942299 12,11.5 12,10.057701 10.596898,9 9,9 Z m 0,1 c 1.164499,0 2,0.733201 2,1.5 C 11,12.266799 10.164499,13 9,13 7.8355012,13 7,12.266799 7,11.5 7,10.733201 7.8355012,10 9,10 Z m -1,5 v 2 h 8 V 16 H 9 v -1 z"
+     class="ColorScheme-Text"
+     sodipodi:nodetypes="sssssssssssssssssscccccccccccccccccccssssssssssccccccc" />
+</svg>

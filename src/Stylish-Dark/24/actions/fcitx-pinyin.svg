@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg361"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="fcitx-pinyin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview363"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="33.416667"
+     inkscape:cx="11.985037"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg361" />
+  <defs
+     id="defs358">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     id="rect584"
+     style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     class="ColorScheme-Text"
+     d="M 6,4 C 4.8920033,4 4,4.8920033 4,6 v 12 c 0,1.107997 0.8920033,2 2,2 h 12 c 1.107997,0 2,-0.892003 2,-2 V 6 C 20,4.8920033 19.107997,4 18,4 Z m 0,1 h 12 c 0.553997,0 1,0.4460018 1,1 v 12 c 0,0.553997 -0.446003,1 -1,1 H 6 C 5.4460018,19 5,18.553997 5,18 V 6 C 5,5.4460018 5.4460018,5 6,5 Z M 11.900391,5.6992188 11.099609,6.3007812 12.375,8 H 11 v 1 h 1 v 3 H 10.117188 L 10.222656,11.949219 9.7773438,11.050781 9,11.439453 V 9 h 1 V 8 H 9 V 6 H 8 V 8 H 6 v 1 h 2 v 2.939453 L 5.7773438,13.050781 6.2226562,13.949219 8,13.060547 V 17 H 6 v 1 h 3 v -5.439453 l 1,-0.5 V 13 h 1.960938 c -0.089,0.899999 -0.39197,1.610548 -0.792969,2.310547 -0.4973,0.859999 -1.5097659,1.826172 -1.5097659,1.826172 l 0.6835939,0.728515 c 0,0 1.070407,-0.984688 1.691406,-2.054687 0.449,-0.779999 0.829782,-1.690548 0.925781,-2.810547 H 15 v 5 h 1 v -5 h 2 V 12 H 16 V 9 h 2 V 8 h -2.375 l 1.275391,-1.6992188 -0.800782,-0.6015624 -1.5,2 L 14.998047,8 H 13.001953 L 13.400391,7.6992188 Z M 13,9 h 2 v 3 h -2 z" />
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg361"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="fcitx-rime.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview363"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="33.416667"
+     inkscape:cx="11.985037"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg361" />
+  <defs
+     id="defs358">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     id="rect584"
+     style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     class="ColorScheme-Text"
+     d="M 6,4 C 4.8920056,4 4,4.8920056 4,6 v 12 c 0,1.107995 0.8920056,2 2,2 h 12 c 1.107995,0 2,-0.892005 2,-2 V 6 C 20,4.8920056 19.107995,4 18,4 Z m 0,1 h 12 c 0.553995,0 1,0.446003 1,1 v 12 c 0,0.553995 -0.446005,1 -1,1 H 6 C 5.446003,19 5,18.553995 5,18 V 6 C 5,5.446003 5.446003,5 6,5 Z m 5,1 v 6.982422 C 9.1890018,12.900822 8.2794807,12.375834 7.7382812,11.490234 7.1483818,10.525035 7,8.979198 7,7 H 6 C 6,9.020798 6.1016195,10.724967 6.8867188,12.009766 7.613318,13.198664 8.9496021,13.883669 11,13.980469 V 17 H 6 v 1 h 11 v -1 h -5 v -3.019531 c 2.049998,-0.0968 3.387282,-0.781805 4.113281,-1.970703 C 16.89828,10.724967 17,9.020798 17,7 h -1 c 0,1.979198 -0.148282,3.525035 -0.738281,4.490234 -0.541,0.8856 -1.45072,1.410588 -3.261719,1.492188 V 6 Z" />
+</svg>

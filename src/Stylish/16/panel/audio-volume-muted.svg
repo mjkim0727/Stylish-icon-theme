@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="audio-volume-muted.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="52"
+     inkscape:cx="6.4230769"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1577"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <path
+     id="path1306"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 7.5 2 C 7.367401 2.0000255 7.2402398 2.0527168 7.1464844 2.1464844 L 4 5 L 2 5 C 0.89200441 5 0 5.8920044 0 7 L 0 9 C 0 10.107996 0.89200441 11 2 11 L 4 11 L 7.1464844 13.853516 C 7.4614803 14.168289 7.9998256 13.945316 8 13.5 L 8 2.5 C 7.9995926 2.2981546 7.8778721 2.1163435 7.6914062 2.0390625 C 7.6307932 2.0135845 7.5657492 2.0003104 7.5 2 z M 7 3.75 L 7 12.25 L 4.4570312 10 L 4 10 L 2 10 C 1.4460018 10 1 9.5539982 1 9 L 1 7 C 1 6.4460018 1.4460018 6 2 6 L 4 6 L 4.4570312 6 L 7 3.75 z M 10.732422 5.5253906 L 10.025391 6.2324219 L 11.792969 8 L 10.025391 9.7675781 L 10.732422 10.474609 L 12.5 8.7070312 L 14.267578 10.474609 L 14.974609 9.7675781 L 13.207031 8 L 14.974609 6.2324219 L 14.267578 5.5253906 L 12.5 7.2929688 L 10.732422 5.5253906 z " />
+</svg>
