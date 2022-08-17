@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="11.785113"
-     inkscape:cx="6.2791082"
-     inkscape:cy="15.146227"
+     inkscape:zoom="35.909091"
+     inkscape:cx="9.913924"
+     inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -36,23 +36,35 @@
   <defs
      id="defs2" />
   <rect
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-linejoin:round"
-     id="rect234"
-     width="22"
-     height="18"
-     x="5.0000001e-08"
-     y="2"
-     ry="0.5" />
-  <rect
-     style="fill:#fafafa;fill-opacity:1;stroke-width:2.31345;stroke-linejoin:round"
-     id="rect2307"
+     style="opacity:0.2;fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     id="rect344"
      width="20"
      height="16"
      x="1"
-     y="3" />
+     y="4"
+     ry="2" />
+  <rect
+     style="fill:#eaeaea;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     id="rect234"
+     width="20"
+     height="16"
+     x="1"
+     y="3"
+     ry="2" />
   <path
-     d="M 6.7039139,5.9972165 5.9975001,6.7036308 10.293869,11 l -4.2963689,4.296369 0.7064138,0.706415 4.2963691,-4.29637 4.295803,4.29637 L 16.0025,15.29637 11.706131,11 16.0025,6.7036303 15.296086,5.9972165 11.000283,10.293586 Z"
-     style="fill:#f46062;fill-rule:evenodd;stroke-width:0.944075;paint-order:fill markers stroke"
-     id="path5343"
-     sodipodi:nodetypes="ccccccccccccc" />
+     d="M 6.901617,12.732045 3,17 h 8.99988 L 8.251261,12.732045 c -0.302912,-0.344878 -1.029504,-0.3502 -1.349644,0 z"
+     style="opacity:0.6;fill:#999999;stroke-width:0.111611;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path1600"
+     sodipodi:nodetypes="sccss" />
+  <path
+     id="rect234-6"
+     style="fill:#999999;stroke-width:0.111611;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 12.401557,11.233089 6.99996,17 H 18.9998 l -5.248599,-5.766911 c -0.30896,-0.339471 -1.025285,-0.346296 -1.349644,0 z"
+     sodipodi:nodetypes="sccss" />
+  <circle
+     style="fill:#999999;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="path3505"
+     cx="6"
+     cy="7"
+     r="2" />
 </svg>

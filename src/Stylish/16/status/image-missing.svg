@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="49.375"
-     inkscape:cx="8.0101266"
-     inkscape:cy="8.0101266"
+     inkscape:cx="7.2101266"
+     inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -36,22 +36,27 @@
   <defs
      id="defs2" />
   <rect
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     style="fill:#eaeaea;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
      id="rect234"
      width="16"
      height="14"
      x="0"
      y="1"
      ry="1" />
-  <rect
-     style="fill:#fafafa;fill-opacity:1;stroke-width:3.1622;stroke-linejoin:round"
-     id="rect2307"
-     width="14"
-     height="12"
-     x="1"
-     y="2" />
+  <circle
+     style="fill:#999999;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+     id="path3505"
+     cx="3.5"
+     cy="4.5"
+     r="1.5" />
   <path
-     id="rect915"
-     style="opacity:1;fill:#f46062;fill-opacity:1;stroke-linejoin:round"
-     d="M 4.4644661,5.1715729 7.2928932,8 4.4644661,10.828427 5.1715729,11.535534 8,8.7071068 10.828427,11.535534 11.535534,10.828427 8.7071068,8 11.535534,5.1715729 10.828427,4.4644661 8,7.2928932 5.1715729,4.4644661 Z" />
+     d="M 4.601112,9.17 1,13.015341 H 9 L 5.500887,9.17 C 5.294931,8.9436651 4.817334,8.9391139 4.601112,9.17 Z"
+     style="opacity:0.6;fill:#999999;stroke-width:0.0744079;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path1600"
+     sodipodi:nodetypes="sccss" />
+  <path
+     id="rect234-3"
+     style="fill:#999999;stroke-width:0.0744079;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 9.6011125,8.1706826 5,13.015341 H 15 L 10.500887,8.1706826 c -0.20824,-0.2242344 -0.6835623,-0.2308948 -0.8997745,0 z"
+     sodipodi:nodetypes="sccss" />
 </svg>
