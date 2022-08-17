@@ -7,6 +7,8 @@ Modern icon theme for Linux Desktops
 
 ## Preview
 
+![preview](images/icon-preview.png)
+
 ![folder-colors](images/folder-color-icons.png)
 
 ## Screenshots
