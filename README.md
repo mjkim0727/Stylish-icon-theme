@@ -5,6 +5,12 @@ Modern icon theme for Linux Desktops
 
 * Fluent-icon-theme by vinceliuice
 
+## To-Dos
+
+- [ ] Folder Icons with KDE Color Scheme
+
+- [ ] Packaging Icon Theme
+
 ## Preview
 
 ![preview](images/icon-preview.png)
@@ -13,6 +19,10 @@ Modern icon theme for Linux Desktops
 
 ## Screenshots
 
+* ![kde_icon](src/Stylish/16/apps/desktop-environment-kde.svg) KDE
+
 ![kde](images/kde_screenshot.png)
+
+* ![gnome_icon](src/Stylish/16/apps/desktop-environment-gnome.svg) GNOME
 
 ![gnome](images/gnome_screenshot.png)
