@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg16331"
+   sodipodi:docname="network-wired-secure.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16335">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview16333"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="49.6875"
+     inkscape:cx="1.9924528"
+     inkscape:cy="7.9899371"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16331" />
+  <path
+     d="M 3.501953,4 C 3.3739433,3.999444 3.2460371,4.0531824 3.1562499,4.1621094 L 0.14453108,7.0898438 C 0.05049678,7.1996977 -8.4205e-4,7.3395894 -1.7e-7,7.484375 c 0,0.1424156 0.0466572,0.2866828 0.140625,0.3964844 L 3.1308593,10.832031 c 0.1893598,0.21992 0.4971033,0.219873 0.6894531,0.002 0.1913208,-0.228745 0.1921216,-0.561305 0.00195,-0.791015 L 0.99999983,7.5 3.8437499,4.9570312 C 4.0346779,4.7281405 4.0354779,4.3958691 3.845703,4.1660156 3.7568597,4.0563128 3.6299627,4.000556 3.501953,4 Z m 9.023438,0.00391 c -0.12801,-5.56e-4 -0.255916,0.053183 -0.345703,0.1621094 -0.191324,0.2287431 -0.192119,0.5613031 -0.002,0.7910156 L 15,7.5 12.15625,10.042969 c -0.190931,0.228889 -0.191725,0.56116 -0.002,0.791015 0.18936,0.21992 0.499056,0.220826 0.691406,0.0039 L 15.855469,7.9101562 C 15.949499,7.8003023 16.000842,7.6604106 16,7.515625 16.002092,7.3710989 15.95203,7.2317513 15.859375,7.1210938 L 12.869141,4.1679688 C 12.780297,4.0582659 12.6534,4.0044623 12.525391,4.0039062 Z"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     id="path344"
+     sodipodi:nodetypes="sccccccccccsccccccccccccc" />
+  <path
+     id="rect8392"
+     style="color:#f2f2f2;fill:currentColor;fill-opacity:1;stroke-width:1.6527;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="M 8,4 C 6.892002,4 6,4.892002 6,6.0000003 v 1 H 5 V 11 h 6 V 7.0000003 h -1 v -1 C 10,4.892002 9.107998,4 8,4 Z m 0,1 c 0.553998,0 1,0.4460023 1,1.0000003 v 1 H 7 v -1 C 7,5.4460023 7.446002,5 8,5 Z"
+     class="ColorScheme-Text" />
+</svg>

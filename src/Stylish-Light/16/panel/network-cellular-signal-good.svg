@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="network-cellular-signal-good.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="25.65625"
+     inkscape:cx="1.3057247"
+     inkscape:cy="10.017052"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <rect
+     style="opacity:0.2;fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+     id="rect788"
+     width="2"
+     height="14"
+     x="13"
+     y="1"
+     ry="1"
+     class="ColorScheme-Text" />
+  <path
+     id="rect898"
+     style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+     d="m 10,4.0000003 c -0.553999,0 -1,0.4460006 -1,1 V 14 c 0,0.553999 0.446001,1 1,1 0.553999,0 1,-0.446001 1,-1 V 5.0000003 c 0,-0.5539994 -0.446001,-1 -1,-1 z m -4,3 c -0.553999,0 -1,0.4460006 -1,1 V 14 c 0,0.553999 0.446001,1 1,1 0.553999,0 1,-0.446001 1,-1 V 8.0000003 c 0,-0.5539994 -0.446001,-1 -1,-1 z M 2,11 c -0.553999,0 -1,0.446001 -1,1 v 2 c 0,0.553999 0.446001,1 1,1 0.553999,0 1,-0.446001 1,-1 V 12 C 3,11.446001 2.553999,11 2,11 Z"
+     class="ColorScheme-Text" />
+</svg>

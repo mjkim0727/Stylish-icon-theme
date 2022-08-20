@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="network-cellular-secure-signal-low.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="33.416667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     id="rect788"
+     style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="m 6,15 c -0.5539988,0 -1,0.446002 -1,1 v 2 c 0,0.553997 0.4460012,1 1,1 0.5539988,0 1,-0.446003 1,-1 V 16 C 7,15.446002 6.5539988,15 6,15 Z"
+     sodipodi:nodetypes="sssssss" />
+  <path
+     id="path5973"
+     style="color:#f2f2f2;opacity:0.2;fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+     d="m 18,5 c -0.553996,0 -1,0.4460024 -1,1 v 6 c 0.769588,0 1.470029,0.286663 2,0.759766 V 6 C 19,5.4460024 18.553996,5 18,5 Z m -4,3 c -0.553997,0 -1,0.4460024 -1,1 v 6 h 1 c 0,-0.892405 0.385452,-1.691632 1,-2.240234 V 9 C 15,8.4460024 14.553996,8 14,8 Z m -4,3 c -0.5539982,0 -1,0.446002 -1,1 v 6 c 0,0.553996 0.4460018,1 1,1 0.553998,0 1,-0.446004 1,-1 v -6 c 0,-0.553998 -0.446002,-1 -1,-1 z" />
+  <path
+     id="rect8392"
+     style="color:#f2f2f2;fill:currentColor;fill-opacity:1;stroke-width:1.6527;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="m 17,13 c -1.107998,0 -2,0.892002 -2,2 v 1 h -1 v 4 h 6 v -4 h -1 v -1 c 0,-1.107998 -0.892002,-2 -2,-2 z m 0,1 c 0.553998,0 1,0.446002 1,1 v 1 h -2 v -1 c 0,-0.553998 0.446002,-1 1,-1 z"
+     class="ColorScheme-Text" />
+</svg>
