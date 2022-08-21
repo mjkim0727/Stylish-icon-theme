@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="winetricks.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.3125"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1694"
+       id="linearGradient4780"
+       x1="2"
+       y1="2"
+       x2="30"
+       y2="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(4)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1694">
+      <stop
+         style="stop-color:#940e0e;stop-opacity:1;"
+         offset="0"
+         id="stop1690" />
+      <stop
+         style="stop-color:#d17979;stop-opacity:1;"
+         offset="1"
+         id="stop1692" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 52,9 C 15.595238,9 8,16.759268 8,53 v 24 c 0,36.24073 7.595238,44 44,44 h 24 c 36.40476,0 44,-7.75927 44,-44 V 53 C 120,16.759268 112.40476,9 76,9"
+     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="path563" />
+  <path
+     id="path530"
+     style="fill:url(#linearGradient4780);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z" />
+  <path
+     id="rect1693"
+     style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:3.99998"
+     d="m 40,30 c 2e-6,4.41828 -3.581722,8.000004 -8,8.000002 4.418278,-2e-6 8,3.581722 8,8 0,-4.418278 3.581722,-8 8,-8 -4.418278,0 -8,-3.581724 -8,-8.000002 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 56.000002,46 c 0,3.31371 -2.686292,6.000004 -6.000002,6.000002 3.31371,0 6.000002,2.686292 6.000002,5.999998 0,-3.313706 2.686292,-5.999998 5.999998,-5.999998 -3.313706,0 -5.999998,-2.686292 -5.999998,-6.000002 z"
+     style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:0.793746"
+     id="path4839" />
+  <g
+     id="g2705"
+     transform="matrix(5.3450592,5.3450592,-5.3450592,5.3450592,45.315528,-59.336286)"
+     style="fill:#ffffff">
+    <path
+       id="rect864"
+       style="fill:#ffffff;stroke-width:0.529167;stroke-linejoin:round"
+       d="m 14.2875,6.3499998 v 8.9958332 c 0,0.146579 -0.118004,0.264583 -0.264583,0.264583 h -0.79375 c -0.146579,0 -0.264584,-0.118004 -0.264584,-0.264583 V 6.3499998 Z"
+       sodipodi:nodetypes="csssscc" />
+    <path
+       id="rect2084"
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
+       d="m 13.229167,3.96875 h 0.79375 c 0.146579,0 0.264583,0.1180042 0.264583,0.2645833 V 6.3499998 H 12.964583 V 4.2333333 c 0,-0.1465791 0.118005,-0.2645833 0.264584,-0.2645833 z"
+       sodipodi:nodetypes="sssccss" />
+  </g>
+  <path
+     d="m 64,20 c 4e-6,5.522848 -4.47715,10.000004 -10,10 5.52285,0 10,4.477154 10,10 0,-5.522846 4.477152,-10 10,-10 -5.522848,0 -10,-4.477152 -10,-10 z"
+     style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:1.32291"
+     id="path5282" />
+</svg>

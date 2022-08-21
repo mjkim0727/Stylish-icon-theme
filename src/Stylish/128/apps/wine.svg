@@ -25,38 +25,38 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.390625"
-     inkscape:cx="63.92176"
+     inkscape:zoom="6.3125"
+     inkscape:cx="64"
      inkscape:cy="64"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3147"
+       xlink:href="#linearGradient1694"
        id="linearGradient4780"
-       x1="30"
-       y1="30"
-       x2="2"
-       y2="2"
+       x1="2"
+       y1="2"
+       x2="30"
+       y2="30"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(4)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3147">
+       id="linearGradient1694">
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#940e0e;stop-opacity:1;"
          offset="0"
-         id="stop3143" />
+         id="stop1690" />
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#d17979;stop-opacity:1;"
          offset="1"
-         id="stop3145" />
+         id="stop1692" />
     </linearGradient>
   </defs>
   <path
@@ -66,10 +66,10 @@
   <path
      id="path530"
      style="fill:url(#linearGradient4780);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z" />
+     d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z"
+     sodipodi:nodetypes="sssssssss" />
   <path
-     id="rect238"
-     style="fill:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
-     d="m 34,26 c -4.431992,0 -8,3.568012 -8,8 V 62 H 62 V 26 Z m 32,0 v 36 h 36 V 34 c 0,-4.431992 -3.568016,-8 -8,-8 z M 26,66 v 28 c 0,4.431984 3.568016,8 8,8 H 62 V 66 Z m 40,0 v 36 h 28 c 4.431984,0 8,-3.568016 8,-8 V 66 Z"
-     sodipodi:nodetypes="sscccscccssccsscccccsscc" />
+     id="rect394"
+     style="fill:#ffffff;stroke-width:8"
+     d="m 64,24 c -9.505724,0.0086 -15.392668,1.764118 -20,4 v 32 c 0,10.404708 7.86609,18.904954 18,19.902344 V 96.0625 A 12,4 0 0 0 52,100 12,4 0 0 0 64,104 12,4 0 0 0 76,100 12,4 0 0 0 66,96.058594 V 79.902344 C 76.13391,78.904954 84,70.404708 84,60 V 28 C 79.392668,25.764116 73.505724,24.008652 64,24 Z m 9,20 c 2.788896,-0.04752 5.486324,2.292328 7,4 V 60 C 80,68.863968 72.863968,76 64,76 55.136032,76 48,68.863968 48,60 V 48 c 0.705716,1.255712 4.58174,4 9,4 4.41826,0 7.686628,-2.745876 9,-4 1.070232,-1.023536 4.8964,-4.022608 7,-4 z" />
 </svg>

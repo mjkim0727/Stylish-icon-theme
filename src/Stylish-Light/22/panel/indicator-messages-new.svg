@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22.000002"
+   version="1.1"
+   id="svg356"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="indicator-messages-new.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview358"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg356" />
+  <defs
+     id="defs353">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#3daee9; }
+    </style>
+  </defs>
+  <path
+     id="path346"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 5,5 C 3.8920011,5 3,5.8920011 3,7 v 8 c 0,1.107999 0.8920011,2 2,2 h 8.341797 A 3.5,3.5 0 0 1 13.035156,16 H 5 C 4.5111205,16 4.1255193,15.645942 4.0371094,15.183594 l 4.4609375,-3.550781 1.1699221,0.93164 c 0.730869,0.58201 1.933163,0.58201 2.664062,0 l 1.169922,-0.93164 1.136719,0.904296 a 3.5,3.5 0 0 1 1.044922,-0.43164 L 14.294922,11 18,8.0488281 v 4.2890629 a 3.5,3.5 0 0 1 1,0.714843 V 7 C 19,5.8920011 18.107999,5 17,5 Z m 0,1 h 12 c 0.48888,0 0.874481,0.3540567 0.962891,0.8164062 l -6.423828,5.1152348 c -0.30559,0.243349 -0.772566,0.243349 -1.078126,0 L 4.0371094,6.8164062 C 4.1255153,6.3540567 4.5111205,6 5,6 Z M 4,8.0488281 7.7050781,11 4,13.951172 Z" />
+  <circle
+     style="opacity:1;fill:currentColor;fill-opacity:1"
+     id="path340"
+     cx="16.5"
+     cy="15.5"
+     r="2.5"
+     class="ColorScheme-Highlight" />
+</svg>
