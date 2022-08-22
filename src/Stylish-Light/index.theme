@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Stylish (Light)
 Comment=Modern icon theme for Light theme
-Inherits=Papirus,Breeze,hicolor
+Inherits=Breeze,hicolor
 
 Example=folder
 FollowsColorScheme=true
