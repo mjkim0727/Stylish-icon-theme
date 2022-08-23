@@ -26,3 +26,7 @@ Modern icon theme for Linux Desktops
 * ![gnome_icon](src/Stylish/16/apps/desktop-environment-gnome.svg) GNOME
 
 ![gnome](images/gnome_screenshot.png)
+
+* Cinnamon
+
+![cinnamon](images/cinnamon_screenshot.png)
