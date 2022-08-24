@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="redshift-status-off-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="52"
+     inkscape:cx="8"
+     inkscape:cy="8.0192308"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1577"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <path
+     d="m 7.9999996,4.9999999e-8 c -2.7614181,0 -5,2.238581850000001 -5,4.999999950000002 3e-7,3.9237527 3,3.8514835 3,7 H 9.9999994 C 9.9999994,8.829344 13,8.985828 13,5.0000001 13,2.238582 10.761418,5.0000001e-8 7.9999996,4.9999999e-8 Z M 7.9999996,1 C 10.20913,1 12,2.7908698 12,5 12,7.999988 8.9999987,9.0000081 8.9999997,11 H 6.9999996 c 2e-7,-1.9999919 -2.9999997,-3.000012 -3,-6 0,-2.2091302 1.7908698,-4 4,-4 z m -2,12 v 1 h 3.9999998 v -1 z m 1,2 v 1 h 2.0000001 v -1 z"
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:1.63299;stroke-linecap:square;stroke-linejoin:round;opacity:0.2"
+     id="path897" />
+</svg>
