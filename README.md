@@ -11,6 +11,24 @@ Modern icon theme for Linux Desktops
 
 - [ ] Packaging Icon Theme
 
+## Install
+
+### via sources
+
+### Via AUR (Arch Distros)
+
+* without AUR Helper
+
+```
+git clone https://aur.archlinux.org/stylish-icon-theme.git
+```
+
+* with AUR Helper
+
+```
+yay -S stylish-icon-theme
+```
+
 ## Preview
 
 ![preview](images/icon-preview.png)
