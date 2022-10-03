@@ -11,6 +11,8 @@ Modern icon theme for Linux Desktops
 
 - [ ] Packaging Icon Theme
 
+- [ ] Improve Compatiblity for OpenSUSE
+
 ## Install
 
 ### via sources
