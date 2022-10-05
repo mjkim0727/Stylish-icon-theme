@@ -1,5 +1,12 @@
 #!/bin/sh
 
+ln -s user-adwaita-desktop.svg folder-adwaita-desktop.svg;
+ln -s folder-adwaita-download.svg folder-adwaita-downloads.svg;
+ln -s folder-adwaita-download-open.svg folder-adwaita-downloads-open.svg;
+ln -s folder-adwaita-pictures.svg folder-adwaita-photos.svg;
+ln -s folder-adwaita-pictures-open.svg folder-adwaita-photos-open.svg;
+ln -s folder-adwaita-template.svg folder-adwaita-templates.svg;
+ln -s folder-adwaita-template-open.svg folder-adwaita-templates-open.svg;
 ln -s user-black-desktop.svg folder-black-desktop.svg;
 ln -s folder-black-download.svg folder-black-downloads.svg;
 ln -s folder-black-download-open.svg folder-black-downloads-open.svg;
