@@ -1,5 +1,12 @@
 #!/bin/sh
 
+ln -s user-adwaita-desktop.svg folder-adwaita-desktop.svg;
+ln -s folder-adwaita-download.svg folder-adwaita-downloads.svg;
+ln -s folder-adwaita-download-open.svg folder-adwaita-downloads-open.svg;
+ln -s folder-adwaita-pictures.svg folder-adwaita-photos.svg;
+ln -s folder-adwaita-pictures-open.svg folder-adwaita-photos-open.svg;
+ln -s folder-adwaita-template.svg folder-adwaita-templates.svg;
+ln -s folder-adwaita-template-open.svg folder-adwaita-templates-open.svg;
 ln -s user-black-desktop.svg folder-black-desktop.svg;
 ln -s folder-black-download.svg folder-black-downloads.svg;
 ln -s folder-black-download-open.svg folder-black-downloads-open.svg;
@@ -14,6 +21,13 @@ ln -s folder-blue-pictures.svg folder-blue-photos.svg;
 ln -s folder-blue-pictures-open.svg folder-blue-photos-open.svg;
 ln -s folder-blue-template.svg folder-blue-templates.svg;
 ln -s folder-blue-template-open.svg folder-blue-templates-open.svg;
+ln -s user-breeze-desktop.svg folder-blue-desktop.svg;
+ln -s folder-breeze-download.svg folder-blue-downloads.svg;
+ln -s folder-breeze-download-open.svg folder-blue-downloads-open.svg;
+ln -s folder-breeze-pictures.svg folder-blue-photos.svg;
+ln -s folder-breeze-pictures-open.svg folder-blue-photos-open.svg;
+ln -s folder-breeze-template.svg folder-blue-templates.svg;
+ln -s folder-breeze-template-open.svg folder-blue-templates-open.svg;
 ln -s user-green-desktop.svg folder-green-desktop.svg;
 ln -s folder-green-download.svg folder-green-downloads.svg;
 ln -s folder-green-download-open.svg folder-green-downloads-open.svg;
