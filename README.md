@@ -9,7 +9,7 @@ Modern icon theme for Linux Desktops
 
 - [ ] Folder Icons with KDE Color Scheme
 
-- [ ] Packaging Icon Theme
+- [x] Packaging Icon Theme
 
 - [ ] Improve Compatiblity for OpenSUSE
 
