@@ -50,3 +50,8 @@ yay -S stylish-icon-theme
 * Cinnamon
 
 ![cinnamon](images/cinnamon_screenshot.png)
+
+## Gossips
+
+My icon theme is applied HamoniKR Distro!!!
+ - ![Link](https://docs.hamonikr.org/hamonikr-6.0/#release_note)
