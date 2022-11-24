@@ -13,6 +13,8 @@ Modern icon theme for Linux Desktops
 
 - [ ] Improve Compatiblity for OpenSUSE
 
+- [ ] Developing Android Port Version
+
 ## Install
 
 ### via sources
