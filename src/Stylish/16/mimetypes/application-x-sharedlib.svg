@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="application-x-sharedlib.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="49.25"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect448"
+     style="fill:#eaeaea;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3,0 h 7 L 11.5,2.5 14,4 v 11 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 V 1 C 2,0.446 2.446,0 3,0 Z"
+     sodipodi:nodetypes="scccssssss" />
+  <path
+     id="path896"
+     style="fill:#70717b;stroke-width:0.833333;fill-opacity:1"
+     d="M 7 6 L 7 7.0566406 A 2.5 2.5 0 0 0 6.1230469 7.4160156 L 5.3789062 6.671875 L 4.671875 7.3789062 L 5.4160156 8.1230469 A 2.5 2.5 0 0 0 5.0566406 9 L 4 9 L 4 10 L 5.0566406 10 A 2.5 2.5 0 0 0 5.4160156 10.876953 L 4.671875 11.621094 L 5.3789062 12.328125 L 6.1230469 11.583984 A 2.5 2.5 0 0 0 7 11.943359 L 7 13 L 8 13 L 8 11.943359 A 2.5 2.5 0 0 0 8.8769531 11.583984 L 9.6210938 12.328125 L 10.328125 11.621094 L 9.5839844 10.876953 A 2.5 2.5 0 0 0 9.9433594 10 L 11 10 L 11 9 L 9.9492188 9 A 2.5 2.5 0 0 0 9.5859375 8.1210938 L 10.328125 7.3789062 L 9.6210938 6.671875 L 8.8789062 7.4140625 A 2.5 2.5 0 0 0 8 7.0507812 L 8 6 L 7 6 z M 7.5 8 A 1.5 1.5 0 0 1 9 9.5 A 1.5 1.5 0 0 1 7.5 11 A 1.5 1.5 0 0 1 6 9.5 A 1.5 1.5 0 0 1 7.5 8 z " />
+  <path
+     d="M 14,5 H 11 C 10.446,5 10,4.554 10,4 V 0 l 4,4 z"
+     style="opacity:0.2;fill:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     id="path611"
+     sodipodi:nodetypes="cssccc" />
+  <path
+     id="rect600"
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14,4 H 11 C 10.446,4 10,3.554 10,3 V 0 l 2,2 z"
+     sodipodi:nodetypes="cssccc" />
+</svg>
