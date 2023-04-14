@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="folder-adwaita-open.svg"
+   sodipodi:docname="folder-adwaita-recent.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="49.5"
-     inkscape:cx="8.010101"
+     inkscape:cx="7.989899"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -65,11 +65,11 @@
        xlink:href="#linearGradient3147"
        id="linearGradient3149"
        x1="64"
-       y1="65"
+       y1="61"
        x2="36"
-       y2="21"
+       y2="9"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.25,0,0,0.25,-1,-1.25)" />
+       gradientTransform="matrix(0.25,0,0,0.25,-1,-0.25)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3155"
@@ -77,7 +77,7 @@
        x1="8"
        y1="7"
        x2="8"
-       y2="35"
+       y2="29"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.25,0,0,0.25,-1,-1.75)" />
   </defs>
@@ -89,16 +89,15 @@
   <path
      id="rect1043"
      style="fill:url(#linearGradient3149);fill-opacity:1;stroke-width:0.5"
-     d="M 8,4 7,5.5 C 6.666597,5.806988 6.553999,6 6,6 H 1 C 0.4477158,6 0,6.4477155 0,7 v 7 c 0,0.553998 0.4460017,1 1,1 h 14 c 0.553999,0 1,-0.446002 1,-1 V 5 C 16,4.4460015 15.553999,4 15,4 Z"
+     d="M 8,2 7,3.5 C 6.666597,3.806988 6.553999,4 6,4 H 1 C 0.4477158,4 0,4.4477155 0,5 v 9 c 0,0.553998 0.4460017,1 1,1 h 14 c 0.553999,0 1,-0.446002 1,-1 V 3 C 16,2.4460015 15.553999,2 15,2 Z"
      sodipodi:nodetypes="ccsssssssssc" />
   <path
      id="path3081"
      style="opacity:0.2;fill:#ffffff;stroke-width:0.5"
-     d="M 8,4 7,5.5 C 6.6665975,5.806988 6.553999,6 6,6 H 1 C 0.4477164,6 0,6.447716 0,7 V 8 C 0,7.447716 0.4477164,7 1,7 H 6 C 6.5539985,7 6.666597,6.8069875 7,6.5 L 8,5 h 7 c 0.553998,0 1,0.446002 1,1 V 5 C 16,4.446002 15.553998,4 15,4 Z"
+     d="M 8,2 7,3.5 C 6.6665975,3.806988 6.553999,4 6,4 H 1 C 0.4477164,4 0,4.447716 0,5 V 6 C 0,5.447716 0.4477164,5 1,5 H 6 C 6.5539985,5 6.666597,4.8069875 7,4.5 L 8,3 h 7 c 0.553998,0 1,0.446002 1,1 V 3 C 16,2.446002 15.553998,2 15,2 Z"
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
-     id="rect39727"
-     style="opacity:0.6;fill:#3584e4;fill-opacity:1;stroke-width:1.85164"
-     d="M 6,7 C 5.4460009,7 5.0000003,7.4460006 5.0000003,8 v 5 c 0,0.553999 0.4460006,1 0.9999997,1 h 4 c 0.553999,0 1,-0.446001 1,-1 V 9.5 L 8.5,7 Z m 0,1 h 2 l 2,2 v 3 H 6 Z"
-     sodipodi:nodetypes="ssssssccscccccc" />
+     id="path348"
+     style="opacity:0.6;fill:#3584e4;stroke-width:0.57143;stroke-linejoin:round"
+     d="M 4 6 L 4 9 L 7 9 L 7 8 L 5.765625 8 C 6.314904 7.3864923 7.1118256 7 8 7 C 9.6568478 7 11 8.3431546 11 10 C 11 11.656843 9.6568457 13 8 13 C 7.171577 13 6.4217983 12.663985 5.8789062 12.121094 L 5.171875 12.828125 C 5.8957311 13.551981 6.895436 14 8 14 C 10.209129 14 12 12.209128 12 10 C 12 7.7908721 10.209131 6 8 6 C 6.8050812 6.0000001 5.7328627 6.5247006 5 7.3554688 L 5 6 L 4 6 z M 8 8 L 8 10 L 9.4140625 11.414062 L 10.121094 10.707031 L 9 9.5859375 L 9 8 L 8 8 z " />
 </svg>
