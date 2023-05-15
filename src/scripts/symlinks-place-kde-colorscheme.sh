@@ -1,5 +1,12 @@
 #!/bin/sh
 
+ln -s user-adwaita-desktop.svg folder-adwaita-desktop.svg;
+ln -s folder-adwaita-download.svg folder-adwaita-downloads.svg;
+ln -s folder-adwaita-download-open.svg folder-adwaita-downloads-open.svg;
+ln -s folder-adwaita-pictures.svg folder-adwaita-photos.svg;
+ln -s folder-adwaita-pictures-open.svg folder-adwaita-photos-open.svg;
+ln -s folder-adwaita-template.svg folder-adwaita-templates.svg;
+ln -s folder-adwaita-template-open.svg folder-adwaita-templates-open.svg;
 ln -s user-black-desktop.svg folder-black-desktop.svg;
 ln -s folder-black-download.svg folder-black-downloads.svg;
 ln -s folder-black-download-open.svg folder-black-downloads-open.svg;
@@ -63,15 +70,25 @@ ln -s folder-yellow-pictures.svg folder-yellow-photos.svg;
 ln -s folder-yellow-pictures-open.svg folder-yellow-photos-open.svg;
 ln -s folder-yellow-template.svg folder-yellow-templates.svg;
 ln -s folder-yellow-template-open.svg folder-yellow-templates-open.svg;
-ln -s user-black-desktop.svg folder-black-desktop.svg;
-ln -s folder-black-download.svg folder-black-downloads.svg;
-ln -s folder-black-download-open.svg folder-black-downloads-open.svg;
-ln -s folder-black-pictures.svg folder-black-photos.svg;
-ln -s folder-black-pictures-open.svg folder-black-photos-open.svg;
-ln -s folder-black-template.svg folder-black-templates.svg;
-ln -s folder-black-template-open.svg folder-black-templates-open.svg;
 ln -s folder.svg inode-directory.svg;
 ln -s folder.svg stock_folder.svg;
 ln -s folder-open.svg stock_open.svg;
+ln -s user-trash.svg trashcan_empty.svg;
+ln -s user-trash-full.svg trashcan_full.svg;
+ln -s folder-pictures.svg folder-photos.svg;
+ln -s folder-pictures-open.svg folder-photos-open.svg;
+ln -s folder-publicshare-open.svg folder-public-open.svg;
+ln -s folder-publicshare.svg folder-public.svg;
+ln -s folder-template.svg folder-templates.svg;
+ln -s folder-template-open.svg folder-templates-open.svg;
+ln -s folder-download.svg folder-downloads.svg;
+ln -s folder-download-open.svg folder-downloads-open.svg;
+ln -s folder-network-open.svg folder-remote-open.svg;
+ln -s folder-network.svg folder-remote.svg;
+ln -s folder-music.svg folder-sound.svg;
+ln -s folder-music-open.svg folder-sound-open.svg;
+ln -s folder-videos-open.svg folder-video-open.svg;
+ln -s folder-videos.svg folder-video.svg;
+
 
 exit
