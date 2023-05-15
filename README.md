@@ -13,7 +13,7 @@ Modern icon theme for Linux Desktops
 
 - [ ] Improve Compatiblity for OpenSUSE
 
-- [ ] Developing Android Port Version
+- [ ] Apply G44 Adwaita Color
 
 ## Install
 

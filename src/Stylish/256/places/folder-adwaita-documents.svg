@@ -7,7 +7,7 @@
    viewBox="0 0 256 256"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="folder-adwaita-documents.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2.0670103"
-     inkscape:cx="26.608479"
-     inkscape:cy="149.49127"
+     inkscape:zoom="3.1367188"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,7 +69,7 @@
        x2="32"
        y2="13"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4,0,0,4,3.0584644e-7,3.9999996)" />
+       gradientTransform="matrix(4,0,0,4,1e-6,4)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3155"
@@ -79,7 +79,7 @@
        x2="16"
        y2="24"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4,0,0,4,3.0584644e-7,3.9999996)" />
+       gradientTransform="matrix(4,0,0,4,2e-6,4)" />
   </defs>
   <path
      d="m 32,33 c -8.863992,0 -16,7.136008 -16,16 v 160 c 0,8.864 7.136008,16 16,16 h 192 c 8.864,0 16,-7.136 16,-16 V 73 c 0,-8.863992 -7.136,-16 -16,-16 H 128 L 112,41 c -5.4342,-5.280768 -7.13601,-8 -16,-8 z"
@@ -89,12 +89,12 @@
   <path
      id="rect184"
      style="fill:url(#linearGradient3157);fill-opacity:1;stroke-width:8"
-     d="m 32,32 c -8.863992,0 -16,7.136006 -16,16 v 160 c 0,8.864 7.136008,16 16,16 h 192 c 8.864,0 16,-7.136 16,-16 V 72 c 0,-8.863992 -7.136,-16 -16,-16 H 128 L 112,40 c -5.50953,-5.034684 -7.13601,-8 -16,-8 z"
+     d="m 32.000002,32 c -8.863992,0 -16,7.136006 -16,16 v 160 c 0,8.864 7.136008,16 16,16 H 224 c 8.864,0 16,-7.136 16,-16 V 72 c 0,-8.863992 -7.136,-16 -16,-16 H 128 L 112,40 c -5.50953,-5.034684 -7.13601,-8 -16,-8 z"
      sodipodi:nodetypes="sccsssssccss" />
   <path
      id="rect1043"
      style="fill:url(#linearGradient3149);fill-opacity:1;stroke-width:8"
-     d="m 128,56 -16,16 c -5.33445,4.911808 -7.13601,8 -16,8 H 32 c -8.836548,0 -16,7.163448 -16,16 v 112 c 0,8.86398 7.136026,16 16,16 h 192 c 8.86398,0 16,-7.13602 16,-16 V 72 c 0,-8.863976 -7.13602,-16 -16,-16 z"
+     d="m 128,56 -16,16 c -5.33445,4.911808 -7.13601,8 -16,8 H 32.000001 c -8.836548,0 -16,7.163448 -16,15.999997 V 208 c 0,8.86398 7.136026,16 16,16 H 224 c 8.86398,0 16,-7.13602 16,-16 V 72 c 0,-8.863976 -7.13602,-16 -16,-16 z"
      sodipodi:nodetypes="ccsssssssssc" />
   <path
      id="path3081"
