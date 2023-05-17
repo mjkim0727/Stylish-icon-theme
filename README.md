@@ -7,13 +7,17 @@ Modern icon theme for Linux Desktops
 
 ## To-Dos
 
-- [ ] Folder Icons with KDE Color Scheme
+- [x] Full-Support KDE Color Scheme
+
+ - [x] Folder Color
+
+ - [ ] Preferences icons
 
 - [x] Packaging Icon Theme
 
 - [ ] Improve Compatiblity for OpenSUSE
 
-- [ ] Apply G44 Adwaita Color
+- [x] Apply G44 Adwaita Color
 
 ## Install
 
