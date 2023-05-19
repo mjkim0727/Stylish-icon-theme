@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="libreoffice-base.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.0251392"
-     inkscape:cx="-12.613816"
-     inkscape:cy="31.866484"
+     inkscape:zoom="16.6875"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,7 +39,7 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3523"
+       xlink:href="#linearGradient1370"
        id="linearGradient3500"
        x1="2"
        y1="2"
@@ -49,15 +49,15 @@
        gradientTransform="scale(1.5)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3523">
+       id="linearGradient1370">
       <stop
-         style="stop-color:#af3b72;stop-opacity:1;"
+         style="stop-color:#8a0ac2;stop-opacity:1;"
          offset="0"
-         id="stop3519" />
+         id="stop1366" />
       <stop
-         style="stop-color:#e578ad;stop-opacity:1;"
+         style="stop-color:#d378e5;stop-opacity:1;"
          offset="1"
-         id="stop3521" />
+         id="stop1368" />
     </linearGradient>
   </defs>
   <path
@@ -70,12 +70,13 @@
      d="M 19.5,3 C 5.8482279,3 3,5.9097391 3,19.5 v 9 C 3,42.090261 5.8482279,45 19.5,45 h 9 C 42.151773,45 45,42.090261 45,28.5 v -9 C 45,5.9097391 42.151773,3 28.5,3 Z"
      sodipodi:nodetypes="sssssssss" />
   <path
-     id="path782"
-     style="fill:#f2f2f2;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-     d="M 19.5,6 C 8.2881847,6 6,8.3402331 6,19.5 v 9 C 6,39.659767 8.2881847,42 19.5,42 h 9 C 39.711816,42 42,39.659767 42,28.5 V 18 L 30,6 Z"
-     sodipodi:nodetypes="ssssssccs" />
+     id="path525"
+     style="fill:#e88ff7;fill-opacity:1;stroke-width:1.67705;stroke-linecap:round;stroke-linejoin:round"
+     d="m 18,15 c -3.106593,0 -6,0.807828 -6,2 v 2 c 0,1.192172 2.893407,2 6,2 3.106596,0 6,-0.807828 6,-2 v -2 c 0,-1.192172 -2.893404,-2 -6,-2 z m -6,5 v 3 c 0,1.19217 2.89341,2 6,2 3.106593,0 6,-0.80783 6,-2 v -3 c 0,1.19217 -2.893407,2 -6,2 -3.10659,0 -6,-0.80783 -6,-2 z m 0,4 v 3 c 0,1.19217 2.89341,2 6,2 3.106593,0 6,-0.80783 6,-2 v -3 c 0,1.19217 -2.893407,2 -6,2 -3.10659,0 -6,-0.80783 -6,-2 z m 0,4 v 3 c 0,1.19217 2.89341,2 6,2 3.106593,0 6,-0.80783 6,-2 v -3 c 0,1.19217 -2.893407,2 -6,2 -3.10659,0 -6,-0.80783 -6,-2 z"
+     sodipodi:nodetypes="ssssssscssscsccssscsccssscsc" />
   <path
-     id="path7358"
-     style="fill:#808080;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
-     d="m 24,15 a 7.9999998,3.9999999 0 0 0 -8,4 7.9999998,3.9999999 0 0 0 8,4 7.9999998,3.9999999 0 0 0 8,-4 7.9999998,3.9999999 0 0 0 -8,-4 z m 7.140624,8.195312 A 9.9999998,5.9999999 0 0 1 24,25 9.9999998,5.9999999 0 0 1 16.871094,23.203124 7.9999998,3.9999999 0 0 0 16,25 a 7.9999998,3.9999999 0 0 0 8,4 7.9999998,3.9999999 0 0 0 8,-4 7.9999998,3.9999999 0 0 0 -0.859376,-1.804688 z m 0,6 A 9.9999998,5.9999999 0 0 1 24,31 9.9999998,5.9999999 0 0 1 16.871094,29.203124 7.9999998,3.9999999 0 0 0 16,31 a 7.9999998,3.9999999 0 0 0 8,4 7.9999998,3.9999999 0 0 0 8,-4 7.9999998,3.9999999 0 0 0 -0.859376,-1.804688 z" />
+     id="rect523"
+     style="fill:#ffffff;stroke-width:0.5"
+     d="m 26,17 c -0.554,0 -1,0.446 -1,1 v 14 c 0,0.554 0.446,1 1,1 h 9 c 0.554,0 1,-0.446 1,-1 V 18 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 4 v 4 h -4 z m 5,0 h 4 v 4 h -4 z m -5,5 h 4 v 4 h -4 z m 5,0 h 4 v 4 h -4 z m -5,5 h 4 v 4 h -4 z m 5,0 h 4 v 4 h -4 z"
+     sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccc" />
 </svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="libreoffice-main.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="37.181818"
-     inkscape:cx="5.0831296"
+     inkscape:zoom="36.409091"
+     inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,8 +66,8 @@
      d="M 9,1 C 2.174114,1 1,2.2048695 1,9 v 4 c 0,6.79513 1.174114,8 8,8 h 4 c 6.825886,0 8,-1.20487 8,-8 V 9 C 21,2.2048695 19.825886,1 13,1 Z"
      sodipodi:nodetypes="sssssssss" />
   <path
-     id="path9276"
-     style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
-     d="M 9,3 C 3.9182665,3 3,4.1039036 3,9 v 4 c 0,4.896097 0.9182661,6 6,6 h 4 c 5.081734,0 6,-1.103903 6,-6 V 8 L 14,3 Z"
+     id="rect1873"
+     style="opacity:0.6;fill:#ffffff;stroke-width:0.5"
+     d="m 8,4 c -1.108,-10e-8 -2,0.892001 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 8 L 12,4.0000002 Z"
      sodipodi:nodetypes="ssssssccs" />
 </svg>

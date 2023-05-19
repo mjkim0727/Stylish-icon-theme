@@ -7,7 +7,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="libreoffice-writer.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="34.083333"
-     inkscape:cx="11.98533"
+     inkscape:zoom="33.375"
+     inkscape:cx="11.985019"
      inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
        x2="31.333334"
        y2="31.333334"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.75,0.5,0.50000033)" />
+       gradientTransform="matrix(0.75,0,0,0.75,0.5,0.5)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient976">
@@ -63,16 +63,14 @@
   <path
      id="path530"
      style="fill:url(#linearGradient3500);fill-opacity:1;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
-     d="M 10,2.0000003 C 3.174114,2.0000003 2,3.2048698 2,10 v 4 c 0,6.79513 1.174114,8 8,8 h 4 c 6.825886,0 8,-1.20487 8,-8 V 10 C 22,3.2048698 20.825886,2.0000003 14,2.0000003 Z"
+     d="M 10,2 C 3.174114,2 2,3.2048695 2,10 v 4 c 0,6.79513 1.174114,8 8,8 h 4 c 6.825886,0 8,-1.20487 8,-8 V 10 C 22,3.2048695 20.825886,2 14,2 Z"
      sodipodi:nodetypes="sssssssss" />
   <path
-     id="path9276"
-     style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
-     d="M 10,4.0000003 C 4.9182665,4.0000003 4,5.1039039 4,10 v 4 c 0,4.896097 0.9182661,6 6,6 h 4 c 5.081734,0 6,-1.103903 6,-6 V 9.0000003 l -5,-5 z"
-     sodipodi:nodetypes="ssssssccs" />
-  <path
      id="path6433"
-     style="fill:#808080;stroke-width:0.5"
-     d="M 6,9.0000003 V 10 H 18 V 9.0000003 Z M 6,12 v 1 h 12 v -1 z m 0,3 v 1 h 7 v -1 z"
-     sodipodi:nodetypes="ccccccccccccccc" />
+     style="fill:#ffffff;stroke-width:0.5"
+     d="m 6,8 v 1 h 5 V 8 Z m 0,2 v 1 h 5 v -1 z m 0,2 v 1 h 5 v -1 z m 0,2 v 1 h 12 v -1 z m 0,2 v 1 h 5 v -1 z" />
+  <path
+     id="rect458"
+     style="fill:#7ad2f9;fill-opacity:1"
+     d="m 12,8 v 5 h 6 V 8 Z m 4.5,1 A 0.5,0.5 0 0 1 17,9.5 0.5,0.5 0 0 1 16.5,10 0.5,0.5 0 0 1 16,9.5 0.5,0.5 0 0 1 16.5,9 Z m -2.5,1 2,2 h -3 z" />
 </svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="libreoffice-base.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.78125"
-     inkscape:cx="31.96088"
+     inkscape:zoom="12.515625"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,7 +39,7 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3523"
+       xlink:href="#linearGradient1370"
        id="linearGradient3500"
        x1="2"
        y1="2"
@@ -49,15 +49,15 @@
        gradientTransform="scale(2)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3523">
+       id="linearGradient1370">
       <stop
-         style="stop-color:#af3b72;stop-opacity:1;"
+         style="stop-color:#8a0ac2;stop-opacity:1;"
          offset="0"
-         id="stop3519" />
+         id="stop1366" />
       <stop
-         style="stop-color:#e578ad;stop-opacity:1;"
+         style="stop-color:#d378e5;stop-opacity:1;"
          offset="1"
-         id="stop3521" />
+         id="stop1368" />
     </linearGradient>
   </defs>
   <path
@@ -66,16 +66,16 @@
      id="path563" />
   <path
      id="path530"
-     style="fill:url(#linearGradient3500);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient3500);fill-opacity:1.0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 26,4 C 7.7976372,4 4,7.8796522 4,26 V 38 C 4,56.120348 7.7976372,60 26,60 H 38 C 56.202364,60 60,56.120348 60,38 V 26 C 60,7.8796522 56.202364,4 38,4 Z"
      sodipodi:nodetypes="sssssssss" />
   <path
-     id="path782"
-     style="fill:#f2f2f2;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 26,8 C 11.050913,8 8,11.120311 8,26 v 12 c 0,14.87969 3.050913,18 18,18 H 38 C 52.949088,56 56,52.87969 56,38 V 24 L 40,8 Z"
-     sodipodi:nodetypes="ssssssccs" />
+     id="path525"
+     style="fill:#e88ff7;fill-opacity:1;stroke-width:1.93649;stroke-linecap:round;stroke-linejoin:round"
+     d="M 23.5,20 C 19.357877,20 16,20.807828 16,22 v 3 c 0,1.192172 3.357877,2 7.5,2 4.142123,0 7.5,-0.807828 7.5,-2 v -3 c 0,-1.192172 -3.357877,-2 -7.5,-2 z M 16,27 v 4 c 0,1.192171 3.357881,2 7.5,2 4.142119,0 7.5,-0.807829 7.5,-2 v -4 c 0,1.192171 -3.357881,2 -7.5,2 C 19.357881,29 16,28.192171 16,27 Z m 0,6 v 4 c 0,1.192171 3.357881,2 7.5,2 4.142119,0 7.5,-0.807829 7.5,-2 v -4 c 0,1.192171 -3.357881,2 -7.5,2 C 19.357881,35 16,34.192171 16,33 Z m 0,6 v 4 c 0,1.192171 3.357881,2 7.5,2 4.142119,0 7.5,-0.807829 7.5,-2 v -4 c 0,1.192171 -3.357881,2 -7.5,2 C 19.357881,41 16,40.192171 16,39 Z" />
   <path
-     id="path935"
-     style="fill:#808080;stroke-width:8.04986;stroke-linecap:round;stroke-linejoin:round"
-     d="M 32,19 A 12,6 0 0 0 20,25 12,6 0 0 0 32,31 12,6 0 0 0 44,25 12,6 0 0 0 32,19 Z M 42.617188,30.203124 A 14,8 0 0 1 32,33 14,8 0 0 1 21.402344,30.21875 12,6 0 0 0 20,33 12,6 0 0 0 32,39 12,6 0 0 0 44,33 12,6 0 0 0 42.617188,30.203124 Z m -0.0118,7.992188 A 14,8 0 0 1 32,41 14,8 0 0 1 21.40625,38.203124 12,6 0 0 0 20,41 12,6 0 0 0 32,47 12,6 0 0 0 44,41 12,6 0 0 0 42.605468,38.195312 Z" />
+     id="rect523"
+     style="fill:#ffffff"
+     d="m 36,24 c -1.107999,0 -2,0.892001 -2,2 v 16 c 0,1.107999 0.892001,2 2,2 h 10 c 1.107999,0 2,-0.892001 2,-2 V 26 c 0,-1.107999 -0.892001,-2 -2,-2 z m 0,2 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m -6,6 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m -6,6 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z"
+     sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccc" />
 </svg>
