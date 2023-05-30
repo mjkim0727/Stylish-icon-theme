@@ -13,6 +13,8 @@ Modern icon theme for Linux Desktops
 
  - [ ] Preferences icons
 
+- [ ] Revamp Mimetypes icon
+
 - [x] Packaging Icon Theme
 
 - [ ] Improve Compatiblity for OpenSUSE
