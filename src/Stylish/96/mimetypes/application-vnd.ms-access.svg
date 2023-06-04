@@ -7,10 +7,11 @@
    viewBox="0 0 96 96.000006"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="application-vnd.ms-access.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,17 +25,57 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="8.5208333"
-     inkscape:cx="33.388753"
+     inkscape:zoom="8.2291667"
+     inkscape:cx="47.939241"
      inkscape:cy="48"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient879">
+      <stop
+         style="stop-color:#a4262c;stop-opacity:1;"
+         offset="0"
+         id="stop875" />
+      <stop
+         style="stop-color:#c92e5a;stop-opacity:1;"
+         offset="1"
+         id="stop877" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient879"
+       id="linearGradient2157"
+       x1="20"
+       y1="6"
+       x2="76"
+       y2="90"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient879"
+       id="linearGradient2159"
+       x1="20"
+       y1="6"
+       x2="76"
+       y2="90"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient879"
+       id="linearGradient2161"
+       x1="20"
+       y1="6"
+       x2="76"
+       y2="90"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <path
      id="rect234"
      style="opacity:0.2;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
@@ -42,7 +83,7 @@
      sodipodi:nodetypes="sccssssss" />
   <path
      id="rect448"
-     style="fill:#a4262c;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient2157);fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
      d="m 20,6 h 38 l 9,15 15,9 v 54 c 0,3.324 -2.676,6 -6,6 H 20 c -3.324,0 -6,-2.676 -6,-6 V 12 c 0,-3.324 2.676,-6 6,-6 z"
      sodipodi:nodetypes="scccssssss" />
   <ellipse
@@ -67,7 +108,7 @@
      style="opacity:0.9;fill:#ffffff;fill-opacity:1;stroke-width:7.58969;stroke-linejoin:round"
      id="path5319" />
   <rect
-     style="fill:#a4262c;fill-opacity:1;stroke-width:2.00003"
+     style="fill:url(#linearGradient2159);fill-opacity:1;stroke-width:2.00003"
      id="rect3242"
      width="32.000462"
      height="32.000462"
@@ -84,7 +125,7 @@
      ry="4.0000577" />
   <path
      id="rect11190"
-     style="fill:#a4262c;fill-opacity:1;stroke-width:4.00006;stroke-linejoin:round"
+     style="fill:url(#linearGradient2161);fill-opacity:1;stroke-width:4.00006;stroke-linejoin:round"
      d="m 32.000202,50.000258 -8.000115,20.000289 h 4.000058 l 1.601585,-4.000058 h 8.797001 l 1.601587,4.000058 h 4.000058 L 36.00026,50.000258 Z m 2.000029,5.000072 2.800821,7.000101 h -5.601643 z" />
   <path
      d="M 82,31 H 64 c -3.324,0 -6,-2.676 -6,-6 V 6 l 24,24 z"
@@ -93,7 +134,7 @@
      sodipodi:nodetypes="cssccc" />
   <path
      id="rect600"
-     style="fill:#d29396;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#e79c9f;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
      d="M 82,30 H 64 c -3.324,0 -6,-2.676 -6,-6 V 6 l 12,12 z"
      sodipodi:nodetypes="cssccc" />
 </svg>
