@@ -7,7 +7,7 @@
    viewBox="0 0 128 128.00001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="application-json.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.328125"
-     inkscape:cx="64"
+     inkscape:zoom="6.171875"
+     inkscape:cx="63.918987"
      inkscape:cy="64"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -68,6 +68,27 @@
        y2="7.0595555"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(7.0000156,0,0,7.0000156,7.999934,9.9999048)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient899">
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1;"
+         offset="0"
+         id="stop895" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="1"
+         id="stop897" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient899"
+       id="linearGradient4102"
+       x1="28"
+       y1="8"
+       x2="100"
+       y2="120"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect234"
@@ -76,7 +97,7 @@
      sodipodi:nodetypes="sccssssss" />
   <path
      id="rect448"
-     style="fill:#eaeaea;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient4102);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="m 28,8 h 48 l 12,20 20,12 v 72 c 0,4.432 -3.568,8 -8,8 H 28 c -4.432,0 -8,-3.568 -8,-8 V 16 c 0,-4.432 3.568,-8 8,-8 z"
      sodipodi:nodetypes="scccssssss" />
   <path
@@ -95,6 +116,6 @@
   <path
      id="rect600"
      style="fill:#f8f8f8;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 108,40 H 84 c -4.432,0 -8,-3.568 -8,-8 V 8 l 16,16 z"
-     sodipodi:nodetypes="cssccc" />
+     d="M 108,40 H 84 c -4.432,0 -8,-3.568 -8,-8 V 8 Z"
+     sodipodi:nodetypes="csscc" />
 </svg>

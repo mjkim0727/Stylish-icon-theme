@@ -7,10 +7,11 @@
    viewBox="0 0 22 22.000001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="text-x-markdown.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,18 +25,61 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="25.5625"
-     inkscape:cx="1.0562347"
-     inkscape:cy="13.770171"
+     inkscape:zoom="35.909091"
+     inkscape:cx="11"
+     inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1015"
+     inkscape:current-layer="svg5"
      showguides="true" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient899">
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1;"
+         offset="0"
+         id="stop895" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="1"
+         id="stop897" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient899"
+       id="linearGradient1633"
+       x1="4"
+       y1="1"
+       x2="18"
+       y2="21"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient962">
+      <stop
+         style="stop-color:#505f6f;stop-opacity:1;"
+         offset="0"
+         id="stop958" />
+      <stop
+         style="stop-color:#697f90;stop-opacity:1;"
+         offset="1"
+         id="stop960" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient962"
+       id="linearGradient1689"
+       x1="11"
+       y1="10"
+       x2="17"
+       y2="18"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <path
      id="rect234"
      style="opacity:0.2;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
@@ -43,7 +87,7 @@
      sodipodi:nodetypes="sccssssss" />
   <path
      id="rect448"
-     style="fill:#eaeaea;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient1633);fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
      d="m 4,1 h 9 l 1,4 5,2 v 13 c 0,0.554 -0.446,1 -1,1 H 4 C 3.446,21 3,20.554 3,20 V 2 C 3,1.446 3.446,1 4,1 Z"
      sodipodi:nodetypes="scccssssss" />
   <path
@@ -56,12 +100,8 @@
      style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
      d="M 19,7 H 14 C 13.446,7 13,6.554 13,6 V 1 Z"
      sodipodi:nodetypes="csscc" />
-  <g
-     id="g1015"
-     transform="matrix(0.5,0,0,0.5,-1,1.9216693)">
-    <path
-       id="rect1431"
-       style="fill:#505f6f;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
-       d="m 14,16.156661 c -1.107998,0 -2,0.892003 -2,2 v 12 c 0,1.107996 0.892002,2 2,2 h 20 c 1.107996,0 2,-0.892004 2,-2 v -12 c 0,-1.107997 -0.892004,-2 -2,-2 z m 0,2 h 20 v 12 H 14 Z m 2,2 v 8 h 2 v -4.375 l 2,3.125 2,-3.125 v 4.375 h 2 v -8 h -2 l -2,3.125 -2,-3.125 z m 12,0 v 4 h -2 l 2,4 h 2 l 2,-4 h -2 v -4 z" />
-  </g>
+  <path
+     id="rect1431"
+     style="fill:url(#linearGradient1689);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 6,9.9999998 C 5.446001,9.9999998 5,10.446001 5,11 v 6 c 0,0.553998 0.446001,1 1,1 h 10 c 0.553998,0 1,-0.446002 1,-1 V 11 C 17,10.446001 16.553998,9.9999998 16,9.9999998 Z M 6,11 h 10 v 6 H 6 Z m 1,1 v 4 h 1 v -2.1875 l 1,1.5625 1,-1.5625 V 16 h 1 V 12 H 10 L 9,13.5625 8,12 Z m 6,0 v 2 h -1 l 1,2 h 1 l 1,-2 h -1 v -2 z" />
 </svg>
