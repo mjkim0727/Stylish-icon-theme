@@ -7,10 +7,11 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="image-x-generic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,16 +26,39 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="35.909091"
-     inkscape:cx="11"
+     inkscape:cx="10.986076"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2723"
+       id="linearGradient4415"
+       x1="10.149335"
+       y1="8"
+       x2="54.134781"
+       y2="55.998531"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35714286,0,0,0.33333333,-0.42857149,0.33333284)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2723">
+      <stop
+         style="stop-color:#8940cc;stop-opacity:1;"
+         offset="0"
+         id="stop2719" />
+      <stop
+         style="stop-color:#b940cc;stop-opacity:1;"
+         offset="1"
+         id="stop2721" />
+    </linearGradient>
+  </defs>
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
      id="rect344"
@@ -44,7 +68,7 @@
      y="4"
      ry="2" />
   <rect
-     style="fill:#9125c5;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient4415);fill-opacity:1;stroke-width:0.345032;stroke-linecap:round;stroke-linejoin:round"
      id="rect234"
      width="20"
      height="16"

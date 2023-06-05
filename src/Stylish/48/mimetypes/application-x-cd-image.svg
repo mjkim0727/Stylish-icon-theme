@@ -7,10 +7,11 @@
    viewBox="0 0 48 48.000003"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="application-x-cd-image.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,17 +25,64 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="16.708333"
-     inkscape:cx="24"
+     inkscape:zoom="16.458333"
+     inkscape:cx="23.96962"
      inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22024">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop22020" />
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0.5"
+         id="stop2585" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="1"
+         id="stop22022" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1334">
+      <stop
+         style="stop-color:#4b4b4b;stop-opacity:1;"
+         offset="0"
+         id="stop1330" />
+      <stop
+         style="stop-color:#737373;stop-opacity:1;"
+         offset="1"
+         id="stop1332" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22024"
+       id="linearGradient3118"
+       x1="17.799114"
+       y1="18"
+       x2="35"
+       y2="34.577827"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1334"
+       id="linearGradient3126"
+       x1="10"
+       y1="3"
+       x2="38"
+       y2="45"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <path
      id="rect234"
      style="opacity:0.2;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
@@ -42,17 +90,16 @@
      sodipodi:nodetypes="sccssssss" />
   <path
      id="rect448"
-     style="fill:#666666;fill-opacity:1;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient3126);fill-opacity:1;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
      d="m 10,3 h 19 l 4.5,7.5 7.5,4.5 v 27 c 0,1.662 -1.338,3 -3,3 H 10 C 8.338,45 7,43.662 7,42 V 6 C 7,4.338 8.338,3 10,3 Z"
      sodipodi:nodetypes="scccssssss" />
   <path
      id="path4048"
-     style="fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:0.733329;stroke-linejoin:round"
-     d="m 24,18 c -6.075101,0 -11,4.924899 -11,11 0,6.075101 4.924899,11 11,11 6.075101,0 11,-4.924899 11,-11 0,-6.075101 -4.924899,-11 -11,-11 z m 0,5.857144 c 1.735751,10e-7 5.142855,3.407105 5.142856,5.142856 0,1.735752 -3.407104,5.142856 -5.142856,5.142857 C 22.264248,34.142856 18.857144,30.735752 18.857144,29 18.857145,27.264249 22.264249,23.857145 24,23.857144 Z"
-     sodipodi:nodetypes="ssssssssss" />
+     style="fill:url(#linearGradient3118);fill-opacity:1;stroke:none;stroke-width:0.733329;stroke-linejoin:round"
+     d="M 24 18 C 17.924905 18 13 22.924905 13 29 C 13 35.075095 17.924905 40 24 40 C 30.075095 40 35 35.075095 35 29 C 35 22.924905 30.075095 18 24 18 z M 24 26 A 3 3 0 0 1 27 29 A 3 3 0 0 1 24 32 A 3 3 0 0 1 21 29 A 3 3 0 0 1 24 26 z " />
   <path
      id="path498"
-     style="fill:#aaaaaa;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;opacity:0.2"
      d="M 24 23 C 20.686298 23 18 25.686298 18 29 C 18 32.313702 20.686298 35 24 35 C 27.313702 35 30 32.313702 30 29 C 30 25.686298 27.313702 23 24 23 z M 24 26 C 25.65685 26 27 27.34315 27 29 C 27 30.65685 25.65685 32 24 32 C 22.34315 32 21 30.65685 21 29 C 21 27.34315 22.34315 26 24 26 z " />
   <path
      d="m 41,16 h -9 c -1.662,0 -3,-1.338 -3,-3 V 3 l 12,12 z"
