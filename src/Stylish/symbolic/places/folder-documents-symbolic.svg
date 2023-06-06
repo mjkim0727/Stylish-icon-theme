@@ -1,6 +1,43 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
- </defs>
- <path d="m3 0c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-9-1h-0.007812l0.005859-0.0058594-4.998-4.9922v-0.0019531h-1-5zm0 1h5v5h5v9h-10v-14zm6 0.41016 3.5957 3.5898h-3.5957v-3.5898z" color="#727272" fill="#363636"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="folder-documents-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="49.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect234"
+     style="fill:#363636;fill-opacity:1"
+     d="M 4,0 C 2.8920044,0 2,0.89200442 2,2 v 12 c 0,1.107996 0.8920044,2 2,2 h 8 c 1.107996,0 2,-0.892004 2,-2 V 3.5 L 10.5,0 Z m 0,1 h 5 v 3 c 0,0.5539988 0.4460012,1 1,1 h 3 v 9 c 0,0.553996 -0.446004,1 -1,1 H 4 C 3.4460024,15 3,14.553996 3,14 V 2 C 3,1.4460024 3.4460024,1 4,1 Z m 6,0 3,3 h -3 z"
+     sodipodi:nodetypes="cssssccccscsscsssssscccc" />
 </svg>
