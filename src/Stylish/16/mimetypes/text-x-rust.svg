@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
-   sodipodi:docname="inode-symlink.svg"
+   sodipodi:docname="text-x-rust.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -38,36 +38,56 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient871">
+       id="linearGradient899">
       <stop
-         style="stop-color:#626c75;stop-opacity:1;"
+         style="stop-color:#dddddd;stop-opacity:1;"
          offset="0"
-         id="stop867" />
+         id="stop895" />
       <stop
-         style="stop-color:#9da7b0;stop-opacity:1;"
+         style="stop-color:#eeeeee;stop-opacity:1;"
          offset="1"
-         id="stop869" />
+         id="stop897" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient871"
-       id="linearGradient873"
+       xlink:href="#linearGradient899"
+       id="linearGradient956"
        x1="3"
        y1="0"
        x2="13"
        y2="16"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1535">
+      <stop
+         style="stop-color:#414141;stop-opacity:1;"
+         offset="0"
+         id="stop1531" />
+      <stop
+         style="stop-color:#5f4030;stop-opacity:1;"
+         offset="1"
+         id="stop1533" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1535"
+       id="linearGradient2857"
+       x1="4"
+       y1="7"
+       x2="12"
+       y2="12"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect448"
-     style="fill:url(#linearGradient873);fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient956);fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
      d="m 3,0 h 7 L 11.5,2.5 14,4 v 11 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 V 1 C 2,0.446 2.446,0 3,0 Z"
      sodipodi:nodetypes="scccssssss" />
   <path
-     id="rect1856"
-     style="fill:#ffffff;stroke-width:0.881917;stroke-linecap:round;stroke-linejoin:round"
-     d="M 7.0003906,7 V 8 H 9.2933601 L 5.1,12.193359 5.8070312,12.900391 10.000391,8.7070312 V 11 h 1 V 7.7070312 7 H 10.29336 Z"
-     sodipodi:nodetypes="cccccccccccc" />
+     d="M 5,11 H 4 v 1 H 8 V 11 H 7 v -1 0 c 1,0 1,2 2,2 h 2 c 1,0 1,-2 1,-2 h -1 c 0,0 0,1 -1,1 C 9.5,11 9,10 9,10 H 9.5 C 10.331,10 11,9.3 11,8.5 11,7.7 10.331,7 9.5,7 H 4 V 8 H 5 M 7,8 H 8.5 C 8.777,8 9,8.2 9,8.5 9,8.8 8.777,9 8.5,9 H 7 Z"
+     style="fill:url(#linearGradient2857);fill-opacity:1"
+     id="path2266" />
   <path
      d="M 14,5 H 11 C 10.446,5 10,4.554 10,4 V 0 l 4,4 z"
      style="opacity:0.2;fill:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
@@ -75,7 +95,7 @@
      sodipodi:nodetypes="cssccc" />
   <path
      id="rect600"
-     style="fill:#cdd1d5;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round"
      d="M 14,4 H 11 C 10.446,4 10,3.554 10,3 V 0 l 2,2 z"
      sodipodi:nodetypes="cssccc" />
 </svg>
