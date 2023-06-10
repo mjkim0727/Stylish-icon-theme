@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    width="16"
    height="16"
-   version="1.1"
    viewBox="0 0 16 16"
-   id="svg7"
-   sodipodi:docname="emblem-photos-symbolic.svg"
+   version="1.1"
+   id="svg5"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="screenshooter-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview9"
+     id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -20,6 +22,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="50.625"
      inkscape:cx="7.9901235"
@@ -29,16 +32,12 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7" />
+     inkscape:current-layer="svg5" />
   <defs
-     id="defs3">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Text { color:#363636; }</style>
-  </defs>
+     id="defs2" />
   <path
-     d="m2 1c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v9l-5-5-3.4794 4-2.5206-2-3 3v-9c0-0.554 0.446-1 1-1zm2.5 2c-0.82843 0-1.5 0.67157-1.5 1.5s0.67157 1.5 1.5 1.5 1.5-0.67157 1.5-1.5-0.67157-1.5-1.5-1.5z"
-     style="fill:currentColor"
-     class="ColorScheme-Text"
-     id="path5" />
+     id="rect234"
+     style="fill:#363636;fill-opacity:1"
+     d="M 4,1 C 2.3380034,1 1,2.3380034 1,4 V 6 H 2 V 4 C 2,2.8920022 2.8920022,2 4,2 H 6 V 1 Z m 6,0 v 1 h 2 c 1.107998,0 2,0.8920022 2,2 v 2 h 1 V 4 C 15,2.3380034 13.661996,1 12,1 Z m -9,9 v 2 c 0,1.661996 1.3380034,3 3,3 H 6 V 14 H 4 C 2.8920022,14 2,13.107998 2,12 v -2 z m 13,0 v 2 c 0,1.107998 -0.892002,2 -2,2 h -2 v 1 h 2 c 1.661996,0 3,-1.338004 3,-3 v -2 z"
+     sodipodi:nodetypes="ssccssccsccssccssccssccsscccssccsscc" />
 </svg>
