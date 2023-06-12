@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="text-x-ruby.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.3125"
+     inkscape:cx="15.980247"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient899">
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1;"
+         offset="0"
+         id="stop895" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="1"
+         id="stop897" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient899"
+       id="linearGradient1373"
+       x1="7"
+       y1="2"
+       x2="25"
+       y2="30"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1250">
+      <stop
+         style="stop-color:#dc4351;stop-opacity:1;"
+         offset="0"
+         id="stop1246" />
+      <stop
+         style="stop-color:#c82534;stop-opacity:1;"
+         offset="1"
+         id="stop1248" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1250"
+       id="linearGradient2163"
+       x1="16"
+       y1="14"
+       x2="22.999807"
+       y2="24.997505"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     id="rect234"
+     style="opacity:0.2;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     d="m 7,3 h 12 l 8,8 v 18 c 0,1.108 -0.892,2 -2,2 H 7 C 5.892,31 5,30.108 5,29 V 5 C 5,3.892 5.892,3 7,3 Z"
+     sodipodi:nodetypes="sccssssss" />
+  <path
+     id="rect448"
+     style="fill:url(#linearGradient1373);fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     d="m 7,2 h 12 l 3,5 5,3 v 18 c 0,1.108 -0.892,2 -2,2 H 7 C 5.892,30 5,29.108 5,28 V 4 C 5,2.892 5.892,2 7,2 Z"
+     sodipodi:nodetypes="scccssssss" />
+  <path
+     d="M 27,11 H 21 C 19.892,11 19,10.108 19,9 V 2 l 8,8 z"
+     style="opacity:0.2;fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     id="path611"
+     sodipodi:nodetypes="cssccc" />
+  <path
+     id="rect600"
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     d="M 27,10 H 21 C 19.892,10 19,9.108 19,8 V 2 l 4,4 z"
+     sodipodi:nodetypes="cssccc" />
+  <path
+     id="path2103"
+     style="color:#000000;fill:url(#linearGradient2163);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 13 14 L 16 17 L 19 14 L 13 14 z M 12.292969 14.292969 L 9.5859375 17 L 15 17 L 12.292969 14.292969 z M 19.707031 14.292969 L 17 17 L 22.414062 17 L 19.707031 14.292969 z M 9 18 C 9.0000195 18.264815 9.1044433 18.529612 9.3125 18.726562 L 14.669922 24.009766 L 13 18 L 9 18 z M 14 18 L 15.888672 24.990234 C 15.962503 24.99874 16.037003 24.998211 16.111328 24.990234 L 18 18 L 14 18 z M 19 18 L 17.302734 24.111328 L 22.707031 18.707031 C 22.902215 18.511766 23 18.255883 23 18 L 19 18 z " />
+</svg>
