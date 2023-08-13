@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -48,6 +49,7 @@
      d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
   <path
      id="rect389"
-     style="opacity:1;fill:#ffffff"
+     style="opacity:0.6;fill:currentColor"
+     class="ColorScheme-Text"
      d="M 6 3 L 6 4 L 5 4 C 4.4460012 4 4 4.4460012 4 5 L 4 6 L 3 6 L 3 7 L 4 7 L 4 9 L 3 9 L 3 10 L 4 10 L 4 11 C 4 11.553998 4.4460012 12 5 12 L 6 12 L 6 13 L 7 13 L 7 12 L 9 12 L 9 13 L 10 13 L 10 12 L 11 12 C 11.553998 12 12 11.553998 12 11 L 12 10 L 13 10 L 13 9 L 12 9 L 12 7 L 13 7 L 13 6 L 12 6 L 12 5 C 12 4.4460012 11.553998 4 11 4 L 10 4 L 10 3 L 9 3 L 9 4 L 7 4 L 7 3 L 6 3 z M 5 5 L 11 5 L 11 11 L 5 11 L 5 5 z " />
 </svg>

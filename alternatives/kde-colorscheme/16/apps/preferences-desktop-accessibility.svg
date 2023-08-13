@@ -38,6 +38,7 @@
      <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -48,7 +49,8 @@
      d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
   <path
      id="path2789"
-     style="fill:#ffffff"
+     style="opacity:0.6;fill:currentColor"
+     class="ColorScheme-Text"
      d="M 7.5,3 C 6.6715508,3 6,3.6715508 6,4.5 6,5.3284492 6.6715508,6 7.5,6 8.3284492,6 9.0000001,5.3284492 9.0000001,4.5 9.0000001,3.6715508 8.3284492,3 7.5,3 Z M 3,7 v 1 h 3 v 6 h 1 v -3 h 1 v 3 H 9.0000001 V 8 H 12 V 7 Z"
      sodipodi:nodetypes="sssssccccccccccccc" />
 </svg>

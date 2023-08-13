@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -52,6 +53,7 @@
      d="M 26,4 C 7.7976372,4 4,7.8796522 4,26 V 38 C 4,56.120348 7.7976372,60 26,60 H 38 C 56.202364,60 60,56.120348 60,38 V 26 C 60,7.8796522 56.202364,4 38,4 Z" />
   <path
      id="rect2117"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;opacity:0.6"
+     class="ColorScheme-Text"
      d="m 20,14.18 3.875644,34.712812 8.392306,-9.4641 5,8.660254 A 2,2 0 0 0 40,48.821016 a 2,2 0 0 0 0.73205,-2.73205 l -5,-8.660254 12.392306,-2.5359 z" />
 </svg>

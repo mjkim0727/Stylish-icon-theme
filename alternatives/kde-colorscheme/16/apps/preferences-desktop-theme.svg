@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="preferences-desktop-theme.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,9 +26,9 @@
      showgrid="false"
      inkscape:zoom="50.1875"
      inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:cy="7.9900374"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -46,21 +47,15 @@
      style="fill:currentColor;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
      class="ColorScheme-Highlight"
      d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
-  <g
-     id="g846"
-     transform="translate(4,2)">
-    <rect
-       style="opacity:0.5;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="rect820"
-       width="8"
-       height="6"
-       x="0"
-       y="0"
-       ry="1" />
-    <path
-       id="rect236"
-       style="opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       d="M 0,5 V 6 C 0,6.5539994 0.44600055,7 1,7 H 2.0351562 C 2.5603188,7.0181599 2.9818401,7.4396812 3,7.9648438 V 11 c 0,0.553999 0.4460006,1 1,1 0.5539994,0 1,-0.446001 1,-1 V 8 C 5,7.4477153 5.4477153,7 6,7 H 7 C 7.5539994,7 8,6.5539994 8,6 V 5 Z"
-       sodipodi:nodetypes="cssccssssssscc" />
-  </g>
+  <path
+     id="rect820"
+     style="opacity:0.3;fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5 2 C 4.4460006 2 4 2.4460006 4 3 L 4 7 L 12 7 L 12 3 C 12 2.4460006 11.553999 2 11 2 L 5 2 z "
+     class="ColorScheme-Text" />
+  <path
+     id="rect236"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.6"
+     d="M 4,7 V 8 C 4,8.5539994 4.4460005,9 5,9 H 6.0351562 C 6.5603188,9.0181599 6.9818401,9.4396812 7,9.9648438 V 13 c 0,0.553999 0.4460006,1 1,1 0.5539994,0 1,-0.446001 1,-1 V 10 C 9,9.4477153 9.4477153,9 10,9 h 1 c 0.553999,0 1,-0.4460006 1,-1 V 7 Z"
+     sodipodi:nodetypes="cssccssssssscc"
+     class="ColorScheme-Text" />
 </svg>

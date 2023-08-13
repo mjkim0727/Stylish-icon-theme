@@ -39,6 +39,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
     <linearGradient
@@ -55,11 +56,13 @@
        inkscape:collect="always"
        id="linearGradient2414">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:currentColor;stop-opacity:0.6;"
+         class="ColorScheme-Text"
          offset="0"
          id="stop2410" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:currentColor;stop-opacity:0;"
+         class="ColorScheme-Text"
          offset="1"
          id="stop2412" />
     </linearGradient>
@@ -121,25 +124,29 @@
      style="color:#000000;opacity:0.8;fill:url(#linearGradient2272);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 33.261036,21.371177 c -2.565102,0.002 -5.121786,0.181981 -7.57031,0.515624 -4.897046,0.667305 -9.356728,1.96776 -12.605469,3.867188 -3.2487435,1.899428 -5.3857355,4.549124 -5.0507815,7.714844 a 0.86386294,0.86386294 0 0 0 0.949218,0.769532 0.86386294,0.86386294 0 0 0 0.769532,-0.94922 c -0.244462,-2.310454 1.2574665,-4.320743 4.2031245,-6.042968 2.94566,-1.722226 7.233248,-3.003147 11.968752,-3.648438 9.471002,-1.290579 20.746726,-0.006 26.917968,4.425782 a 0.86386294,0.86386294 0 0 0 1.203124,-0.19922 0.86386294,0.86386294 0 0 0 -0.19532,-1.203124 c -5.12434,-3.679922 -12.894524,-5.25606 -20.589844,-5.25 z" />
   <circle
-     style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path1585"
      cx="15"
      cy="43"
      r="3" />
   <circle
-     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path1711"
      cx="15"
      cy="16.999998"
      r="3" />
   <circle
-     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path1815"
      cx="53"
      cy="27"
      r="3" />
   <circle
-     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      id="path1919"
      cx="37"
      cy="53"

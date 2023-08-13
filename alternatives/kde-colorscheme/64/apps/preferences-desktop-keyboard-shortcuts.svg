@@ -7,7 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="preferences-desktop-keyboard-shortcuts.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="12.625"
-     inkscape:cx="32.19802"
-     inkscape:cy="32.19802"
+     inkscape:cx="29.029703"
+     inkscape:cy="32.237624"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -51,12 +52,14 @@
      class="ColorScheme-Highlight"
      d="M 26,4 C 7.7976372,4 4,7.8796522 4,26 V 38 C 4,56.120348 7.7976372,60 26,60 H 38 C 56.202364,60 60,56.120348 60,38 V 26 C 60,7.8796522 56.202364,4 38,4 Z" />
   <path
-     d="m 12,16 c -1.107999,0 -2,0.892002 -2,2 v 4 c 0,1.107998 0.892001,2 2,2 h 4 c 1.107998,0 2,-0.892002 2,-2 v -4 c 0,-1.107998 -0.892002,-2 -2,-2 z m 12,0 c -1.107998,0 -2,0.892002 -2,2 v 4 c 0,1.107998 0.892002,2 2,2 h 4 c 1.108,0 2,-0.892002 2,-2 v -4 c 0,-1.107998 -0.892,-2 -2,-2 z m 12,0 c -1.108,0 -2,0.892002 -2,2 v 4 c 0,1.107998 0.892,2 2,2 h 4 c 1.107998,0 2,-0.892002 2,-2 v -4 c 0,-1.107998 -0.892002,-2 -2,-2 z M 12,28 c -1.107999,0 -2,0.892 -2,2 v 4 c 0,1.107998 0.892001,2 2,2 h 4 c 1.107998,0 2,-0.892002 2,-2 v -4 c 0,-1.108 -0.892002,-2 -2,-2 z m 12,0 c -1.107998,0 -2,0.892 -2,2 v 4 c 0,1.107998 0.892002,2 2,2 h 4 c 1.108,0 2,-0.892002 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z m 24,0 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.107998 0.892,2 2,2 h 4 c 1.107998,0 2,-0.892002 2,-2 v -4 c 0,-1.108 -0.892002,-2 -2,-2 z M 20,40 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.107998 0.892,2 2,2 h 24 c 1.107998,0 2,-0.892002 2,-2 v -4 c 0,-1.108 -0.892002,-2 -2,-2 z"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="path1728"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="m 12,16 c -1.107998,0 -2,0.892003 -2,2 v 4 c 0,1.107997 0.892002,2 2,2 h 4 c 1.107997,0 2,-0.892003 2,-2 v -4 c 0,-1.107997 -0.892003,-2 -2,-2 z m 12,0 c -1.107997,0 -2,0.892003 -2,2 v 4 c 0,1.107997 0.892003,2 2,2 h 4 c 1.107999,0 2,-0.892003 2,-2 v -4 c 0,-1.107997 -0.892001,-2 -2,-2 z m 12,0 c -1.107999,0 -2,0.892003 -2,2 v 4 c 0,1.107997 0.892001,2 2,2 h 4 c 1.107997,0 2,-0.892003 2,-2 v -4 c 0,-1.107997 -0.892003,-2 -2,-2 z M 12,28 c -1.107998,0 -2,0.892001 -2,2 v 4 c 0,1.107997 0.892002,2 2,2 h 4 c 1.107997,0 2,-0.892003 2,-2 v -4 c 0,-1.107999 -0.892003,-2 -2,-2 z m 12,0 c -1.107997,0 -2,0.892001 -2,2 v 4 c 0,1.107997 0.892003,2 2,2 h 4 c 1.107999,0 2,-0.892003 2,-2 v -4 c 0,-1.107999 -0.892001,-2 -2,-2 z m 24,0 c -1.107999,0 -2,0.892001 -2,2 v 4 c 0,1.107997 0.892001,2 2,2 h 4 c 1.107997,0 2,-0.892003 2,-2 v -4 c 0,-1.107999 -0.892003,-2 -2,-2 z M 20,40 c -1.107999,0 -2,0.892001 -2,2 v 4 c 0,1.107997 0.892001,2 2,2 h 24 c 1.107997,0 2,-0.892003 2,-2 v -4 c 0,-1.107999 -0.892003,-2 -2,-2 z"
      sodipodi:nodetypes="sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" />
   <path
      d="m 48,16 c -1.108,0 -2,0.892002 -2,2 v 4 c 0,1.107998 0.892,2 2,2 h 4 c 1.107998,0 2,-0.892002 2,-2 v -4 c 0,-1.107998 -0.892002,-2 -2,-2 z M 36,28 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.107998 0.892,2 2,2 h 4 c 1.107998,0 2,-0.892002 2,-2 v -4 c 0,-1.108 -0.892002,-2 -2,-2 z"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.6"
-     id="path23709" />
+     style="opacity:0.3;fill:currentColor;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="path23709"
+     class="ColorScheme-Text" />
 </svg>

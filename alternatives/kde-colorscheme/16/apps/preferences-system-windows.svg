@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="preferences-system-windows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="50.1875"
-     inkscape:cx="8"
+     inkscape:zoom="50.375"
+     inkscape:cx="7.7717122"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -46,30 +47,35 @@
      style="fill:currentColor;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
      class="ColorScheme-Highlight"
      d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
-  <path
-     id="rect598"
-     style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round"
-     d="m 3,4.9999997 v 4 h 2 v -3 h 5 v -1 z"
-     sodipodi:nodetypes="ccccccc" />
-  <rect
-     style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect31972"
-     width="7"
-     height="1"
-     x="3"
-     y="4" />
-  <rect
-     style="fill:#ffffff;fill-opacity:1;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round"
-     id="rect652"
-     width="7"
-     height="4"
-     x="6"
-     y="8" />
-  <rect
-     style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect32006"
-     width="7"
-     height="1"
-     x="6"
-     y="7.0000005" />
+  <g
+     id="g296"
+     style="fill:currentColor;opacity:0.6"
+     class="ColorScheme-Text">
+    <path
+       id="rect598"
+       style="opacity:0.8;fill-opacity:1;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round"
+       d="m 3,4.9999997 v 4 h 2 v -3 h 5 v -1 z"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="opacity:0.4;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect31972"
+       width="7"
+       height="1"
+       x="3"
+       y="4" />
+    <rect
+       style="fill-opacity:1;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round"
+       id="rect652"
+       width="7"
+       height="4"
+       x="6"
+       y="8" />
+    <rect
+       style="opacity:0.5;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect32006"
+       width="7"
+       height="1"
+       x="6"
+       y="7.0000005" />
+  </g>
 </svg>

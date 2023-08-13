@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -48,6 +49,7 @@
      d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
   <path
      id="path1032"
-     style="color:#000000;fill:#ffffff;stroke:none;stroke-width:1.31597;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     style="opacity:0.6;fill:currentColor;stroke:none;stroke-width:1.31597;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     class="ColorScheme-Text"
      d="M 7.981827,3.2130195 A 0.50019694,0.50019694 0 0 0 7.534429,3.4943521 L 6.274294,6.0810494 3.4238474,6.5089094 A 0.50019694,0.50019694 0 0 0 3.1503297,7.3607222 L 5.22125,9.3632635 4.746501,12.203942 a 0.50019694,0.50019694 0 0 0 0.730684,0.523591 l 2.541762,-1.351959 2.555438,1.330468 A 0.50019694,0.50019694 0 0 0 11.297253,12.17659 L 10.797106,9.3378654 12.850443,7.3196945 A 0.50019694,0.50019694 0 0 0 12.571064,6.4678818 L 9.716711,6.0654198 8.433131,3.488491 A 0.50019694,0.50019694 0 0 0 7.981827,3.2130195 Z" />
 </svg>

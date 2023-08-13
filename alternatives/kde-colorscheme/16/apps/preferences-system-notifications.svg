@@ -7,11 +7,10 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="preferences-system-notifications.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="51.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="50.1875"
+     inkscape:cx="7.1830635"
+     inkscape:cy="7.9900374"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -36,41 +35,28 @@
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient937"
-       id="linearGradient1091"
-       x1="16"
-       y1="16"
-       x2="0"
-       y2="0"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient937">
-      <stop
-         style="stop-color:#ec8c79;stop-opacity:1;"
-         offset="0"
-         id="stop933" />
-      <stop
-         style="stop-color:#d42412;stop-opacity:1;"
-         offset="1"
-         id="stop935" />
-    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#232629; }
+         .ColorScheme-Highlight { color:#3daee9; }
+     </style>
   </defs>
   <path
      id="path530"
-     style="fill:url(#linearGradient1091);fill-opacity:1.0;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Highlight"
      d="M 6 0 C 1.4494094 0 0 1.469913 0 6 L 0 10 C 0 14.530087 1.4494094 16 6 16 L 10 16 C 14.550591 16 16 14.530086 16 10 L 16 6 C 16 1.469913 14.550591 0 10 0 L 6 0 z " />
   <path
      id="rect1090"
-     style="opacity:0.6;fill:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-     d="M 4,4 C 3.446001,4 3,4.4460006 3,5 v 5 c 0,0.554 0.446001,1 1,1 h 4 l 2,2 v -2 h 2 c 0.554,0 1,-0.446 1,-1 V 5 C 13,4.4460006 12.554,4 12,4 Z"
-     sodipodi:nodetypes="sssscccsssss" />
+     style="opacity:0.3;fill:currentColor;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="m 4,4.0000001 c -0.5539984,0 -1,0.4460012 -1,1 V 10 c 0,0.553999 0.4460016,1 1,1 h 4 l 2,2 v -2 h 2 c 0.553999,0 1,-0.446001 1,-1 V 5.9101563 a 1.5,1.5 0 0 1 -0.5,0.089844 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 0.08984,-0.5 z"
+     class="ColorScheme-Text" />
   <circle
-     style="fill:#ffffff;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     style="opacity:0.6;fill:currentColor;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
      id="path1197"
      cx="12.5"
      cy="4.5"
-     r="1.5" />
+     r="1.5"
+     class="ColorScheme-Text" />
 </svg>
