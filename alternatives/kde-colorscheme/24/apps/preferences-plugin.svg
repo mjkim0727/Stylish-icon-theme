@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="preferences-plugin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="33.583333"
+     inkscape:cx="11.985112"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#232629; }
+         .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     id="path530"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
+     d="M 9.9999995,2 C 3.174114,2 2,3.2048695 2,10 v 4 c 0,6.79513 1.174114,8 7.9999995,8 H 14 c 6.825886,0 8,-1.20487 8,-8 V 10 C 22,3.2048695 20.825886,2 14,2 Z"
+     sodipodi:nodetypes="sssssssss"
+     class="ColorScheme-Highlight" />
+  <path
+     d="M 11,4 C 9.892001,4 9,4.8920011 9,6.0000002 v 1 H 6.845703 C 5.822904,7.0000002 5,7.8229342 5,8.8457033 v 2.1542957 h 1 c 1.107998,0 2,0.892003 2,2.000001 0,1.107998 -0.892002,2 -2,2 H 5 v 2.154297 C 5,18.177096 5.822934,19 6.845703,19 H 9 v -1 c 0,-1.107998 0.892002,-2 2,-2 1.107998,0 2,0.892002 2,2 v 1 h 2.154297 C 16.177096,19 17,18.177066 17,17.154297 V 15 h 1 c 1.107998,0 2,-0.892001 2,-2 0,-1.107999 -0.892002,-2.000001 -2,-2.000001 H 17 V 8.8457033 C 17,7.8229042 16.177067,7.0000002 15.154297,7.0000002 H 13 v -1 C 13,4.8920011 12.107999,4 11,4 Z"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1"
+     id="path297"
+     class="ColorScheme-Text" />
+</svg>

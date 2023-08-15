@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="yast-sound.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.636364"
+     inkscape:cx="10.986352"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#232629; }
+         .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     id="path530"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.9999995,1 C 2.174114,1 1,2.2048695 1,9 v 4 c 0,6.79513 1.174114,8 7.9999995,8 H 13 c 6.825886,0 8,-1.20487 8,-8 V 9 C 21,2.2048695 19.825886,1 13,1 Z"
+     sodipodi:nodetypes="sssssssss"
+     class="ColorScheme-Highlight" />
+  <path
+     d="M 10,6.0003663 7,9.000366 H 5 c -0.553998,0 -1,0.446002 -1,1 v 2 c 0,0.553998 0.446002,1 1,1 h 2 l 3,3 z"
+     style="opacity:0.6;fill:currentColor"
+     id="path297"
+     class="ColorScheme-Text"
+     sodipodi:nodetypes="ccssssccc" />
+  <path
+     d="M 14.583984,5.5023193 C 14.41583,5.5164103 14.258531,5.6157164 14.177734,5.77771 14.054989,6.0247431 14.155494,6.3245145 14.402344,6.4476318 16.223452,7.3581864 16.99969,9.166982 17,11.000366 c -3.1e-4,1.833384 -0.776548,3.64218 -2.597656,4.552734 -0.246848,0.123117 -0.347355,0.422888 -0.22461,0.669922 0.123117,0.246848 0.422888,0.347355 0.669922,0.22461 C 17.026536,15.358192 17.999634,13.16697 18,11.000366 17.999634,8.833762 17.026536,6.64254 14.847656,5.5531006 c -0.06176,-0.030686 -0.12664,-0.0468 -0.191406,-0.050781 -0.02429,-0.00149 -0.04824,-0.00201 -0.07227,0 z M 13.074219,8.006226 c -0.21429,-0.03206 -0.424842,0.07756 -0.521485,0.271484 -0.122745,0.247034 -0.02224,0.546804 0.22461,0.669922 C 13.598455,9.358188 14,10.167035 14,11.000366 c 0,0.833331 -0.401545,1.642179 -1.222656,2.052734 -0.246848,0.123117 -0.347355,0.422888 -0.22461,0.669922 0.123117,0.246848 0.422888,0.347355 0.669922,0.22461 C 14.401539,13.358189 15,12.167029 15,11.000366 15,9.833704 14.401539,8.642542 13.222656,8.053101 c -0.04673,-0.02328 -0.09681,-0.03909 -0.148437,-0.04687 z"
+     style="opacity:0.4;fill:currentColor"
+     id="path593"
+     class="ColorScheme-Text" />
+</svg>

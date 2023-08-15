@@ -7,7 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="applications-development.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.78125"
-     inkscape:cx="31.96088"
+     inkscape:zoom="12.59375"
+     inkscape:cx="31.960298"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,7 +68,7 @@
      style="fill:url(#linearGradient4780);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 26,4 C 7.7976372,4 4,7.8796522 4,26 V 38 C 4,56.120348 7.7976372,60 26,60 H 38 C 56.202364,60 60,56.120348 60,38 V 26 C 60,7.8796522 56.202364,4 38,4 Z" />
   <path
-     d="m 30.271062,19.962282 c -1.056284,-0.07344 -2.098592,0.27494 -2.898442,0.96875 -1.669188,1.44574 -1.851036,3.970612 -0.406252,5.640628 l 18.000006,21.999996 c 1.44574,1.669184 3.970612,1.851032 5.640624,0.406248 1.669184,-1.445742 1.851032,-3.970614 0.406248,-5.640626 l -18,-21.999996 c -0.695008,-0.804544 -1.681712,-1.299304 -2.742184,-1.375 z"
+     d="m 30.271062,19.962282 c -1.056284,-0.07344 -2.098592,0.27494 -2.898442,0.96875 -1.669188,1.44574 -1.851036,3.970612 -0.406252,5.640628 l 19.012839,21.944672 c 1.44574,1.669184 3.970612,1.851032 5.640624,0.406248 1.669184,-1.445742 1.851032,-3.970614 0.406248,-5.640626 L 33.013246,21.337282 c -0.695008,-0.804544 -1.681712,-1.299304 -2.742184,-1.375 z"
      style="color:#000000;fill:#ddf3fe;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      id="path381"
      sodipodi:nodetypes="cccccccc" />

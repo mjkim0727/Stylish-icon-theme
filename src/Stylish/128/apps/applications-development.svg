@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="applications-development.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.390625"
-     inkscape:cx="63.92176"
+     inkscape:zoom="6.296875"
+     inkscape:cx="63.920596"
      inkscape:cy="64"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,7 +68,7 @@
      style="fill:url(#linearGradient4780);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
      d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z" />
   <path
-     d="m 60.542124,39.924564 c -2.112568,-0.14688 -4.197184,0.54988 -5.796884,1.9375 -3.338376,2.89148 -3.702072,7.941224 -0.812504,11.281256 l 36.000012,43.999992 c 2.89148,3.338368 7.941224,3.702068 11.281252,0.812496 3.33836,-2.891484 3.70206,-7.941228 0.81249,-11.281252 L 66.026492,42.674564 c -1.390016,-1.609088 -3.363424,-2.598608 -5.484368,-2.75 z"
+     d="m 60.542124,39.924564 c -2.112568,-0.14688 -4.197184,0.54988 -5.796884,1.9375 -3.338376,2.89148 -3.702072,7.941224 -0.812504,11.281256 l 38.025678,43.889344 c 2.89148,3.338366 7.941224,3.702066 11.281246,0.812496 3.33837,-2.891484 3.70207,-7.941228 0.8125,-11.281252 L 66.026492,42.674564 c -1.390016,-1.609088 -3.363424,-2.598608 -5.484368,-2.75 z"
      style="color:#000000;fill:#ddf3fe;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      id="path381"
      sodipodi:nodetypes="cccccccc" />

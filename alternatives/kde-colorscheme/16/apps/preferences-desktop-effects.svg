@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="50.1875"
-     inkscape:cx="8"
-     inkscape:cy="7.9900374"
+     inkscape:zoom="50.375"
+     inkscape:cx="7.9900744"
+     inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -51,7 +51,12 @@
      id="rect994"
      style="opacity:0.3;fill:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      class="ColorScheme-Text"
-     d="M 8 3 L 7 4 L 8 5 L 9 4 L 8 3 z M 11.359375 3.5800781 L 9.2382812 5.7011719 L 10.298828 6.7617188 L 12.419922 4.640625 L 11.359375 3.5800781 z M 5 5 L 4 6 L 5 7 L 6 6 L 5 5 z " />
+     d="M 8,3 7,4 8,5 9,4 Z M 5,5 4,6 5,7 6,6 Z" />
+  <path
+     d="M 11.359375,3.5800781 9.2382816,5.7011719 10.298828,6.7617188 12.419922,4.640625 Z"
+     style="opacity:0.4;fill:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="path1108"
+     class="ColorScheme-Text" />
   <g
      id="g2705"
      transform="matrix(0.66815106,0.66815106,-0.66815106,0.66815106,5.4371655,-7.6451745)">

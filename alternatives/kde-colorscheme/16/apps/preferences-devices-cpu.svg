@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="preferences-devices-cpu.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="50.1875"
-     inkscape:cx="8"
+     inkscape:zoom="50.375"
+     inkscape:cx="7.9900744"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,5 +51,6 @@
      id="rect389"
      style="opacity:0.6;fill:currentColor"
      class="ColorScheme-Text"
-     d="M 6 3 L 6 4 L 5 4 C 4.4460012 4 4 4.4460012 4 5 L 4 6 L 3 6 L 3 7 L 4 7 L 4 9 L 3 9 L 3 10 L 4 10 L 4 11 C 4 11.553998 4.4460012 12 5 12 L 6 12 L 6 13 L 7 13 L 7 12 L 9 12 L 9 13 L 10 13 L 10 12 L 11 12 C 11.553998 12 12 11.553998 12 11 L 12 10 L 13 10 L 13 9 L 12 9 L 12 7 L 13 7 L 13 6 L 12 6 L 12 5 C 12 4.4460012 11.553998 4 11 4 L 10 4 L 10 3 L 9 3 L 9 4 L 7 4 L 7 3 L 6 3 z M 5 5 L 11 5 L 11 11 L 5 11 L 5 5 z " />
+     d="M 6,3 V 4 H 5 C 4.4460012,4 4,4.4460012 4,5 V 6 H 3 V 7 H 4 V 9 H 3 v 1 h 1 v 1 c 0,0.553998 0.4460012,1 1,1 h 1 v 1 h 1 v -1 h 2 v 1 h 1 v -1 h 1 c 0.553998,0 1,-0.446002 1,-1 v -1 h 1 V 9 H 12 V 7 h 1 V 6 H 12 V 5 C 12,4.4460012 11.553998,4 11,4 H 10 V 3 H 9 V 4 H 7 V 3 Z"
+     sodipodi:nodetypes="ccssccccccccssccccccccssccccccccssccccccc" />
 </svg>

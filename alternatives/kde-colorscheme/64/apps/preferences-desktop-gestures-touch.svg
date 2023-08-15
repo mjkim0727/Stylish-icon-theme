@@ -7,7 +7,7 @@
    viewBox="0 0 63.999999 64"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="preferences-desktop-gestures-touch.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,38 +26,22 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="12.15625"
-     inkscape:cx="32"
+     inkscape:cx="28.66838"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3147"
-       id="linearGradient4780"
-       x1="30"
-       y1="30"
-       x2="2"
-       y2="2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(2)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3147">
-      <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
-         offset="0"
-         id="stop3143" />
-      <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
-         offset="1"
-         id="stop3145" />
-    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#232629; }
+         .ColorScheme-Highlight { color:#3daee9; }
+     </style>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2190"
@@ -72,11 +56,13 @@
        inkscape:collect="always"
        id="linearGradient2190">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:currentColor;stop-opacity:0.6;"
+         class="ColorScheme-Text"
          offset="0"
          id="stop2186" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:currentColor;stop-opacity:0;"
+         class="ColorScheme-Text"
          offset="1"
          id="stop2188" />
     </linearGradient>
@@ -87,18 +73,17 @@
      id="path563" />
   <path
      id="path530"
-     style="fill:url(#linearGradient4780);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 26,4 C 7.7976372,4 4,7.8796522 4,26 V 38 C 4,56.120348 7.7976372,60 26,60 H 38 C 56.202364,60 60,56.120348 60,38 V 26 C 60,7.8796522 56.202364,4 38,4 Z" />
-  <rect
-     style="opacity:0.6;fill:url(#linearGradient2192);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 26,4 C 7.7976372,4 4,7.8796522 4,26 V 38 C 4,56.120348 7.7976372,60 26,60 H 38 C 56.202364,60 60,56.120348 60,38 V 26 C 60,7.8796522 56.202364,4 38,4 Z"
+     class="ColorScheme-Highlight" />
+  <path
      id="rect2184"
-     width="16"
-     height="8"
-     x="14"
-     y="18" />
+     style="opacity:0.3;fill:url(#linearGradient2192);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14 18 L 14 26 L 28 26 L 28 20 C 28 18.892003 28.892005 18 30 18 L 14 18 z " />
   <path
      id="rect701"
-     style="fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.6"
      d="m 29.999998,18 c -1.107996,0 -2,0.892002 -2,2 v 15.519532 l -4.34375,-4.34375 C 22.089302,29.608834 19.566946,29.608834 18,31.175782 23.070762,36.78643 27.242964,46 29.999998,46 h 12 l 2,-14 c 0,-1.107996 -0.892004,-2 -2,-2 -1.107996,0 -2,0.892004 -2,2 v -2 c 0,-1.107996 -0.892004,-2 -2,-2 -1.107996,0 -2,0.892004 -2,2 v -2 c 0,-1.107996 -0.892004,-2 -2,-2 -1.107996,0 -2,0.892004 -2,2 v -8 c 0,-1.107998 -0.892004,-2 -2,-2 z"
-     sodipodi:nodetypes="sscsccccscsscsscss" />
+     sodipodi:nodetypes="sscsccccscsscsscss"
+     class="ColorScheme-Text" />
 </svg>
