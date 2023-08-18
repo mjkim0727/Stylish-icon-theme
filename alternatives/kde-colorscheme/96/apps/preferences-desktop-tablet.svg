@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="8.3958333"
-     inkscape:cx="43.176179"
+     inkscape:cx="47.940447"
      inkscape:cy="48"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -56,14 +56,10 @@
      id="g1333"
      style="opacity:0.6;fill:currentColor"
      class="ColorScheme-Text">
-    <rect
-       style="opacity:0.4;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+    <path
        id="rect346"
-       width="60"
-       height="48"
-       x="18"
-       y="24"
-       ry="6" />
+       style="opacity:0.4;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 24 24 C 20.676003 24 18 26.676003 18 30 L 18 66 C 18 69.323997 20.676003 72 24 72 L 72 72 C 75.323997 72 78 69.323997 78 66 L 78 30 C 78 29.889842 77.988226 29.782489 77.982422 29.673828 L 51.615234 56.041016 L 44.544922 57.455078 L 45.958984 50.384766 L 72.326172 24.017578 C 72.217511 24.011774 72.110158 24 72 24 L 24 24 z " />
     <path
        d="M 76.343146,20 45.95837,50.384776 44.544156,57.455842 51.615224,56.04163 82,25.656854 Z"
        style="stroke-width:1"

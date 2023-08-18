@@ -7,7 +7,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (1:1.2.1+202210291243+9c6d41e410)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="folder-network.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="34.375"
-     inkscape:cx="12"
+     inkscape:zoom="33.583333"
+     inkscape:cx="11.985112"
      inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -63,7 +64,8 @@
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
      id="path1014"
-     style="opacity:0.6;fill:#ffffff;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round"
      d="m 14,10 c -1.104569,0 -2,0.895431 -2,2 8.81e-4,0.174204 0.02452,0.347546 0.07031,0.515625 l -1.630859,1.095703 C 10.062496,13.220627 9.542903,12.999959 9,13 c -1.104569,0 -2,0.895431 -2,2 0,1.104569 0.895431,2 2,2 0.541834,-0.0015 1.059862,-0.222836 1.435547,-0.613281 l 1.634765,1.097656 c -0.04579,0.168079 -0.06943,0.341421 -0.07031,0.515625 0,1.104569 0.895431,2 2,2 1.104569,0 2,-0.895431 2,-2 0,-1.104569 -0.895431,-2 -2,-2 -0.541834,0.0015 -1.059862,0.222836 -1.435547,0.613281 L 10.92969,15.515625 C 10.97548,15.347546 10.99912,15.174204 11,15 10.999756,14.825882 10.97677,14.652542 10.93164,14.484375 l 1.632812,-1.097656 C 12.940138,13.777164 13.458166,13.998471 14,14 c 1.104569,0 2,-0.895431 2,-2 0,-1.104569 -0.895431,-2 -2,-2 z m 0,1 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z m -5,3 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.5522846,0 -0.9999996,-0.447715 -0.9999996,-1 0,-0.552285 0.447715,-1 0.9999996,-1 z m 5,3 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"
-     sodipodi:nodetypes="sccccsccccsscccccccsssssssssssssssss" />
+     sodipodi:nodetypes="sccccsccccsscccccccsssssssssssssssss"
+     class="ColorScheme-Text" />
 </svg>

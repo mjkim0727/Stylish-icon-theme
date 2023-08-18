@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="36.636364"
-     inkscape:cx="9.2258064"
+     inkscape:cx="10.986352"
      inkscape:cy="11"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -57,12 +57,9 @@
        id="rect466"
        style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
        d="m 10.999897,5.0000008 a 0.57170215,0.50015003 0 0 0 -0.269531,0.058594 L 3.2987257,8.5605477 a 0.57170215,0.50015003 0 0 0 0,0.8789062 l 7.4316403,3.5019531 a 0.57170215,0.50015003 0 0 0 0.539062,0 l 7.431641,-3.5019531 a 0.57170215,0.50015003 0 0 0 0,-0.8789062 L 11.269428,5.0585946 A 0.57170215,0.50015003 0 0 0 10.999897,5.0000008 Z M 5.9998975,11.69922 v 2.800781 c 0,1.107998 2.8920023,2.5 3.9999998,2.5 h 1.9999997 c 1.107998,0 4,-1.392002 4,-2.5 V 11.69922 l -4.285156,2.121093 -0.002,0.002 c -0.443661,0.236722 -0.982122,0.236722 -1.425782,0 l -0.002,-0.002 z" />
-    <rect
-       style="opacity:0.5;stroke:none;stroke-width:2.11696;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect1073"
-       width="1"
-       height="6"
-       x="3.9998977"
-       y="8.999999" />
+       style="opacity:0.5;stroke:none;stroke-width:2.11696;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4 9.7695312 L 4 15 L 5 15 L 5 10.240234 L 4 9.7695312 z " />
   </g>
 </svg>

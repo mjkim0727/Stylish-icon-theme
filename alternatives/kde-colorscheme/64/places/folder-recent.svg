@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -62,7 +63,7 @@
      d="m 32,14 -4,4 c -1.33361,1.227951 -1.784005,2 -4,2 H 8 c -2.2091346,0 -4,1.790864 -4,4 v 1 c 0,-2.209136 1.7908654,-4 4,-4 h 16 c 2.215994,0 2.666389,-0.77205 4,-2 l 4,-4 h 24 c 2.215992,0 4,1.784008 4,4 v -1 c 0,-2.215992 -1.784008,-4 -4,-4 z" />
   <path
      id="path5851"
-     style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke-width:1.125;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke-width:1.125;stroke-linecap:round;stroke-linejoin:round"
      d="m 25,28 v 4 h 4 V 31 H 26.761719 C 28.209355,29.723219 30.069805,29.01289 32,29 c 4.418278,0 8,3.581722 8,8 0,4.418278 -3.581722,8 -8,8 -2.118832,-0.0076 -4.148123,-0.855387 -5.642578,-2.357422 l -0.720703,0.720703 c 2.57366,2.573436 6.443937,3.343483 9.80664,1.951172 C 38.806584,43.921735 40.99968,40.640184 41,37 40.99968,33.359816 38.806584,30.078265 35.443359,28.685547 34.351707,28.233198 33.181661,28.000251 32,28 c -2.2173,0.0073 -4.353869,0.832853 -6,2.318359 V 28 Z m 7,3.000391 v 6 L 35.949219,40.949609 36.65625,40.242578 33,36.586328 v -5.585937 z"
-     sodipodi:nodetypes="ccccccsccccccccccccccccc" />
+     class="ColorScheme-Text" />
 </svg>

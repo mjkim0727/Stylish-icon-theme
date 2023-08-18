@@ -54,14 +54,10 @@
      class="ColorScheme-Text"
      style="opacity:0.6;fill:currentColor"
      transform="translate(1,1)">
-    <rect
-       style="opacity:0.5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+    <path
        id="rect954"
-       width="7"
-       height="6"
-       x="4.0000005"
-       y="5"
-       ry="1" />
+       style="opacity:0.5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="M 5,5 C 4.4460006,5 4,5.4460006 4,6 V 8 C 4,7.4460026 4.4460016,7 5,7 h 6 V 6 C 11,5.4460006 10.553999,5 10,5 Z" />
     <path
        id="rect346"
        style="stroke-width:1;stroke-linecap:round;stroke-linejoin:round"

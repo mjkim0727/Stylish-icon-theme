@@ -57,17 +57,14 @@
      style="opacity:0.6;fill:currentColor"
      class="ColorScheme-Text"
      transform="scale(2)">
-    <rect
-       style="opacity:0.4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+    <path
        id="rect346"
-       width="40"
-       height="32"
-       x="12"
-       y="16"
-       ry="4" />
+       style="opacity:0.4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 16,16 c -2.215998,0 -4,1.784002 -4,4 v 24 c 0,2.215998 1.784002,4 4,4 h 32 c 2.215998,0 4,-1.784002 4,-4 V 20.244141 L 34.222656,38.021484 29.271484,38.728516 29.978516,33.777344 47.755859,16 Z" />
     <path
        id="path1089"
        style="opacity:1;stroke-width:0.866026"
-       d="m 50.484375,13.271484 -20.505859,20.50586 -0.707032,4.951172 4.951172,-0.707032 20.50586,-20.505859 z M 16,16 c -2.215998,0 -4,1.784002 -4,4 v 24 c 0,2.215998 1.784002,4 4,4 h 4 V 16 Z" />
+       d="m 50.484375,13.271484 -20.505859,20.50586 -0.707032,4.951172 4.951172,-0.707032 20.50586,-20.505859 z M 16,16 c -2.215998,0 -4,1.784002 -4,4 v 24 c 0,2.215998 1.784002,4 4,4 h 4 V 16 Z"
+       sodipodi:nodetypes="ccccccssssccs" />
   </g>
 </svg>

@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="6.296875"
-     inkscape:cx="51.057072"
+     inkscape:cx="63.920596"
      inkscape:cy="64"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -52,21 +52,18 @@
      class="ColorScheme-Highlight"
      d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z" />
   <g
-     id="g1416"
+     id="g1270"
      style="opacity:0.6;fill:currentColor"
-     class="ColorScheme-Text">
-    <rect
-       style="opacity:0.5;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     transform="scale(2)">
+    <path
        id="rect954"
-       width="40"
-       height="48"
-       x="24"
-       y="30"
-       ry="8" />
+       style="opacity:0.5;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="m 16,15 c -2.215998,0 -4,1.784002 -4,4 v 6 c 0,-2.215996 1.784004,-4 4,-4 h 16 v -2 c 0,-2.215998 -1.784002,-4 -4,-4 z" />
     <path
        id="rect346"
-       style="stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
-       d="m 32,42 c -4.431996,0 -8,3.568004 -8,8 v 36 c 0,6.647992 5.352006,12 12,12 h 56 c 6.647992,0 12,-5.352008 12,-12 V 54 C 104,47.352008 98.647992,42 92,42 Z"
+       style="stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="m 16,21 c -2.215998,0 -4,1.784002 -4,4 v 18 c 0,3.323996 2.676003,6 6,6 h 28 c 3.323996,0 6,-2.676004 6,-6 V 27 c 0,-3.323996 -2.676004,-6 -6,-6 z"
        sodipodi:nodetypes="cccsssscc" />
   </g>
   <path

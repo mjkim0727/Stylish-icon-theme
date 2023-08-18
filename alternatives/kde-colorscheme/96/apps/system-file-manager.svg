@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="8.3958333"
-     inkscape:cx="47.940447"
+     inkscape:cx="43.176179"
      inkscape:cy="48"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -56,14 +56,10 @@
      id="g1978"
      style="opacity:0.6;fill:currentColor"
      class="ColorScheme-Text">
-    <rect
-       style="opacity:0.5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
+    <path
        id="rect954"
-       width="30"
-       height="36"
-       x="18"
-       y="22"
-       ry="6" />
+       style="opacity:0.5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
+       d="M 24 22 C 20.676003 22 18 24.676003 18 28 L 18 38 C 18 34.676007 20.676007 32 24 32 L 26 32 L 36 32 L 48 32 L 48 28 C 48 24.676003 45.323997 22 42 22 L 24 22 z " />
     <path
        id="rect346"
        style="stroke-width:6;stroke-linecap:round;stroke-linejoin:round"

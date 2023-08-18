@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="folder-music.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="16.875"
-     inkscape:cx="24.02963"
-     inkscape:cy="24.088889"
+     inkscape:zoom="16.791667"
+     inkscape:cx="23.970223"
+     inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -55,14 +56,16 @@
   <path
      id="path1511"
      style="opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:1"
-     d="M 6,6 C 4.3380036,6 3,7.338003 3,9 v 10 c 0,-1.65685 1.3431508,-3 3,-3 h 12 c 1.661994,0 1.999793,-0.579038 3,-1.5 L 24,11 21,7.5 C 20.163518,6.423607 19.661996,6 18,6 Z" />
+     d="M 6,6 C 4.3380077,6 3,7.3380057 3,9 v 10 c 0,-1.656848 1.3431527,-3 3,-3 h 12 c 1.661993,0 1.999794,-0.579038 3,-1.5 L 24,11 21,7.5 C 20.16352,6.4236091 19.661993,6 18,6 Z"
+     sodipodi:nodetypes="sscsscccss" />
   <path
      id="path3081"
      style="opacity:0.2;fill:#ffffff;stroke-width:1.5"
-     d="m 24,11 -3,3.5 C 19.999793,15.420963 19.661995,16 18,16 H 6 c -1.6568493,0 -3,1.34315 -3,3 v 1 c 0,-1.65685 1.3431507,-3 3,-3 h 12 c 1.661995,0 1.999793,-0.579037 3,-1.5 L 24,12 h 18 c 1.661992,0 3,1.338008 3,3 v -1 c 0,-1.661992 -1.338008,-3 -3,-3 z"
+     d="m 24,11 -3,3.5 C 19.999793,15.420963 19.661995,16 18,16 H 6 c -1.656849,0 -3,1.34315 -3,3 v 1 c 0,-1.65685 1.343151,-3 3,-3 h 12 c 1.661995,0 1.999793,-0.579037 3,-1.5 L 24,12 h 18 c 1.661992,0 3,1.338008 3,3 v -1 c 0,-1.661992 -1.338008,-3 -3,-3 z"
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
-     d="m 28.36919,20 -7.375,1.90625 c -0.554,0.14844 -1,0.73896 -1,1.3125 v 9.09375 c -0.56177,-0.29416 -1.28326,-0.4131 -2.03125,-0.21875 -1.34976,0.35071 -2.19558,1.48415 -1.90625,2.53125 0.28933,1.0471 1.61899,1.63196 2.96875,1.28125 C 20.10227,35.62646 20.84456,34.8348 20.96294,34 l 0.0312,-8.59375 7,-1.875 v 6.78125 c -0.56177,-0.29416 -1.28326,-0.4131 -2.03125,-0.21875 -1.34976,0.35071 -2.19558,1.48415 -1.90625,2.53125 0.28933,1.0471 1.61899,1.63196 2.96875,1.28125 C 28.10222,33.62646 28.84451,32.8348 28.96289,32 l 0.0312,-11.1875 c 0,-0.43016 -0.26584,-0.75199 -0.625,-0.8125 z"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     id="path10324" />
+     id="path290"
+     style="opacity:0.6;fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="m 28.369141,20 -7.375,1.90625 c -0.554,0.14844 -1,0.738961 -1,1.3125 v 9.09375 c -0.56177,-0.29416 -1.283261,-0.4131 -2.03125,-0.21875 -1.349759,0.35071 -2.19558,1.484151 -1.90625,2.53125 0.289329,1.047099 1.618991,1.63196 2.96875,1.28125 1.076829,-0.27979 1.81912,-1.071451 1.9375,-1.90625 l 0.03125,-8.59375 7,-1.875 v 6.78125 c -0.56177,-0.29416 -1.283261,-0.4131 -2.03125,-0.21875 -1.349759,0.35071 -2.19558,1.484151 -1.90625,2.53125 0.289329,1.047099 1.618991,1.63196 2.96875,1.28125 1.076829,-0.27979 1.81912,-1.071451 1.9375,-1.90625 l 0.03125,-11.1875 c 0,-0.43016 -0.265841,-0.75199 -0.625,-0.8125 z" />
 </svg>

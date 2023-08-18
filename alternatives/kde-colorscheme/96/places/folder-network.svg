@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -63,6 +64,7 @@
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
      id="path242"
-     style="opacity:0.6;fill:#ffffff;stroke-width:5.14286;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;stroke-width:5.14286;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
      d="m 56,42 a 6,6 0 0 0 -6,6 6,6 0 0 0 0.1836,1.425782 l -7.78125,4.496094 A 6,6 0 0 0 38,52 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 4.464844,-2 l 7.742188,4.472656 A 6,6 0 0 0 50,68 a 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 6,6 0 0 0 -4.960938,2.644532 L 43.527344,60.304688 A 6,6 0 0 0 44,58 6,6 0 0 0 43.5,55.601562 L 50.980468,51.28125 A 6,6 0 0 0 56,54 6,6 0 0 0 62,48 6,6 0 0 0 56,42 Z m 0,2 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z M 38,54 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z m 18,10 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z" />
 </svg>

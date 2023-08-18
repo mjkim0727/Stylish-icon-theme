@@ -7,7 +7,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (1:1.2.1+202210291243+9c6d41e410)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="folder-temp.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="34.375"
-     inkscape:cx="12"
+     inkscape:zoom="33.583333"
+     inkscape:cx="11.985112"
      inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -63,6 +64,7 @@
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
      id="path348"
-     style="opacity:0.6;fill:#ffffff;stroke-width:0.714286;stroke-linejoin:round"
+     style="opacity:0.6;fill:currentColor;stroke-width:0.714286;stroke-linejoin:round"
+     class="ColorScheme-Text"
      d="m 12,10 c -2.7614173,0 -5,2.238582 -5,5 0,2.761417 2.2385827,5 5,5 2.761418,0 5,-2.238583 5,-5 0,-2.761418 -2.238582,-5 -5,-5 z m 0,1 c 2.209134,0 4,1.790865 4,4 0,2.209134 -1.790866,4 -4,4 -2.2091341,0 -4,-1.790866 -4,-4 0,-2.209135 1.7908659,-4 4,-4 z m -1,1 v 4 h 4 v -1 h -3 v -3 z" />
 </svg>

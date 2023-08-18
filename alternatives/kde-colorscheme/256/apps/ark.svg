@@ -52,25 +52,22 @@
      class="ColorScheme-Highlight"
      d="M 104,16 C 31.190548,16 16,31.518608 16,104 v 48 c 0,72.4814 15.190548,88 88,88 h 48 c 72.80946,0 88,-15.5186 88,-88 V 104 C 240,31.518608 224.80946,16 152,16 Z" />
   <g
-     id="g1472"
+     id="g1270"
      style="opacity:0.6;fill:currentColor"
-     class="ColorScheme-Text">
-    <rect
-       style="opacity:0.5;stroke-width:16;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     transform="scale(4)">
+    <path
        id="rect954"
-       width="80"
-       height="96"
-       x="48"
-       y="60"
-       ry="16" />
+       style="opacity:0.5;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="m 16,15 c -2.215998,0 -4,1.784002 -4,4 v 6 c 0,-2.215996 1.784004,-4 4,-4 h 16 v -2 c 0,-2.215998 -1.784002,-4 -4,-4 z" />
     <path
        id="rect346"
-       style="stroke-width:16;stroke-linecap:round;stroke-linejoin:round"
-       d="m 64,84 c -8.863992,0 -16,7.136008 -16,16 v 72 c 0,13.29598 10.704012,24 24,24 h 112 c 13.29598,0 24,-10.70402 24,-24 V 108 C 208,94.704016 197.29598,84 184,84 Z"
+       style="stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="m 16,21 c -2.215998,0 -4,1.784002 -4,4 v 18 c 0,3.323996 2.676003,6 6,6 h 28 c 3.323996,0 6,-2.676004 6,-6 V 27 c 0,-3.323996 -2.676004,-6 -6,-6 z"
        sodipodi:nodetypes="cccsssscc" />
   </g>
   <path
-     d="m 48,128 v 8 h 8.000005 v -8 z m 8.000005,8 v 8 h 7.999996 v -8 z m 7.999996,0 h 8.000001 v -8 h -8.000001 z m 8.000001,0 v 8 h 8 v -8 z m 8,0 h 8.000001 v -8 h -8.000001 z m 8.000001,0 v 8 h 8.000001 v -8 z m 8.000001,0 H 104 v -8 H 96.000004 Z M 104,136 v 8 h 8 v -8 z m 8,0 h 8.00001 v -8 H 112 Z m 8.00001,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 H 168 v -8 h -7.99999 z M 168,136 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z"
+     d="m 48,128 v 8 h 8.000004 v -8 z m 8.000004,8 v 8 H 64 v -8 z M 64,136 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z m 8,0 h 8 v -8 h -8 z m 8,0 v 8 h 8 v -8 z"
      style="fill:currentColor;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
      id="path324"
      class="ColorScheme-Highlight" />

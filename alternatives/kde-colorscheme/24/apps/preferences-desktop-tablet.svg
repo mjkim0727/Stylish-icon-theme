@@ -54,14 +54,10 @@
      style="opacity:0.6;fill:currentColor"
      class="ColorScheme-Text"
      transform="translate(1,1)">
-    <rect
-       style="opacity:0.4;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+    <path
        id="rect346"
-       width="14"
-       height="10"
-       x="4"
-       y="6"
-       ry="1" />
+       style="opacity:0.4;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 5,6 C 4.4460006,6 4,6.4460006 4,7 v 8 c 0,0.553999 0.4460006,1 1,1 h 12 c 0.553999,0 1,-0.446001 1,-1 V 7 C 18,6.8300229 17.957021,6.671131 17.882812,6.53125 l -5.478515,5.478516 -1.767578,0.353515 0.353515,-1.767578 L 15.585938,6 Z" />
     <path
        id="rect3364"
        style="opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"

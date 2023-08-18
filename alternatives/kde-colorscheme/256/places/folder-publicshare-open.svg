@@ -7,7 +7,7 @@
    viewBox="0 0 256 256"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (1:1.2.1+202210291243+9c6d41e410)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="folder-publicshare-open.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="3.2226562"
-     inkscape:cx="128.93091"
-     inkscape:cy="128.93091"
+     inkscape:zoom="3.1484375"
+     inkscape:cx="127.84119"
+     inkscape:cy="128"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -63,6 +64,7 @@
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
      id="path243"
-     style="opacity:0.6;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
-     d="m 128,116 a 20,20 0 0 0 -20,20 20,20 0 0 0 20,20 20,20 0 0 0 20,-20 20,20 0 0 0 -20,-20 z m 0,4 a 16,16 0 0 1 16,16 16,16 0 0 1 -16,16 16,16 0 0 1 -16,-16 16,16 0 0 1 16,-16 z m 0,48 a 40,40 0 0 0 -40,40 h 4 a 35.999999,35.999999 0 0 1 36,-36 35.999999,35.999999 0 0 1 36,36 h 4 a 40,40 0 0 0 -40,-40 z" />
+     style="opacity:0.6;fill:currentColor;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+     d="m 128,116 a 20,20 0 0 0 -20,20 20,20 0 0 0 20,20 20,20 0 0 0 20,-20 20,20 0 0 0 -20,-20 z m 0,4 a 16,16 0 0 1 16,16 16,16 0 0 1 -16,16 16,16 0 0 1 -16,-16 16,16 0 0 1 16,-16 z m 0,48 a 40,40 0 0 0 -40,40 h 4 a 35.999998,35.999998 0 0 1 36,-36 35.999998,35.999998 0 0 1 36,36 h 4 a 40,40 0 0 0 -40,-40 z"
+     class="ColorScheme-Text" />
 </svg>

@@ -55,10 +55,9 @@
      class="ColorScheme-Text"
      transform="translate(1,1)">
     <path
-       d="M 6.901617,12.732045 3,17 h 8.99988 L 8.251261,12.732045 c -0.302912,-0.344878 -1.029504,-0.3502 -1.349644,0 z"
-       style="opacity:0.6;stroke-width:0.111611;stroke-linecap:round;stroke-linejoin:round"
        id="path1600"
-       sodipodi:nodetypes="sccss" />
+       style="opacity:0.6;stroke-width:0.111611;stroke-linecap:round;stroke-linejoin:round"
+       d="M 7.5820312,12.470703 C 7.322502,12.470038 7.0624136,12.557322 6.9023438,12.732422 L 3,17 H 7 L 9.5800781,14.244141 8.2519531,12.732422 C 8.1004973,12.559983 7.8415605,12.471368 7.5820312,12.470703 Z" />
     <path
        id="rect234"
        style="stroke-width:0.111611;stroke-linecap:round;stroke-linejoin:round"

@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (1:1.2.1+202210291243+9c6d41e410)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="folder-template.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.4453125"
-     inkscape:cx="64.155152"
-     inkscape:cy="64.155152"
+     inkscape:zoom="6.296875"
+     inkscape:cx="63.920596"
+     inkscape:cy="64"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -63,7 +64,8 @@
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
      id="path1011"
-     style="color:#000000;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:28.5696;stroke-linejoin:round"
-     d="m 83.992829,58.004009 c -0.40365,-0.0012 -0.80496,0.11622 -1.14844,0.35547 l -39.99609,28.007813 c -1.582156,1.12155 -0.78692,3.61348 1.152344,3.63281 h 39.999996 c 1.09915,-0.004 1.99612,-0.90086 2,-2 V 60.000103 c -0.001,-0.74521 -0.4286,-1.429764 -1.08984,-1.773438 -0.28876,-0.15034 -0.60405,-0.221722 -0.91797,-0.222656 z m -5.99219,12.996093 v 11 H 63.000642 Z"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:28.5696;stroke-linejoin:round;-inkscape-stroke:none"
+     class="ColorScheme-Text"
+     d="m 83.992188,58.003906 c -0.403654,-0.0012 -0.804962,0.11622 -1.148438,0.35547 L 42.847656,86.367188 C 41.2655,87.488744 42.060736,89.980672 44,90 h 40 c 1.099152,-0.0038 1.996114,-0.900858 2,-2 V 60 C 85.998828,59.25479 85.5714,58.570236 84.910156,58.226562 84.6214,58.076222 84.306108,58.00484 83.992188,58.003906 Z M 78,71 V 82 H 63 Z"
      sodipodi:nodetypes="scccccccscccc" />
 </svg>

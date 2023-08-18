@@ -32,7 +32,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="g1055" />
   <defs
      id="defs2">
     <style
@@ -52,9 +52,9 @@
      style="opacity:0.6;fill:currentColor"
      class="ColorScheme-Text">
     <path
-       d="m 6,5.5 h 4 l 1.5,7 h -7 z"
+       id="path479"
        style="opacity:0.5;stroke-linecap:round;stroke-linejoin:round"
-       id="path479" />
+       d="M 6.5 6 L 6 8 L 10 8 L 9.5 6 L 6.5 6 z M 5.5 10 L 5 12 L 11 12 L 10.5 10 L 5.5 10 z " />
     <path
        d="m 7.0000002,3 c -0.5539988,0 -0.8656355,0.4625421 -1,1 l -2,8 h -1 v 1 H 13 V 12 H 12 L 9.9999998,4 C 9.8391828,3.4371407 9.5539988,3 9.0000002,3 Z m -0.5,3.0000002 h 2.9999996 l 0.5,2 H 6.0000002 Z M 5.5000002,10 H 10.5 L 11,12 H 5.0000002 Z"
        style="stroke-width:0.707107;stroke-linecap:round;stroke-linejoin:round"

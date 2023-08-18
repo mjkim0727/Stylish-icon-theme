@@ -55,9 +55,9 @@
      style="opacity:0.6;fill:currentColor"
      transform="translate(1,1)">
     <path
-       d="M 4,6 V 7 H 18 V 6 Z m 0,4 v 1 h 14 v -1 z m 0,4 v 1 h 9 v -1 z"
+       id="path1024"
        style="opacity:0.5;stroke-linecap:round"
-       id="path1024" />
+       d="M 4,6 V 7 H 18 V 6 Z m 0,4 v 1 h 5.0371094 c 0.050514,-0.353001 0.1531371,-0.689204 0.3007812,-1 z m 6.503906,0 c -0.219098,0.291109 -0.377961,0.629775 -0.453125,1 h 4.898438 c -0.07516,-0.370225 -0.234027,-0.708891 -0.453125,-1 z m 5.158203,0 c 0.147645,0.310796 0.250267,0.646999 0.300782,1 H 18 V 10 Z M 4,14 v 1 h 8.5 c -0.953014,0 -1.816108,-0.382137 -2.447266,-1 z m 8.5,1 H 13 V 14.96094 C 12.835213,14.985417 12.668099,14.999309 12.5,15 Z" />
     <path
        id="path914"
        style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round"

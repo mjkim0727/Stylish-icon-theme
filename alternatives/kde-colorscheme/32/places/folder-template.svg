@@ -38,6 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
+         .ColorScheme-Text { color:#232629; }
          .ColorScheme-Highlight { color:#3daee9; }
      </style>
   </defs>
@@ -63,6 +64,7 @@
      sodipodi:nodetypes="ccssscssccscssc" />
   <path
      id="path1011"
-     style="color:#000000;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.1424;stroke-linejoin:round;-inkscape-stroke:none"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:7.1424;stroke-linejoin:round;-inkscape-stroke:none"
+     class="ColorScheme-Text"
      d="m 20.597384,15.100003 c -0.100914,-2.99e-4 -0.20124,0.03003 -0.287109,0.08984 l -10,7.001953 c -0.3955386,0.280388 -0.195752,0.903371 0.289062,0.908203 h 10 c 0.274788,-9.5e-4 0.499028,-0.225215 0.5,-0.5 v -7 C 21.099044,15.413697 20.991211,15.242558 20.8259,15.15664 20.75371,15.11906 20.675864,15.10023 20.597384,15.1 Z m -0.498047,1.5 v 5.5 h -7.75 z" />
 </svg>
