@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="konversation.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="16.5"
-     inkscape:cx="24"
+     inkscape:zoom="17.291667"
+     inkscape:cx="23.971084"
      inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,8 +68,7 @@
      style="fill:url(#linearGradient4780);fill-opacity:1.0;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
      d="M 19.5,3 C 5.848228,3 3,5.909739 3,19.5 v 9 C 3,42.090261 5.848228,45 19.5,45 h 9 C 42.151773,45 45,42.090261 45,28.5 v -9 C 45,5.909739 42.151773,3 28.5,3 Z" />
   <path
-     id="rect584"
+     d="m 35,13 -22,5.999999 v 7.999999 l 22,6.000001 z M 9.0000003,18.999999 v 7.999999 H 12 V 19 Z M 36,19.999998 v 6.000001 h 3 v -6 z m -24,9 V 35 h 3 v -6.000003 z"
      style="fill:#ffffff;fill-opacity:1;stroke-width:5.65686;stroke-linecap:round;stroke-linejoin:round"
-     d="m 35,13 -22,5.999999 v 7.999999 l 22,6.000001 z M 9,18.999999 v 7.999999 h 3 V 19 Z m 27,0.999999 v 6.000001 h 3 v -6 z m -24,9 V 35 h 3 v -6.000003 z"
-     sodipodi:nodetypes="cccccccccccccccccccc" />
+     id="path348" />
 </svg>
