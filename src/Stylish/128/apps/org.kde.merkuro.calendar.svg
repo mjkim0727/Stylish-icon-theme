@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="org.gnome.Loupe.svg"
+   sodipodi:docname="org.kde.merkuro.calendar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.1875"
-     inkscape:cx="63.838384"
-     inkscape:cy="62.545455"
+     inkscape:zoom="6.125"
+     inkscape:cx="64"
+     inkscape:cy="64"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="0"
@@ -39,25 +39,25 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2"
-       id="linearGradient3500"
-       x1="2"
-       y1="2"
-       x2="30"
-       y2="30"
+       xlink:href="#linearGradient1428"
+       id="linearGradient4780"
+       x1="30"
+       y1="30"
+       x2="2"
+       y2="2"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(4)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient2">
+       id="linearGradient1428">
       <stop
-         style="stop-color:#f38919;stop-opacity:1;"
+         style="stop-color:#ffbb75;stop-opacity:1;"
          offset="0"
-         id="stop1" />
+         id="stop1424" />
       <stop
-         style="stop-color:#e570f3;stop-opacity:1;"
+         style="stop-color:#f68200;stop-opacity:1;"
          offset="1"
-         id="stop2" />
+         id="stop1426" />
     </linearGradient>
   </defs>
   <path
@@ -66,22 +66,58 @@
      id="path563" />
   <path
      id="path530"
-     style="fill:url(#linearGradient3500);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient4780);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
      d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z" />
+  <rect
+     style="opacity:0.6;fill:#ffffff;stroke-width:2"
+     width="16"
+     height="16"
+     x="68"
+     y="44"
+     ry="4"
+     id="rect3" />
+  <rect
+     style="opacity:0.6;fill:#ffffff;stroke-width:2"
+     width="16"
+     height="16"
+     x="92"
+     y="68"
+     ry="4"
+     id="rect4" />
   <path
-     d="M 44.8089,73.238124 24,96.000852 H 72 L 52.0071,73.238124 c -1.615552,-1.839372 -5.49076,-1.867756 -7.1982,0 z"
-     style="opacity:0.6;fill:#ffffff;stroke-width:0.595264;stroke-linecap:round;stroke-linejoin:round"
-     id="path1600"
-     sodipodi:nodetypes="sccss" />
-  <path
-     id="rect234"
-     style="fill:#ffffff;stroke-width:0.595264;stroke-linecap:round;stroke-linejoin:round"
-     d="M 68.8089,65.243584 40,96.000852 h 64 L 76.0071,65.243584 c -1.647808,-1.810532 -5.468264,-1.846932 -7.1982,0 z"
-     sodipodi:nodetypes="sccss" />
-  <circle
-     style="fill:#ffffff;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
-     id="path3505"
-     cx="40"
-     cy="40"
-     r="8" />
+     style="color:#000000;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 85.355468,68.53125 a 2,2 0 0 0 -2.824218,0.11328 l -8.449218,9.152342 -2.54297,-3.070312 a 2,2 0 0 0 -2.8125,-0.265624 2,2 0 0 0 -0.265624,2.8125 l 4,4.835936 a 2.0002,2.0002 0 0 0 3.007812,0.08204 l 10,-10.835938 a 2,2 0 0 0 -0.11328,-2.824218 z"
+     id="path6" />
+  <rect
+     style="fill:#ffffff;stroke-width:2"
+     width="16"
+     height="16"
+     x="92"
+     y="44"
+     ry="4"
+     id="rect7" />
+  <rect
+     style="fill:#ffffff;stroke-width:2"
+     width="16"
+     height="16"
+     x="44"
+     y="44"
+     ry="4"
+     id="rect8" />
+  <rect
+     style="fill:#ffffff;stroke-width:2"
+     width="16"
+     height="16"
+     x="44"
+     y="68"
+     ry="4"
+     id="rect9" />
+  <rect
+     style="fill:#ffffff;stroke-width:2"
+     width="16"
+     height="16"
+     x="20"
+     y="68"
+     ry="4"
+     id="rect10" />
 </svg>
