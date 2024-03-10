@@ -7,8 +7,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="go-bottom.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="go-top.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="26"
-     inkscape:cx="5.9423077"
-     inkscape:cy="7.1538462"
+     inkscape:zoom="50.25"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -42,17 +42,16 @@
     </style>
   </defs>
   <path
-     d="M 4.051,9.6562488 C 4.050999,9.5284386 4.09955,9.4006637 4.197484,9.3027332 L 8.5002187,4.9999985 12.804907,9.3027332 c 0.195867,0.1958678 0.195867,0.5111619 0,0.7070308 -0.195869,0.195868 -0.511166,0.195871 -0.707032,0 L 9.0002187,6.914062 V 14.5 c 0,0.277 -0.2230003,0.500001 -0.5,0.500001 -0.2769997,0 -0.5,-0.223001 -0.5,-0.500001 V 6.914062 L 4.904516,10.009764 c -0.195877,0.19586 -0.511163,0.195869 -0.707032,0 C 4.099554,9.9118304 4.051001,9.784059 4.051,9.6562488 Z"
+     id="path510"
      style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      class="ColorScheme-Text"
-     id="path510"
-     sodipodi:nodetypes="scccsccssscccs" />
+     d="m 14.450805,12.65625 c 10e-7,-0.12781 -0.04855,-0.255585 -0.146484,-0.353516 L 8.0015868,6 1.6968988,12.302734 c -0.195865,0.195868 -0.195865,0.511162 0,0.707032 0.195869,0.195865 0.511166,0.195868 0.7070319,0 1.86523,-1.865887 3.732013,-3.7302309 5.5976561,-5.5957035 L 13.59729,13.009766 c 0.195876,0.195857 0.511163,0.195866 0.707031,0 0.09793,-0.09793 0.146484,-0.225706 0.146484,-0.353516 z" />
   <circle
      style="fill:currentColor;stroke-width:1.99999;stroke-linecap:round;stroke-linejoin:round"
-     class="ColorScheme-Text"
      id="path679"
-     cx="8.5"
-     cy="-2.4999995"
-     r="1.5"
-     transform="scale(1,-1)" />
+     class="ColorScheme-Text"
+     cx="4"
+     cy="8.0015869"
+     transform="matrix(0,1,1,0,0,0)"
+     r="1" />
 </svg>
