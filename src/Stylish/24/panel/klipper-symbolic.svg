@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="klipper-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="33.5"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     d="M 10.5,4 C 9.8442907,4 9.2888842,4.4160206 9.0839844,5 H 8 C 6.8920011,5 6,5.8920011 6,7 v 10 c 0,1.107999 0.8920011,2 2,2 h 8 c 1.107998,0 2,-0.892002 2,-2 V 7 C 18,5.8920011 17.107999,5 16,5 H 14.916016 C 14.711116,4.4160206 14.155699,4 13.5,4 Z m 0,1 h 3 C 13.777,5 14,5.2230003 14,5.5 14,5.7769997 13.777,6 13.5,6 h -3 C 10.223,6 10,5.7769997 10,5.5 10,5.2230003 10.223,5 10.5,5 Z M 8,6 H 9.0839844 C 9.2888842,6.5839794 9.8443007,7 10.5,7 h 3 c 0.655709,0 1.211116,-0.4160206 1.416016,-1 H 16 c 0.553999,0 1,0.4460006 1,1 v 10 c 0,0.553998 -0.446002,1 -1,1 H 8 C 7.4460006,18 7,17.553999 7,17 V 7 C 7,6.4460006 7.4460006,6 8,6 Z"
+     style="fill:currentColor;paint-order:stroke fill markers"
+     id="path1"
+     class="ColorScheme-Text" />
+</svg>

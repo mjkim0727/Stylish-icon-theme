@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="klipper-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="50.125"
+     inkscape:cx="7.9800499"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     d="M 6.5,0 C 5.8442907,0 5.2888842,0.4160206 5.0839844,1 H 4 C 2.8920011,1 2,1.8920011 2,3 v 10 c 0,1.107999 0.8920011,2 2,2 h 8 c 1.107998,0 2,-0.892002 2,-2 V 3 C 14,1.8920011 13.107999,1 12,1 H 10.916016 C 10.711116,0.4160206 10.155699,0 9.5,0 Z m 0,1 h 3 C 9.777,1 10,1.2230003 10,1.5 10,1.7769997 9.777,2 9.5,2 h -3 C 6.2230003,2 6,1.7769997 6,1.5 6,1.2230003 6.2230003,1 6.5,1 Z M 4,2 H 5.0839844 C 5.2888842,2.5839794 5.8443007,3 6.5,3 h 3 c 0.655709,0 1.211116,-0.4160206 1.416016,-1 H 12 c 0.553999,0 1,0.4460006 1,1 v 10 c 0,0.553998 -0.446002,1 -1,1 H 4 C 3.4460006,14 3,13.553999 3,13 V 3 C 3,2.4460006 3.4460006,2 4,2 Z"
+     style="paint-order:stroke fill markers;fill:currentColor"
+     id="path1"
+     class="ColorScheme-Text" />
+</svg>
