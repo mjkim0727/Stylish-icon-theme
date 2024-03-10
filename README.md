@@ -11,15 +11,11 @@ Modern icon theme for Linux Desktops
 
  - [x] Folder Color
 
- - [ ] Preferences icons(Cancelled)
-
 - [x] Revamp Mimetypes icon
 
 - [x] Packaging Icon Theme
 
-- [ ] Improve Compatiblity for OpenSUSE
-
-- [ ] Improve for KDE 6
+- [ ] Improve Compatiblity for KDE 6
 
 - [x] Apply G44 Adwaita Color
 
