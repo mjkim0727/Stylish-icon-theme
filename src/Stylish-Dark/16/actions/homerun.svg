@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="homerun.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="50.25"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1577"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 1,0 C 0.4460006,0 0,0.4460006 0,1 V 6 C 0,6.553999 0.4460006,7 1,7 H 6 C 6.553999,7 7,6.553999 7,6 V 1 C 7,0.4460006 6.553999,0 6,0 Z m 9,0 C 9.446001,0 9,0.4460006 9,1 v 5 c 0,0.553999 0.446001,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 V 1 C 16,0.4460006 15.553999,0 15,0 Z M 1,1 H 6 V 6 H 1 Z m 9,0 h 5 V 6 H 10 Z M 1,9 C 0.4460006,9 0,9.446001 0,10 v 5 c 0,0.553999 0.4460006,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 V 10 C 7,9.446001 6.553999,9 6,9 Z m 9,0 C 9.446001,9 9,9.446001 9,10 v 5 c 0,0.553999 0.446001,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 V 10 C 16,9.446001 15.553999,9 15,9 Z m -9,1 h 5 v 5 H 1 Z m 9,0 h 5 v 5 h -5 z" />
+</svg>
