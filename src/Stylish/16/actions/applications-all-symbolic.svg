@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="52"
-     inkscape:cx="6.4230769"
+     inkscape:zoom="50.25"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -51,11 +51,12 @@
        helper_size="0"
        apply_no_weight="true"
        apply_with_weight="true"
-       only_selected="false" />
+       only_selected="false"
+       uniform="false" />
   </defs>
   <path
-     d="M 1,8 C 0.446,8 0,8.446 0,9 v 5 c 0,0.554 0.446,1 1,1 h 5 c 0.554,0 1,-0.446 1,-1 V 9 C 7,8.446 6.554,8 6,8 Z m 0,1 h 5 v 5 H 1 Z M 9,8 C 8.446,8 8,8.446 8,9 v 5 c 0,0.554 0.446,1 1,1 h 5 c 0.554,0 1,-0.446 1,-1 V 9 C 15,8.446 14.554,8 14,8 Z m 0,1 h 5 v 5 H 9 Z M 9,0 C 8.446,0 8,0.446 8,1 v 5 c 0,0.554 0.446,1 1,1 h 5 c 0.554,0 1,-0.446 1,-1 V 1 C 15,0.446 14.554,0 14,0 Z m 0,1 h 5 V 6 H 9 Z M 1,0 H 6 C 6.554,0 7,0.446 7,1 V 6 C 7,6.554 6.554,7 6,7 H 1 C 0.446,7 0,6.554 0,6 V 1 C 0,0.446 0.446,0 1,0 Z"
      id="path1"
+     style="fill:currentColor"
      class="ColorScheme-Text"
-     style="fill:currentColor" />
+     d="M 1,0 C 0.4460006,0 0,0.4460006 0,1 V 6 C 0,6.553999 0.4460006,7 1,7 H 6 C 6.553999,7 7,6.553999 7,6 V 1 C 7,0.4460006 6.553999,0 6,0 Z m 9,0 C 9.446001,0 9,0.4460006 9,1 v 5 c 0,0.553999 0.446001,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 V 1 C 16,0.4460006 15.553999,0 15,0 Z m 0,1 h 5 V 6 H 10 Z M 1,9 C 0.4460006,9 0,9.446001 0,10 v 5 c 0,0.553999 0.4460006,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 V 10 C 7,9.446001 6.553999,9 6,9 Z m 9,0 C 9.446001,9 9,9.446001 9,10 v 5 c 0,0.553999 0.446001,1 1,1 h 5 c 0.553999,0 1,-0.446001 1,-1 V 10 C 16,9.446001 15.553999,9 15,9 Z m -9,1 h 5 v 5 H 1 Z m 9,0 h 5 v 5 h -5 z" />
 </svg>
