@@ -23,7 +23,7 @@ DialogSizes=16,22,24,32,48,64
 
 #Directory List
 
-Directories=8/emblems,8@2x/emblems,16/actions,16/apps,16/devices,16/emblems,16/emotes,16/mimetypes,16/panel,16/places,16/status,16@2x/actions,16@2x/apps,16@2x/devices,16@2x/emblems,16@2x/emotes,16@2x/mimetypes,16@2x/panel,16@2x/places,16@2x/status,22/actions,22/apps,22/devices,22/emblems,22/mimetypes,22/panel,22/places,22/status,22@2x/actions,22@2x/apps,22@2x/devices,22@2x/emblems,22@2x/mimetypes,22@2x/panel,22@2x/places,22@2x/status,24/actions,24/animations,24/apps,24/devices,24/emblems,24/mimetypes,24/panel,24/places,24/status,24@2x/actions,24@2x/animations,24@2x/apps,24@2x/devices,24@2x/emblems,24@2x/mimetypes,24@2x/panel,24@2x/places,24@2x/status,32/apps,32/devices,32/emblems,32/mimetypes,32/places,32/status,32@2x/apps,32@2x/devices,32@2x/emblems,32@2x/mimetypes,32@2x/places,32@2x/status,48/apps,48/devices,48/emblems,48/mimetypes,48/places,48/status,48@2x/apps,48@2x/devices,48@2x/emblems,48@2x/mimetypes,48@2x/places,48@2x/status,64/apps,64/devices,64/mimetypes,64/places,64/status,64@2x/apps,64@2x/devices,64@2x/mimetypes,64@2x/places,64@2x/status,96/apps,96/devices,96/mimetypes,96/places,96/status,96@2x/apps,96@2x/devices,96@2x/mimetypes,96@2x/places,96@2x/status,128/apps,128/devices,128/mimetypes,128/places,128/status,128@2x/apps,128@2x/devices,128@2x/mimetypes,128@2x/places,128@2x/status,256/apps,256/devices,256/mimetypes,256/places,256/status,256@2x/apps,256@2x/devices,256@2x/mimetypes,256@2x/places,256@2x/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=8/emblems,8@2x/emblems,16/actions,16/apps,16/devices,16/emblems,16/emotes,16/mimetypes,16/panel,16/places,16/status,16@2x/actions,16@2x/apps,16@2x/devices,16@2x/emblems,16@2x/emotes,16@2x/mimetypes,16@2x/panel,16@2x/places,16@2x/status,22/actions,22/apps,22/devices,22/emblems,22/mimetypes,22/panel,22/places,22/status,22@2x/actions,22@2x/apps,22@2x/devices,22@2x/emblems,22@2x/mimetypes,22@2x/panel,22@2x/places,22@2x/status,24/actions,24/animations,24/apps,24/devices,24/emblems,24/mimetypes,24/panel,24/places,24/status,24@2x/actions,24@2x/animations,24@2x/apps,24@2x/devices,24@2x/emblems,24@2x/mimetypes,24@2x/panel,24@2x/places,24@2x/status,32/apps,32/applets,32/devices,32/emblems,32/mimetypes,32/places,32/status,32@2x/apps,32@2x/applets,32@2x/devices,32@2x/emblems,32@2x/mimetypes,32@2x/places,32@2x/status,48/apps,48/devices,48/emblems,48/mimetypes,48/places,48/status,48@2x/apps,48@2x/devices,48@2x/emblems,48@2x/mimetypes,48@2x/places,48@2x/status,64/apps,64/applets,64/devices,64/mimetypes,64/places,64/status,64@2x/apps,64@2x/applets,64@2x/devices,64@2x/mimetypes,64@2x/places,64@2x/status,96/apps,96/devices,96/mimetypes,96/places,96/status,96@2x/apps,96@2x/devices,96@2x/mimetypes,96@2x/places,96@2x/status,128/apps,128/applets,128/devices,128/mimetypes,128/places,128/status,128@2x/apps,128@2x/applets,128@2x/devices,128@2x/mimetypes,128@2x/places,128@2x/status,256/apps,256/devices,256/mimetypes,256/places,256/status,256@2x/apps,256@2x/devices,256@2x/mimetypes,256@2x/places,256@2x/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 # 8
 
@@ -347,6 +347,13 @@ Context=Applications
 Size=32
 Type=Fixed
 
+[32/applets]
+Context=Status
+Size=32
+Type=Scalable
+MinSize=32
+MaxSize=256
+
 [32/devices]
 Context=Devices
 Size=32
@@ -379,6 +386,14 @@ Context=Applications
 Size=32
 Scale=2
 Type=Fixed
+
+[32@2x/applets]
+Context=Status
+Size=32
+Scale=2
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [32@2x/devices]
 Context=Devices
@@ -487,6 +502,13 @@ Context=Applications
 Size=64
 Type=Fixed
 
+[64/applets]
+Context=Status
+Size=64
+Type=Scalable
+MinSize=32
+MaxSize=256
+
 [64/devices]
 Context=Devices
 Size=64
@@ -514,6 +536,14 @@ Context=Applications
 Size=64
 Scale=2
 Type=Fixed
+
+[64@2x/applets]
+Context=Status
+Size=64
+Scale=2
+Type=Scalable
+MinSize=64
+MaxSize=256
 
 [64@2x/devices]
 Context=Devices
@@ -603,6 +633,13 @@ Context=Applications
 Size=128
 Type=Fixed
 
+[128/applets]
+Context=Status
+Size=128
+Type=Scalable
+MinSize=128
+MaxSize=256
+
 [128/devices]
 Context=Devices
 Size=128
@@ -630,6 +667,14 @@ Context=Applications
 Size=128
 Scale=2
 Type=Fixed
+
+[128@2x/applets]
+Context=Status
+Size=128
+Scale=2
+Type=Scalable
+MinSize=128
+MaxSize=256
 
 [128@2x/devices]
 Context=Devices
