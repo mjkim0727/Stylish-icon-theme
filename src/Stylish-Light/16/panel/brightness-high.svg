@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="brightness-high.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="50.25"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     d="m 8.5003,1.5 c 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 -0.27614,0 -0.5,0.22386 -0.5,0.5 v 1 c 0,0.27614 0.22386,0.5 0.5,0.5 0.27614,0 0.5,-0.22386 0.5,-0.5 z M 3.7577,3.0502 c -0.19526,-0.19526 -0.51185,-0.19526 -0.70711,0 -0.19526,0.19526 -0.19526,0.51185 0,0.70711 L 3.7577,4.46442 c 0.19526,0.19526 0.51184,0.19526 0.70711,0 0.19526,-0.19527 0.19526,-0.51185 0,-0.70711 z M 12.95,3.75731 c 0.1953,-0.19526 0.1953,-0.51185 0,-0.70711 -0.1952,-0.19526 -0.5118,-0.19526 -0.7071,0 l -0.7071,0.70711 c -0.1952,0.19526 -0.1952,0.51184 0,0.70711 0.1953,0.19526 0.5119,0.19526 0.7071,0 z M 1.5,7.49991 c -0.27614,0 -0.5,0.22386 -0.5,0.5 0,0.27614 0.22386,0.5 0.5,0.5 h 1 c 0.27614,0 0.5,-0.22386 0.5,-0.5 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 z m 12,0 c -0.2761,0 -0.5,0.22386 -0.5,0.5 0,0.27614 0.2239,0.5 0.5,0.5 h 1 c 0.2761,0 0.5,-0.22386 0.5,-0.5 0,-0.27614 -0.2239,-0.5 -0.5,-0.5 z m -9.0355,4.7426 c 0.19526,-0.1952 0.19526,-0.5118 0,-0.7071 -0.19527,-0.1952 -0.51185,-0.1952 -0.70711,0 l -0.70711,0.7071 c -0.19526,0.1953 -0.19526,0.5119 0,0.7071 0.19526,0.1953 0.51185,0.1953 0.70711,0 z m 7.7781,-0.7071 c -0.1952,-0.1952 -0.5118,-0.1952 -0.7071,0 -0.1952,0.1953 -0.1952,0.5119 0,0.7071 l 0.7071,0.7071 c 0.1953,0.1953 0.5119,0.1953 0.7071,0 0.1953,-0.1952 0.1953,-0.5118 0,-0.7071 z M 8.5,13.49991 c 0,-0.2761 -0.22386,-0.5 -0.5,-0.5 -0.27614,0 -0.5,0.2239 -0.5,0.5 v 1 c 0,0.2761 0.22386,0.5 0.5,0.5 0.27614,0 0.5,-0.2239 0.5,-0.5 z m -0.5,-9.5 c -2.2091,0 -4,1.7909 -4,4 0,2.2091 1.7909,4 4,4 2.2091,0 4,-1.7909 4,-4 0,-2.2091 -1.7909,-4 -4,-4 z m -3,4 c 0,-1.6568 1.3432,-3 3,-3 1.6568,0 3,1.3432 3,3 0,1.6568 -1.3432,3 -3,3 -1.6568,0 -3,-1.3431 -3,-3 z"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path1" />
+  <circle
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path2"
+     cx="8.0003004"
+     cy="7.9999552"
+     r="2" />
+</svg>
