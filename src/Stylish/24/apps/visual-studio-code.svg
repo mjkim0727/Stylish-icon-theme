@@ -7,7 +7,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="visual-studio-code.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="18.590909"
-     inkscape:cx="19.176039"
-     inkscape:cy="18.449878"
+     inkscape:zoom="32.75"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,7 +39,7 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1768"
+       xlink:href="#linearGradient1606"
        id="linearGradient3500"
        x1="2"
        y1="2"
@@ -47,18 +47,6 @@
        y2="28.666666"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.75,0,0,0.75,0.5,0.5)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1768">
-      <stop
-         style="stop-color:#333333;stop-opacity:1;"
-         offset="0"
-         id="stop1764" />
-      <stop
-         style="stop-color:#6a6a6a;stop-opacity:1;"
-         offset="1"
-         id="stop1766" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2463"
@@ -80,6 +68,18 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop2461" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1606">
+      <stop
+         style="stop-color:#eaebed;stop-opacity:1;"
+         offset="0"
+         id="stop1602" />
+      <stop
+         style="stop-color:#f9fafa;stop-opacity:1;"
+         offset="1"
+         id="stop1604" />
     </linearGradient>
   </defs>
   <path
