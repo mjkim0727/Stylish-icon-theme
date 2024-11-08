@@ -17,6 +17,8 @@ Modern icon theme for Linux Desktops
 
 - [ ] Improve Compatiblity for KDE 6
 
+- [ ] iOS18-Style Dark Mode icon
+
 - [x] Apply G44 Adwaita Color
 
 ## Install
