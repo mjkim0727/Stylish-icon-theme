@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="chat-message-new-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <path
+     d="M 5,5 C 3.892,5 3,5.892 3,7 v 7 c 0,1.108 0.892,2 2,2 h 6.666 l 3.7344,2.8008 c 0.6595,0.49391 1.5998,0.02316 1.5996,-0.80078 v -2.2754 c 0.5958,-0.34556 1,-0.98354 1,-1.7246 v -7 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 11 c 0.554,0 1,0.446 1,1 v 7 c 0,0.554 -0.446,1 -1,1 v 3 L 13.334,16 12,15 H 5 C 4.446,15 4,14.554 4,14 V 7 C 4,6.446 4.446,6 5,6 Z m 5,1 v 3 H 7 v 1 h 3 v 3 h 1 v -3 h 3 V 10 H 11 V 7 Z"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>
