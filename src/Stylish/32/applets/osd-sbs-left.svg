@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="32" height="32">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#7B7C7E;
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
       }
       .ColorScheme-Background{
         color:#EFF0F1;
@@ -10,34 +8,9 @@
       .ColorScheme-Highlight{
         color:#3DAEE6;
       }
-      .ColorScheme-ViewText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ViewBackground{
-        color:#FCFCFC;
-      }
-      .ColorScheme-ViewHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewFocus{
-        color:#1E92FF;
-      }
       .ColorScheme-ButtonText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#EFF0F1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#1E92FF;
-      }
-</style>
-    <g style="fill:none" id="32-32-osd-sbs-left">
-      <rect id="rect4196-6" height="32" width="32" x="0" y="0" style="fill:none"/>
-      <path style="color:#7b7c7e;fill:currentColor;fill-opacity:1;stroke:none" d="m 114,41 0,14 10,0 0,-1 -9,0 0,-12 9,0 0,-1 -10,0 z m 11,0 0,14 17,0 0,-14 -17,0 z m 1,1 15,0 0,12 -15,0 0,-12 z" transform="translate(-112,-32.00004)" id="path4200-0" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
-      <path style="color:#3daee6;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 119,44 0,8 5,0 0,-1 -4,0 0,-4 4,0 0,-3 -5,0 z m 8,0 0,3 4,0 0,4 -4,0 0,1 5,0 0,-8 -5,0 z m 1,1 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z" transform="translate(-112,-32.00004)" id="path4204-6" inkscape:connector-curvature="0" class="ColorScheme-ButtonFocus"/>
-    </g>
+        color:#363636;
+      }</style>
+ <path class="ColorScheme-Text" d="m5 9c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h8.3574c-0.32514-0.28638-0.60436-0.62206-0.82227-1h-7.5352c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2h7.5352c0.21791-0.37794 0.49713-0.71362 0.82227-1h-8.3574zm11 0c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h11c1.662 0 3-1.338 3-3v-8c0-1.662-1.338-3-3-3h-11zm0 1h11c1.108 0 2 0.892 2 2v8c0 1.108-0.892 2-2 2h-11c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2z" fill="currentColor"/>
+ <path class="ColorScheme-Highlight" d="m8 12c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h4v-1h-4v-4h4v-3h-4zm7 0v3h4v4h-4v1h4c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-4zm1.5 1a0.5 0.49998 0 0 1 0.5 0.5 0.5 0.49998 0 0 1-0.5 0.5 0.5 0.49998 0 0 1-0.5-0.5 0.5 0.49998 0 0 1 0.5-0.5zm2 0a0.49998 0.49998 0 0 1 0.5 0.5 0.49998 0.49998 0 0 1-0.5 0.5 0.49998 0.49998 0 0 1-0.5-0.5 0.49998 0.49998 0 0 1 0.5-0.5z" fill="currentColor"/>
 </svg>
