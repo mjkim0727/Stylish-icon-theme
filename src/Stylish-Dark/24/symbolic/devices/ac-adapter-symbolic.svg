@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="ac-adapter-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 5,5 V 7 H 4 v 2.5 c 0,0.29167 0.046875,0.57292 0.140625,0.84375 0.10417,0.27084 0.244795,0.515625 0.421875,0.734375 0.17708,0.21875 0.38542,0.40625 0.625,0.5625 0.25,0.14583 0.52083,0.25 0.8125,0.3125 V 17 h 1 v -5.046875 c 0.29167,-0.0625 0.557295,-0.16667 0.796875,-0.3125 0.25,-0.15625 0.463545,-0.34374 0.640625,-0.5625 C 8.61458,10.859365 8.75,10.61458 8.84375,10.34375 8.947917,10.07292 9,9.79167 9,9.5 V 7 H 8 V 5 H 7 V 7 H 6 V 5 Z m 5,2 v 1 h 7 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 H 8 v 1 h 9 c 1.108,0 2,-0.892 2,-2 v -2 h 1 V 11 H 19 V 9 C 19,7.892 18.108,7 17,7 Z M 5,8 H 8 V 9.5 C 8,9.91667 7.85417,10.27083 7.5625,10.5625 7.27083,10.85417 6.91667,11 6.5,11 6.08333,11 5.72917,10.85417 5.4375,10.5625 5.14583,10.27083 5,9.91667 5,9.5 Z m 5,1 v 0.5 c 0,1.3994 -0.81858,2.593397 -2,3.154297 V 15 h 9 V 9 Z" />
+</svg>

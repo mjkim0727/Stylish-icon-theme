@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.0"
+   id="svg1"
+   sodipodi:docname="nemo-recursive-search-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+    .ColorScheme-Text { color:#f2f2f2; }
+   </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 2 2 L 2 8 C 2 9.108 2.892 10 4 10 L 12.292969 10 L 8.9042969 13.388672 C 8.7084269 13.584542 8.7084269 13.899833 8.9042969 14.095703 C 9.1001669 14.291573 9.4154581 14.291573 9.6113281 14.095703 L 13.853516 9.8535156 C 13.865406 9.8416296 13.876279 9.8291192 13.886719 9.8164062 L 13.886719 9.8144531 C 13.950569 9.7362621 13.988567 9.6436781 13.998047 9.5488281 L 13.998047 9.546875 C 14.001047 9.515675 14.000947 9.484334 13.998047 9.453125 L 13.998047 9.4511719 C 13.988947 9.3561439 13.950387 9.2639969 13.886719 9.1855469 L 13.886719 9.1835938 C 13.876009 9.1704768 13.865756 9.1587254 13.853516 9.1464844 L 9.6113281 4.9042969 C 9.4154581 4.7084269 9.1001669 4.7084269 8.9042969 4.9042969 C 8.7084269 5.1001669 8.7084269 5.4154581 8.9042969 5.6113281 L 12.292969 9 L 4 9 C 3.446 9 3 8.554 3 8 L 3 2 L 2 2 z " />
+</svg>

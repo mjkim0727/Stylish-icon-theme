@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="computer-fail-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <path
+     id="path1017"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 2,1 C 0.8920033,1 0,1.8920033 0,3 v 8 c 0,1.107997 0.8920033,2 2,2 h 12 c 1.107997,0 2,-0.892003 2,-2 V 3 C 16,1.8920033 15.107997,1 14,1 Z m 0,1 h 12 c 0.553997,0 1,0.4460018 1,1 v 8 c 0,0.553997 -0.446003,1 -1,1 H 2 C 1.4460018,12 1,11.553997 1,11 V 3 C 1,2.4460018 1.4460018,2 2,2 Z M 3.5,14 C 3.2230003,14 3,14.223 3,14.5 3,14.777 3.2230003,15 3.5,15 h 9 C 12.777,15 13,14.777 13,14.5 13,14.223 12.777,14 12.5,14 Z" />
+  <path
+     d="M 4,4 V 5 H 5 V 4 Z M 5,5 V 6 H 6 V 5 Z M 6,5 H 7 V 4 H 6 Z M 6,6 V 7 H 7 V 6 Z M 5,6 H 4 V 7 H 5 Z M 9,4 v 1 h 1 V 4 Z m 1,1 v 1 h 1 V 5 Z m 1,0 h 1 V 4 h -1 z m 0,1 v 1 h 1 V 6 Z M 10,6 H 9 v 1 h 1 z M 5,8 v 1 h 6 V 8 Z m 6,1 v 1 h 1 V 9 Z M 5,9 H 4 v 1 h 1 z"
+     style="fill:currentColor"
+     id="path1"
+     class="ColorScheme-Text" />
+</svg>

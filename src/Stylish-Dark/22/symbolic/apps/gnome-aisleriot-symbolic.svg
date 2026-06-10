@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gnome-aisleriot-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.727273"
+     inkscape:cx="10.986386"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 7.75,4 A 3.751,3.751 0 0 0 4,7.6679688 C 4,8.6109687 4.247,9.345391 4.5,10.025391 5.687,12.835391 8,15.184 11,18 c 3,-2.816 5.313,-5.164609 6.5,-7.974609 0.253,-0.68 0.5,-1.4153754 0.5,-2.3593754 A 3.751,3.751 0 0 0 11,5.8808594 3.748,3.748 0 0 0 7.75,4 Z m 6.330078,0.9902344 c 0.2828,-0.00889 0.569169,0.026104 0.84961,0.097656 1.1186,0.2854 2.027806,1.1411969 2.066406,2.5917969 -0.0026,0.75202 -0.188905,1.3289567 -0.427735,1.9726567 C 15.579309,11.982744 13.583,14.109972 11,16.576172 8.417,14.109972 6.4207406,11.982644 5.4316406,9.652344 5.1928206,9.008704 5.0064962,8.4325406 5.0039062,7.6816406 5.0424882,6.1801406 6.2468,5 7.75,5 8.73538,4.9998212 9.641713,5.5246463 10.132813,6.3789062 l 0.865234,1.5058594 0.869141,-1.5058594 c 0.54617,-0.9477899 1.36449,-1.3619718 2.21289,-1.3886718 z" />
+</svg>

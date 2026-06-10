@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   enable-background="new"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="starred.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 11.999905,4.6210024 c -0.01388,-5.46e-5 -0.02699,8.37e-4 -0.04102,0.00195 -0.194381,0.016564 -0.361378,0.1446711 -0.427734,0.328125 L 9.665921,10.005768 H 4.4999054 c -0.4711897,8e-5 -0.6807296,0.592258 -0.3144531,0.888672 l 4.0351562,3.277344 -1.3378906,5.025391 c -0.1147838,0.440478 0.370828,0.792735 0.7539063,0.546875 l 4.3632808,-2.824219 4.363281,2.824219 c 0.383489,0.249167 0.872572,-0.104691 0.75586,-0.546875 L 15.781155,14.171784 19.816311,10.89444 C 20.183354,10.597412 19.972073,10.004 19.499905,10.005768 H 14.335843 L 12.468655,4.9510805 C 12.39677,4.7526462 12.208023,4.62182 11.999905,4.6210024 Z" />
+</svg>

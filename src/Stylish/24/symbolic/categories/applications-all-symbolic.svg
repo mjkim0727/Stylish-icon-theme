@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="applications-all-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="false"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor;stroke-width:1.16667"
+     class="ColorScheme-Text"
+     d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 9 C 4 10.108 4.892 11 6 11 L 9 11 C 10.108 11 11 10.108 11 9 L 11 6 C 11 4.892 10.108 4 9 4 L 6 4 z M 15 4 C 13.892 4 13 4.892 13 6 L 13 9 C 13 10.108 13.892 11 15 11 L 18 11 C 19.108 11 20 10.108 20 9 L 20 6 C 20 4.892 19.108 4 18 4 L 15 4 z M 6 5 L 9 5 C 9.554 5 10 5.446 10 6 L 10 9 C 10 9.554 9.554 10 9 10 L 6 10 C 5.446 10 5 9.554 5 9 L 5 6 C 5 5.446 5.446 5 6 5 z M 15 5 L 18 5 C 18.554 5 19 5.446 19 6 L 19 9 C 19 9.554 18.554 10 18 10 L 15 10 C 14.446 10 14 9.554 14 9 L 14 6 C 14 5.446 14.446 5 15 5 z M 6 13 C 4.892 13 4 13.892 4 15 L 4 18 C 4 19.108 4.892 20 6 20 L 9 20 C 10.108 20 11 19.108 11 18 L 11 15 C 11 13.892 10.108 13 9 13 L 6 13 z M 15 13 C 13.892 13 13 13.892 13 15 L 13 18 C 13 19.108 13.892 20 15 20 L 18 20 C 19.108 20 20 19.108 20 18 L 20 15 C 20 13.892 19.108 13 18 13 L 15 13 z M 6 14 L 9 14 C 9.554 14 10 14.446 10 15 L 10 18 C 10 18.554 9.554 19 9 19 L 6 19 C 5.446 19 5 18.554 5 18 L 5 15 C 5 14.446 5.446 14 6 14 z M 15 14 L 18 14 C 18.554 14 19 14.446 19 15 L 19 18 C 19 18.554 18.554 19 18 19 L 15 19 C 14.446 19 14 18.554 14 18 L 14 15 C 14 14.446 14.446 14 15 14 z " />
+</svg>

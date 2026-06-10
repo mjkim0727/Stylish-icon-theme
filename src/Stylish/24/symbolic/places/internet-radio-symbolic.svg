@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="internet-radio-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <path
+     d="m 12,4 a 6,6 0 0 0 -6,6 6,6 0 0 0 1.883,4.36 L 8.318,13.375 A 5,5 0 0 1 7,10 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -1.318,3.375 l 0.433,0.98 A 6,6 0 0 0 18,10 6,6 0 0 0 12,4 Z m 0,2 a 4,4 0 0 0 -4,4 4,4 0 0 0 0.771,2.352 L 9.027,11.773 9.267,11.23 A 3,3 0 0 1 9,10 3,3 0 0 1 9.059,9.416 c 0,-0.004 0,-0.008 0.002,-0.012 L 9.068,9.375 a 3,3 0 0 1 2.295,-2.303 c 0.02,-0.004 0.04,-0.01 0.06,-0.013 A 3,3 0 0 1 12,7 a 3,3 0 0 1 0.584,0.059 3,3 0 0 1 0.012,0.002 l 0.029,0.007 a 3,3 0 0 1 2.303,2.295 c 0.004,0.02 0.01,0.04 0.013,0.06 A 3,3 0 0 1 15,10 3,3 0 0 1 14.732,11.232 l 0.497,1.122 A 4,4 0 0 0 16,10 4,4 0 0 0 12,6 Z m 0,2 a 2,2 0 1 0 0,4 2,2 0 0 0 0,-4 z M 9.941,12.178 6.48,20 h 2.185 l 0.443,-1 h 5.786 l 0.443,1 h 2.185 L 14.06,12.18 a 3,3 0 0 1 -1.829,0.81 L 12.678,14 H 11.322 L 11.77,12.988 A 3,3 0 0 1 9.941,12.178 Z M 10.436,16 h 3.128 l 0.444,1 H 9.992 Z"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>

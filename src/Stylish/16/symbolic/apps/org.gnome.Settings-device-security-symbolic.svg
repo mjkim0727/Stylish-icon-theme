@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg2"
+   sodipodi:docname="org.gnome.Settings-device-security-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 3.5 0 C 2.1328 0 1 1.1328 1 2.5 L 1 8.5 C 1 10.3945 1.9492575 12.16795 3.5234375 13.21875 L 7.4453125 15.832031 C 7.7812525 16.054691 8.2187275 16.054691 8.5546875 15.832031 L 12.476562 13.21875 C 14.050762 12.16795 15 10.3946 15 8.5 L 15 2.5 C 15 1.1328 13.8672 0 12.5 0 L 3.5 0 z M 3.5 1 L 12.5 1 C 13.3148 1 14 1.68519 14 2.5 L 14 8.5 C 14 10.0605 13.218325 11.521319 11.921875 12.386719 L 8.0019531 14.998047 L 8 14.998047 L 7.9980469 14.998047 L 4.078125 12.386719 C 2.781625 11.521329 2 10.0605 2 8.5 L 2 2.5 C 2 1.68519 2.68519 1 3.5 1 z M 8 4 A 2 2 0 0 0 6 6 A 2 2 0 0 0 7 7.7265625 L 7 10 C 7 10.554 7.446 11 8 11 C 8.554 11 9 10.554 9 10 L 9 7.7265625 A 2 2 0 0 0 10 6 A 2 2 0 0 0 8 4 z M 8 5 A 1 1 0 0 1 9 6 A 1 1 0 0 1 8 7 A 1 1 0 0 1 7 6 A 1 1 0 0 1 8 5 z " />
+</svg>

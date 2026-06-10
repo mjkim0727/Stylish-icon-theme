@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="sensors-temperature-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     id="path1603"
+     style="opacity:0.3;fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 9.5,9 v 2.841797 C 8.2798894,12.420545 7.5015725,13.649586 7.5,15 c 0,1.932997 1.5670034,3.5 3.5,3.5 1.932997,0 3.5,-1.567003 3.5,-3.5 -6.5e-5,-1.351825 -0.778615,-2.582756 -2,-3.162109 V 9 Z" />
+  <path
+     id="path2003"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11,3 C 9.8920055,3 9,3.8920056 9,5 v 6.546875 C 7.7657867,12.259441 7.0039139,13.574862 7,15 c 0,2.209137 1.7908632,4 4,4 2.209137,0 4,-1.790863 4,-4 -4.33e-4,-1.428629 -0.762771,-2.748576 -2,-3.462891 V 5 C 13,3.8920056 12.107995,3 11,3 Z m 0,1 c 0.553997,0 1,0.446003 1,1 v 7.171875 c 1.198535,0.423746 1.999872,1.556887 2,2.828125 0,1.656854 -1.343146,3 -3,3 -1.6568542,0 -3,-1.343146 -3,-3 0.00343,-1.26837 0.8041636,-2.397526 2,-2.820312 V 5 c 0,-0.553997 0.446003,-1 1,-1 z" />
+</svg>

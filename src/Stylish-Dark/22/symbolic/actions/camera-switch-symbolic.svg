@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="camera-switch-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     d="M 5,10.359375 C 3.713,11.088375 3.002,12.027 3,13 c 0,1.256 1.039375,2.254687 2.484375,2.929688 1.214,0.566 2.783625,0.920437 4.515625,1.023437 V 19 L 13.5,16.5 10,14 v 1.953125 C 8.398,15.849125 6.9602031,15.515437 5.9082031,15.023438 4.6402031,14.431437 4,13.677 4,13 4.00343,12.458335 4.34899,11.927174 5,11.462891 Z m 12,0.002 v 1.099609 c 0.652597,0.465421 0.998215,0.998025 1,1.541016 0,0.676 -0.640203,1.429485 -1.908203,2.021485 C 15.502797,15.298435 14.788,15.52145 14,15.68945 v 1.03125 c 0.937,-0.183 1.788625,-0.452015 2.515625,-0.791015 C 17.959625,15.254688 19,14.256 19,13 18.997,12.028 18.286,11.090328 17,10.361328 Z"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path1" />
+  <path
+     id="path2"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8,3 V 4 H 7 C 5.892,4 5,4.892 5,6 v 6 c 0,1.108 0.892,2 2,2 h 8 c 1.108,0 2,-0.892 2,-2 V 6 C 17,4.892 16.108,4 15,4 H 10 V 3 Z M 7,5 h 8 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 H 7 C 6.446,13 6,12.554 6,12 V 6 C 6,5.446 6.446,5 7,5 Z m 4,1 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 3.5,0 A 0.5,0.5 0 0 0 14,6.5 0.5,0.5 0 0 0 14.5,7 0.5,0.5 0 0 0 15,6.5 0.5,0.5 0 0 0 14.5,6 Z M 11,7 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z m 0,1 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" />
+</svg>

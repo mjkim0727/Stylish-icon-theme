@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="align-horizontal-node-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     id="style1">@import &quot;../../highlights.css&quot;;</style>
+  <path
+     id="align-horizontal-node"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 1056.0006 861.35951 L 1056.0006 864.36012 L 1054.5006 864.36012 L 1054.5006 868.86105 L 1056.0006 868.86105 L 1056.0006 871.86166 L 1054.5006 871.86166 L 1054.5006 876.36258 L 1056.0006 876.36258 L 1056.0006 879.3632 L 1054.5006 879.3632 L 1054.5006 883.86412 L 1056.0006 883.86412 L 1056.0006 885.36443 L 1057.5006 885.36443 L 1057.5006 883.86412 L 1059.0006 883.86412 L 1059.0006 879.3632 L 1057.5006 879.3632 L 1057.5006 876.36258 L 1059.0006 876.36258 L 1059.0006 871.86166 L 1057.5006 871.86166 L 1057.5006 868.86105 L 1059.0006 868.86105 L 1059.0006 864.36012 L 1057.5006 864.36012 L 1057.5006 861.35951 L 1056.0006 861.35951 z M 1045.5006 862.85982 A 4.49 4.49 0 0 0 1050.0006 867.36074 L 1053.0006 867.36074 L 1053.0006 865.86043 L 1050.0006 865.86043 C 1048.3386 865.86043 1047.0006 864.52082 1047.0006 862.85982 L 1045.5006 862.85982 z M 1056.0006 865.86043 L 1057.5006 865.86043 L 1057.5006 867.36074 L 1056.0006 867.36074 L 1056.0006 865.86043 z M 1060.5006 865.86043 L 1060.5006 867.36074 C 1062.1626 867.36074 1063.5005 868.70035 1063.5005 870.36135 A 2.994 2.994 0 0 1 1060.5006 873.36197 L 1060.5006 874.86228 A 4.49 4.49 0 0 0 1065.0005 870.36135 A 4.49 4.49 0 0 0 1060.5006 865.86043 z M 1053.0006 873.36197 A 4.49 4.49 0 0 0 1048.5006 877.86289 A 4.49 4.49 0 0 0 1053.0006 882.36381 L 1053.0006 880.86351 C 1051.3386 880.86351 1050.0006 879.52489 1050.0006 877.86289 A 2.994 2.994 0 0 1 1053.0006 874.86228 L 1053.0006 873.36197 z M 1056.0006 873.36197 L 1057.5006 873.36197 L 1057.5006 874.86228 L 1056.0006 874.86228 L 1056.0006 873.36197 z M 1056.0006 880.86351 L 1057.5006 880.86351 L 1057.5006 882.36381 L 1056.0006 882.36381 L 1056.0006 880.86351 z M 1060.5006 880.86351 L 1060.5006 882.36381 C 1062.1626 882.36381 1063.5005 883.70343 1063.5005 885.36443 L 1065.0005 885.36443 A 4.49 4.49 0 0 0 1060.5006 880.86351 z "
+     transform="matrix(.66667 0 0 .66653 -696 -574.12)" />
+</svg>

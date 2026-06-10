@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   sodipodi:docname="address-book-app-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   width="22"
+   height="22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.727273"
+     inkscape:cx="10.959158"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 7,4 C 5.892,4 5,4.892 5,6 v 10 c 0,1.108 0.892,2 2,2 h 1 7 c 1.108,0 2,-0.892 2,-2 V 6 C 17,4.892 16.108,4 15,4 H 8 Z M 7,5 V 17 C 6.4430584,16.984617 6,16.531524 6,15.970703 V 6.0292969 C 6,5.4684761 6.4430584,5.0153828 7,5 Z m 1,0 h 6.970703 C 15.541323,5 16,5.4586769 16,6.0292969 V 15.970703 C 16,16.541323 15.541323,17 14.970703,17 H 8 Z m 3.488281,3.001953 c -0.482,-0.032 -0.952422,0.250859 -1.232422,0.63086 -0.272,0.492 -0.0507,1.076703 -0.220703,1.595703 -0.104,0.37 4.85e-4,0.767109 0.271485,1.037109 0.231,0.291 0.516421,0.672453 0.357422,1.064453 -0.229,0.441 -0.687516,0.699547 -1.103516,0.935547 -0.11,0.044 -0.251141,0.120891 -0.369141,0.212891 -0.105,0.028 -0.189453,0.109609 -0.189453,0.224609 V 14.75 c 0,0.138 0.11,0.25 0.25,0.25 h 4.5 c 0.13807,0 0.25,-0.11193 0.25,-0.25 v -1.28125 c -0.557,-0.303 -1.185047,-0.593641 -1.498047,-1.181641 -0.106,-0.462 0.218907,-0.8675 0.503906,-1.1875 0.281001,-0.358 0.170266,-0.829515 0.07227,-1.228515 -0.042,-0.442 0.100485,-0.966125 -0.228515,-1.328125 -0.357,-0.362 -0.871282,-0.509016 -1.363282,-0.541016 z" />
+</svg>

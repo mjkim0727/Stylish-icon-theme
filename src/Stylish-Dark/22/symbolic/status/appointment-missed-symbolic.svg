@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="appointment-missed-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 10.462891,3.000023 C 6.3352545,3.0204464 2.9999495,6.3723363 3,10.500023 c 0,4.142136 3.3578644,7.5 7.5,7.5 0.401005,1.58e-4 0.801377,-0.03185 1.197266,-0.0957 -0.188169,-0.296901 -0.340903,-0.614824 -0.455078,-0.947269 -0.246374,0.02847 -0.494175,0.04282 -0.742188,0.04297 -3.5898509,0 -6.5,-2.910149 -6.5,-6.5 0,-3.5898509 2.9101491,-6.5 6.5,-6.5 3.589851,0 6.5,2.9101491 6.5,6.5 -7.7e-5,0.248665 -0.01442,0.49712 -0.04297,0.744141 0.332356,0.113557 0.650276,0.265634 0.947266,0.453125 0.06386,-0.395889 0.09586,-0.796261 0.0957,-1.197266 0,-4.1421356 -3.357864,-7.5 -7.5,-7.5 -0.01237,-3.07e-5 -0.02474,-3.07e-5 -0.03711,0 z m 3.015625,4.0039062 c -0.02425,8.475e-4 -0.0484,0.00346 -0.07227,0.00781 v 0.00781 c -0.09714,0.025774 -0.184264,0.080224 -0.25,0.15625 L 10.5,9.8242418 8.84375,8.1758042 c -0.314,-0.514 -1.2005,0.3735 -0.6875,0.6875 l 2,1.9999998 c 0.192815,0.182544 0.494685,0.182544 0.6875,0 l 3,-2.9999998 c 0.329801,-0.3184361 0.09291,-0.8758171 -0.365234,-0.859375 z"
+     sodipodi:nodetypes="ccccccssccccccccccccccccc" />
+  <path
+     id="path2"
+     style="fill:currentColor"
+     class="ColorScheme-NegativeText error"
+     d="m 15.5,12.000023 a 3.5,3.5 0 0 0 0,7 3.5,3.5 0 0 0 0,-7 z m -0.5,1 h 1 v 3 h -1 z m 0,4 h 1 v 1 h -1 z" />
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="org.gnome.Devhelp-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="32.75"
+     inkscape:cx="11.984733"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title1">Gnome Symbolic Icon Theme</title>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 6,5 v 14 h 11 c 0.51254,0 1,-0.53386 1,-1 H 7 v -2 h 10 c 0.57495,0 1,-0.621781 1,-1.019531 V 6 C 18,5.5118599 17.552871,5 17,5 Z m 1,1 h 10 v 9 H 7 Z m 3.457031,0.9804688 c -0.9437697,0 -1.4277341,0.4832524 -1.4277341,1.3515624 V 9.671875 c 0,0.24161 -0.1281713,0.355629 -0.3320313,0.355469 H 8.3554688 v 1.005859 l 0.3417968,0.0019 c 0.20386,-7.6e-4 0.3320313,0.111896 0.3320313,0.353516 v 1.30664 c 0,0.86833 0.4839243,1.351563 1.4277341,1.351563 h 0.265625 V 13.0625 h -0.126953 c -0.36996,0 -0.550781,-0.203734 -0.550781,-0.558594 v -1.144531 c 0,-0.52099 -0.1585395,-0.739993 -0.5058595,-0.845703 0.34732,-0.1057 0.5058595,-0.324723 0.5058595,-0.8457032 V 8.5507812 c 0,-0.3548698 0.180821,-0.5585937 0.550781,-0.5585937 h 0.126953 V 6.9804688 Z m 2.859375,0 v 1.0117187 h 0.126953 c 0.36996,0 0.550782,0.2037237 0.550782,0.5585937 v 1.1171876 c 0,0.5209802 0.158539,0.7400032 0.505859,0.8457032 -0.34732,0.10571 -0.505859,0.324713 -0.505859,0.845703 v 1.144531 c 0,0.35486 -0.180822,0.558594 -0.550782,0.558594 h -0.126953 v 0.984375 h 0.265625 c 0.94378,0 1.427735,-0.483262 1.427735,-1.351562 v -1.306641 c 0,-0.24162 0.128171,-0.354276 0.332031,-0.353516 l 0.341797,-0.002 v -1.005862 h -0.341797 c -0.20386,1.6e-4 -0.332031,-0.113859 -0.332031,-0.355469 V 8.3320312 c 0,-0.8683499 -0.483925,-1.3515624 -1.427735,-1.3515624 z" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

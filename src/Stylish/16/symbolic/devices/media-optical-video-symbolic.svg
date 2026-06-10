@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="media-optical-video-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 8 0 A 8 8 0 0 0 0 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 10 15.746094 L 10 14.708984 A 7 7 0 0 1 8 15 A 7 7 0 0 1 1 8 A 7 7 0 0 1 8 1 A 7 7 0 0 1 15 8 A 7 7 0 0 1 14.708984 10 L 15.746094 10 A 8 8 0 0 0 16 8 A 8 8 0 0 0 8 0 z M 8 5 A 3 3 0 0 0 5 8 A 3 3 0 0 0 8 11 A 3 3 0 0 0 11 8 A 3 3 0 0 0 8 5 z M 8 6 A 2 2 0 0 1 10 8 A 2 2 0 0 1 8 10 A 2 2 0 0 1 6 8 A 2 2 0 0 1 8 6 z " />
+  <path
+     id="path1-5"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11.556641 11 C 11.207351 11 10.923827 11.281559 10.923828 11.630859 C 10.923828 11.980159 11.207341 12.265625 11.556641 12.265625 C 11.905941 12.265625 12.189453 11.980159 12.189453 11.630859 C 12.189453 11.281559 11.905941 11 11.556641 11 z M 13 11 C 12.65073 11 12.369141 11.281559 12.369141 11.630859 C 12.369141 11.980159 12.65073 12.265625 13 12.265625 C 13.34923 12.265625 13.634766 11.980159 13.634766 11.630859 C 13.634766 11.281559 13.34923 11 13 11 z M 11.160156 12.490234 C 11.029986 12.490234 10.923828 12.62008 10.923828 12.78125 L 10.923828 14.458984 C 10.923828 14.620094 11.029986 14.75 11.160156 14.75 L 13.396484 14.75 C 13.526714 14.75 13.630859 14.620094 13.630859 14.458984 L 13.630859 14.28125 C 13.630904 14.280391 13.630684 14.278431 13.630859 14.277344 C 13.631228 14.276084 13.632186 14.272859 13.632812 14.271484 C 13.633202 14.270779 13.636245 14.266341 13.636719 14.265625 L 13.636719 14.263672 L 13.638672 14.261719 C 13.654916 14.246884 13.698511 14.233551 13.800781 14.257812 L 14.753906 14.484375 C 14.770012 14.489419 14.787385 14.490858 14.800781 14.484375 C 14.801642 14.483865 14.805815 14.483013 14.806641 14.482422 L 14.808594 14.480469 C 14.809342 14.479706 14.811794 14.475463 14.8125 14.474609 L 14.814453 14.472656 C 14.820592 14.462201 14.826172 14.443903 14.826172 14.421875 L 14.826172 12.814453 C 14.826152 12.720073 14.763095 12.732711 14.734375 12.744141 L 13.814453 13.064453 C 13.709803 13.100597 13.663938 13.088216 13.644531 13.070312 L 13.642578 13.068359 C 13.641849 13.067422 13.639293 13.063443 13.638672 13.0625 C 13.634502 13.054994 13.631069 13.045233 13.630859 13.041016 L 13.630859 12.78125 C 13.630859 12.62007 13.526714 12.490234 13.396484 12.490234 L 11.160156 12.490234 z " />
+</svg>

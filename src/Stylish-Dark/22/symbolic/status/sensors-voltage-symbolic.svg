@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="sensors-voltage-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="opacity:1;fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 10.951348,3.0000847 A 1.0001,1.0001 0 0 0 10.14666,3.4786003 L 4.6466606,12.478601 a 1.0001,1.0001 0 0 0 0.8535156,1.521484 h 3.5 v 4 a 1.0001,1.0001 0 0 0 1.8535158,0.521484 l 5.5,-9.0000003 a 1.0001,1.0001 0 0 0 -0.853516,-1.521484 h -3.5 v -4 A 1.0001,1.0001 0 0 0 11.27166,3.0371941 1.0001,1.0001 0 0 0 10.951348,3.0000847 Z m 0.04883,1 v 5 h 4.5 l -5.5,9.0000003 v -5 H 5.5001762 Z" />
+</svg>

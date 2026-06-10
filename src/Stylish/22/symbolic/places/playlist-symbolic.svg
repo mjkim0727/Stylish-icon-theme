@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="playlist-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 15.339844,4.0020087 c -0.38001,-5.896e-4 -0.432735,0.3517188 -0.388672,0.6367188 -0.004,3.026 0.01014,6.0541255 -0.0059,9.0781255 -0.109999,0.104 -0.32189,-0.06548 -0.46289,-0.02149 -1.534,-0.084 -3.211234,0.918235 -3.365234,2.365235 -0.18,1.15 1.168093,2.095969 2.371093,1.917969 1.516,-0.145 2.699953,-1.523766 2.501953,-2.884766 0.004,-2.396 -0.0091,-4.794453 0.0059,-7.1894535 0.103,-0.106 0.258187,0.1218125 0.367187,0.1328125 1.22,0.65 1.909422,1.7216406 1.982422,3.056641 0.08,1.043 -0.270062,2.062297 -0.664062,3.029297 1.321,-1.465 1.744171,-3.602984 0.826171,-5.3339849 -0.47,-1.005 -1.141375,-1.6226406 -1.734374,-2.5566406 -0.437,-0.623 -0.77,-1.3206406 -0.875,-2.0566407 C 15.813438,4.0218319 15.586922,4.00391 15.419922,4.00591 15.391612,4.0026 15.365182,4.00204 15.339842,4.002 Z M 4.5,5.0000556 a 0.5,0.5 0 0 0 0,1 h 7 a 0.5,0.5 0 0 0 0,-1 z m 0,3 a 0.5,0.5 0 0 0 0,1 h 7 a 0.5,0.5 0 0 0 0,-1 z m 0,3.0000004 a 0.5,0.5 0 0 0 0,1 h 7 a 0.5,0.5 0 0 0 0,-1 z m 0,3 a 0.5,0.5 0 0 0 0,1 h 4 a 0.5,0.5 0 0 0 0,-1 z" />
+</svg>

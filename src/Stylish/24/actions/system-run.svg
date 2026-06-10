@@ -1,13 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg2"
+   sodipodi:docname="system-run.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.166667"
+     inkscape:cx="11.984925"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
         color:#363636;
-      }
-      </style>
+      }</style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 4 L 4 8 L 4 19 L 4 20 L 14 20 L 20 20 L 20 19 L 20 14 L 20 8 L 20 4 L 4 4 z M 5 8 L 19 8 L 19 14 L 19 19 L 14 19 L 5 19 L 5 8 z M 10 11 L 10 17 L 15 14 L 10 11 z "
+  <path
+     id="path1"
+     style="fill:currentColor"
      class="ColorScheme-Text"
-     />
+     d="M 10 10 L 10 16 L 14 13 L 10 10 z " />
+  <path
+     id="path2"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 7 4 C 5.338 4 4 5.338 4 7 L 4 17 C 4 18.662 5.338 20 7 20 L 17 20 C 18.662 20 20 18.662 20 17 L 20 7 C 20 5.338 18.662 4 17 4 L 7 4 z M 7 7 L 17 7 C 18.108 7 19 7.892 19 9 L 19 17 C 19 18.108 18.108 19 17 19 L 7 19 C 5.892 19 5 18.108 5 17 L 5 9 C 5 7.892 5.892 7 7 7 z " />
 </svg>

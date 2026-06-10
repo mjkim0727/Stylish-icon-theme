@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="nudity-none-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+      id="defs1">
+      <style
+          id="current-color-scheme"
+          type="text/css">
+          .ColorScheme-Text { color:#363636; }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     class="ColorScheme-Text"
+     d="M 1.96875 0.01171875 L 1.96875 16 L 11.96875 16 L 11.96875 12.732422 C 12.59415 12.487122 13.160081 12.115739 13.550781 11.568359 C 14.142871 10.739049 14.46875 9.6710187 14.46875 8.5117188 C 14.46875 7.3523188 14.142871 6.2843781 13.550781 5.4550781 C 13.160011 4.9077381 12.59411 4.5363556 11.96875 4.2910156 L 11.96875 0.01171875 L 1.96875 0.01171875 z M 2.96875 1.0117188 L 10.96875 1.0117188 L 10.96875 5.0117188 C 12.35155 5.0117186 13.46875 6.5781187 13.46875 8.5117188 C 13.46875 10.445319 12.35155 12.011719 10.96875 12.011719 L 10.96875 15 L 8 15 L 8 12.732422 C 8.6254 12.487122 9.1913312 12.115739 9.5820312 11.568359 C 10.174121 10.739049 10.5 9.6710187 10.5 8.5117188 C 10.5 7.3523188 10.174121 6.2843781 9.5820312 5.4550781 C 9.1912613 4.9077381 8.62536 4.5363556 8 4.2910156 L 8 4 L 7 4 L 7 5.0117188 C 8.3828 5.0117186 9.5 6.5781188 9.5 8.5117188 C 9.5 10.445319 8.3828 12.011719 7 12.011719 L 7 15 L 2.96875 15 L 2.96875 1.0117188 z "
+     style="fill:currentColor;opacity:0.35" />
+  <rect
+     transform="rotate(45)"
+     x=".31371"
+     y="-.5"
+     width="22"
+     height="1"
+     rx=".5"
+     ry=".5"
+     class="ColorScheme-Text"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="1.9932"
+     style="fill:currentColor"
+     id="rect1" />
+</svg>

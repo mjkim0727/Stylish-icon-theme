@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="org.gnome.Shell.Extensions.GSConnect-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="32.75"
+     inkscape:cx="11.984733"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8,4 C 6.8954,4 6,4.89543 6,6 V 9 H 7 V 6 C 7,5.44772 7.44772,5 8,5 h 10 c 0.5523,0 1,0.44772 1,1 v 7 c 0,0.5523 -0.4477,1 -1,1 h -7 v 1 h 3 v 2 h -3 v 1 h 5.5 C 16.7761,18 17,17.7761 17,17.5 17,17.2239 16.7761,17 16.5,17 H 15 v -2 h 3 c 1.1046,0 2,-0.8954 2,-2 V 6 C 20,4.8954 19.1046,4 18,4 Z M 5.5,10 C 4.67157,10 4,10.67157 4,11.5 v 7 C 4,19.3284 4.67157,20 5.5,20 h 3 C 9.32843,20 10,19.3284 10,18.5 v -7 C 10,10.67157 9.32843,10 8.5,10 Z m 0,1 h 3 C 8.77614,11 9,11.22386 9,11.5 v 7 C 9,18.7761 8.77614,19 8.5,19 h -3 C 5.22386,19 5,18.7761 5,18.5 v -7 C 5,11.22386 5.22386,11 5.5,11 Z m 1,6 C 6.22386,17 6,17.2239 6,17.5 6,17.7761 6.22386,18 6.5,18 h 1 C 7.77614,18 8,17.7761 8,17.5 8,17.2239 7.77614,17 7.5,17 Z" />
+</svg>

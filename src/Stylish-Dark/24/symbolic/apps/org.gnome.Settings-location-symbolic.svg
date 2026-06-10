@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg1"
+   sodipodi:docname="org.gnome.Settings-location-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.166667"
+     inkscape:cx="11.984925"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 12,5 c -2.7881,0 -5,2.4141563 -5,5.285156 0,0.20386 0.017028,0.372402 0.029297,0.513672 0.013743,0.15825 0.029946,0.324534 0.056641,0.496094 0.50742,3.3379 2.5664937,5.654619 4.183594,7.386719 L 12,19.464844 12.730469,18.681641 c 1.6167,-1.7316 3.676294,-4.045619 4.183593,-7.386719 v -0.0039 c 0.02325,-0.14978 0.0442,-0.315388 0.05664,-0.492188 v -0.0078 C 16.982907,10.651036 17,10.485926 17,10.285156 17,7.4141563 14.7881,5 12,5 Z m 0,1 c 2.2094,0 4,1.9185563 4,4.285156 0,0.14728 -0.01289,0.283805 -0.02539,0.427735 -0.0094,0.14393 -0.02696,0.287154 -0.04883,0.427734 C 15.469531,14.153225 13.6,16.2862 12,18 10.4,16.2862 8.5305188,14.149825 8.0742188,11.140625 8.0523438,11.000035 8.0378906,10.856821 8.0253906,10.712891 8.0128906,10.568961 8,10.432436 8,10.285156 8,7.9186563 9.7906,6 12,6 Z m 0,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" />
+</svg>

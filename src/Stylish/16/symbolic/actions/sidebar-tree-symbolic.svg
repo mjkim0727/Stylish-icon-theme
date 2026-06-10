@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="sidebar-tree-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 4.5 1 A 1.5 1.5 0 0 0 3 2.5 A 1.5 1.5 0 0 0 4.015625 3.9199219 L 4 3.9199219 L 4 13 C 4 13.554 4.446 14 5 14 L 11.085938 14 A 1.5 1.5 0 0 0 12.5 15 A 1.5 1.5 0 0 0 14 13.5 A 1.5 1.5 0 0 0 12.5 12 A 1.5 1.5 0 0 0 11.085938 13 L 5 13 L 5 10 L 9.0859375 10 A 1.5 1.5 0 0 0 10.5 11 A 1.5 1.5 0 0 0 12 9.5 A 1.5 1.5 0 0 0 10.5 8 A 1.5 1.5 0 0 0 9.0859375 9 L 5 9 L 5 6 L 11.085938 6 A 1.5 1.5 0 0 0 12.5 7 A 1.5 1.5 0 0 0 14 5.5 A 1.5 1.5 0 0 0 12.5 4 A 1.5 1.5 0 0 0 11.085938 5 L 5 5 L 5 3.9199219 L 4.984375 3.9199219 A 1.5 1.5 0 0 0 6 2.5 A 1.5 1.5 0 0 0 4.5 1 z M 4.5 2 A 0.5 0.5 0 0 1 5 2.5 A 0.5 0.5 0 0 1 4.5 3 A 0.5 0.5 0 0 1 4 2.5 A 0.5 0.5 0 0 1 4.5 2 z M 12.5 5 A 0.5 0.5 0 0 1 13 5.5 A 0.5 0.5 0 0 1 12.5 6 A 0.5 0.5 0 0 1 12 5.5 A 0.5 0.5 0 0 1 12.5 5 z M 10.5 9 A 0.5 0.5 0 0 1 11 9.5 A 0.5 0.5 0 0 1 10.5 10 A 0.5 0.5 0 0 1 10 9.5 A 0.5 0.5 0 0 1 10.5 9 z M 12.5 13 A 0.5 0.5 0 0 1 13 13.5 A 0.5 0.5 0 0 1 12.5 14 A 0.5 0.5 0 0 1 12 13.5 A 0.5 0.5 0 0 1 12.5 13 z " />
+</svg>

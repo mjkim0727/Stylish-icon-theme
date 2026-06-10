@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="alarm-clock-panel.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 7.9492189,4.0001074 a 3,3 0 0 0 -2.9492188,3 3,3 0 0 0 0.4863281,1.6367188 6,6 0 0 0 -0.4863281,2.3632808 6,6 0 0 0 2.4023438,4.802734 l -0.3300782,0.826172 0.00977,0.0039 a 0.923,0.923 0 0 0 -0.080082,0.367194 c 0,0.524 0.4750469,1 0.9980469,1 0.396,0 0.7639219,-0.272812 0.9199219,-0.632812 l 0.00781,0.0039 0.2617191,-0.652344 A 6,6 0 0 0 11,17.000107 6,6 0 0 0 12.8125,16.72081 l 0.259766,0.650391 0.0098,-0.0039 c 0.155965,0.359993 0.523887,0.632806 0.919887,0.632806 0.523,0 1,-0.477 1,-1 a 0.921,0.921 0 0 0 -0.08008,-0.367188 l 0.0078,-0.0039 -0.330079,-0.828125 A 6,6 0 0 0 17,11.000107 6,6 0 0 0 16.513672,8.6368262 3,3 0 0 0 17,7.0001074 a 3,3 0 0 0 -3,-3 3,3 0 0 0 -0.05078,0 A 3,3 0 0 0 11.726563,5.0450293 6,6 0 0 0 11,5.0001074 6,6 0 0 0 10.273438,5.0450293 3,3 0 0 0 8.0000001,4.0001074 a 3,3 0 0 0 -0.050781,0 z m 0,1 a 2,2 0 0 1 0.00195,0 2,2 0 0 1 0.048828,0 2,2 0 0 1 1.078125,0.3164062 6,6 0 0 0 -2.9960906,2.2460938 2,2 0 0 1 -0.082031,-0.5625 2,2 0 0 1 1.9492186,-2 z m 5.9804691,0 a 2,2 0 0 1 0.02148,0 2,2 0 0 1 0.04883,0 2,2 0 0 1 2,2 2,2 0 0 1 -0.08203,0.5625 6,6 0 0 0 -2.998047,-2.2460938 2,2 0 0 1 1.009767,-0.3164062 z m -2.929688,1 a 5,5 0 0 1 5,4.9999996 5,5 0 0 1 -5,5 5,5 0 0 1 -4.9999999,-5 A 5,5 0 0 1 11,6.0001074 Z m 2.044922,2.5253906 c -0.02494,-9.297e-4 -0.05036,0.00173 -0.07617,0.00586 a 0.503,0.503 0 0 0 -0.25,0.15625 L 11.0625,10.343857 9.9062501,9.1876074 c -0.157,-0.257 -0.567297,-0.30675 -0.779297,-0.09375 -0.2119999,0.213 -0.164203,0.623297 0.0918,0.779297 l 1.4999999,1.5019526 a 0.518,0.518 0 0 0 0.6875,0 l 2,-1.9999996 c 0.274684,-0.279375 0.01273,-0.8356641 -0.361331,-0.8496094 z" />
+</svg>

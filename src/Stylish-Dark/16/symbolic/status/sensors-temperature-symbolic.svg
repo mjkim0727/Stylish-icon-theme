@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="sensors-temperature-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.5"
+     inkscape:cx="7.990099"
+     inkscape:cy="7.990099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     id="path1603"
+     style="fill:currentColor;opacity:0.3"
+     class="ColorScheme-Text"
+     d="M 6.5 6 L 6.5 8.8417969 C 5.2798894 9.4205451 4.5015725 10.649586 4.5 12 C 4.5 13.932997 6.0670034 15.5 8 15.5 C 9.9329966 15.5 11.5 13.932997 11.5 12 C 11.499935 10.648175 10.721385 9.4172443 9.5 8.8378906 L 9.5 6 L 6.5 6 z " />
+  <path
+     id="path2003"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8 0 C 6.8920055 0 6 0.8920056 6 2 L 6 8.546875 C 4.7657867 9.2594412 4.0039139 10.574862 4 12 C 4 14.209137 5.7908632 16 8 16 C 10.209137 16 12 14.209137 12 12 C 11.999567 10.571371 11.237229 9.2514235 10 8.5371094 L 10 2 C 10 0.8920056 9.1079945 0 8 0 z M 8 1 C 8.553997 1 9 1.446003 9 2 L 9 9.171875 C 10.198535 9.595621 10.999872 10.728762 11 12 C 11 13.656854 9.6568542 15 8 15 C 6.3431458 15 5 13.656854 5 12 C 5.00343 10.73163 5.8041636 9.6024743 7 9.1796875 L 7 2 C 7 1.446003 7.446003 1 8 1 z " />
+</svg>

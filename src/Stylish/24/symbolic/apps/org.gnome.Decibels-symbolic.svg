@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="org.gnome.Decibels-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="32.75"
+     inkscape:cx="11.984733"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <path
+     id="rect286"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 10.5,7 C 10.223,7 10,7.223 10,7.5 v 10 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 V 7.5 C 11,7.223 10.777,7 10.5,7 Z m 3,2 C 13.223,9 13,9.223 13,9.5 v 6 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -6 C 14,9.223 13.777,9 13.5,9 Z m -6,2 C 7.223,11 7,11.223 7,11.5 v 2 C 7,13.777 7.223,14 7.5,14 7.777,14 8,13.777 8,13.5 v -2 C 8,11.223 7.777,11 7.5,11 Z m -3,1 C 4.223,12 4,12.223 4,12.5 4,12.777 4.223,13 4.5,13 4.777,13 5,12.777 5,12.5 5,12.223 4.777,12 4.5,12 Z m 12,0 C 16.223,12 16,12.223 16,12.5 16,12.777 16.223,13 16.5,13 16.777,13 17,12.777 17,12.5 17,12.223 16.777,12 16.5,12 Z m 3,0 C 19.223,12 19,12.223 19,12.5 19,12.777 19.223,13 19.5,13 19.777,13 20,12.777 20,12.5 20,12.223 19.777,12 19.5,12 Z" />
+</svg>

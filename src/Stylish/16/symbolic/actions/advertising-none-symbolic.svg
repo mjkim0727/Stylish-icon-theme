@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="advertising-none-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor;opacity:0.35"
+     class="ColorScheme-Text"
+     d="M 12.037109 1.5136719 C 8.8609094 4.9988719 1 5 1 5 L 1 10 C 1 10 1.5180394 10.002504 2.3183594 10.058594 L 4 15 L 5 15 L 5.0078125 10.380859 C 7.4260125 10.793499 10.349172 11.656138 12.013672 13.460938 L 13 13.460938 L 13 9.7207031 L 15.316406 8.9492188 A 1.0001 1.0001 0 0 0 16 8 L 16 7 A 1.0001 1.0001 0 0 0 15.316406 6.0507812 L 13 5.2792969 L 13 1.5136719 L 12.037109 1.5136719 z M 12 2.8457031 L 12 12.154297 C 10.4344 10.848297 8.3712031 10.082291 6.4707031 9.6503906 C 5.9294131 9.5273706 5.4442 9.4367144 5 9.3652344 L 5 5.6347656 C 5.44425 5.5632906 5.9294131 5.4726294 6.4707031 5.3496094 C 8.3712031 4.9176894 10.4344 4.1517031 12 2.8457031 z M 4 5.7695312 L 4 9.2304688 C 3.06992 9.1299787 2.4131 9.1289206 2 9.1191406 L 2 5.8808594 C 2.41311 5.8710894 3.0699 5.8700293 4 5.7695312 z M 13 6.3339844 L 15 7 L 15 8 L 13 8.6660156 L 13 6.3339844 z M 3.4101562 10.15625 C 3.5996954 10.177039 3.8042863 10.203751 4.0078125 10.230469 L 4.0058594 11.908203 L 3.4101562 10.15625 z " />
+  <rect
+     transform="rotate(45)"
+     x=".31371"
+     y="-.5"
+     width="22"
+     height="1"
+     rx=".5"
+     ry=".5"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="rect1" />
+</svg>

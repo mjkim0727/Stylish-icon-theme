@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   enable-background="new"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="media-skip-backward-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 3 3 C 2.446 3 2 3.446 2 4 L 2 12 C 2 12.554 2.446 13 3 13 C 3.554 13 4 12.554 4 12 L 4 4 C 4 3.446 3.554 3 3 3 z M 13.025391 3 C 12.810729 2.9910191 12.612624 3.0485738 12.429688 3.1757812 L 6.6269531 7.1777344 C 6.4441731 7.3064844 6.3167238 7.4757869 6.2460938 7.6855469 C 6.1754637 7.8953369 6.1754637 8.1045762 6.2460938 8.3164062 C 6.3166837 8.5261562 6.4460194 8.6994819 6.6308594 8.8261719 L 12.429688 12.824219 C 12.639448 12.967519 12.867841 13.023347 13.119141 12.992188 C 13.370411 12.961028 13.579817 12.851099 13.748047 12.662109 C 13.916257 12.473119 14 12.251427 14 11.998047 L 14 4.0019531 C 14 3.7485731 13.916277 3.5268806 13.748047 3.3378906 C 13.579817 3.1489006 13.370441 3.0389575 13.119141 3.0078125 C 13.087814 3.0038313 13.056057 3.001283 13.025391 3 z " />
+</svg>

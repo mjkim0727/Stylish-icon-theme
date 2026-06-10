@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="totem-tv-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.75"
+     inkscape:cx="7.9899497"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 5 0 C 4.4477153 0 4 0.44771525 4 1 C 4 1.5522847 4.4477153 2 5 2 C 5.0844839 1.9988897 5.1684865 1.9870769 5.25 1.9648438 L 6.2714844 3 L 4 3 C 2.338 3 1 4.338 1 6 L 1 13 C 1 14.662 2.338 16 4 16 L 12 16 C 13.662 16 15 14.662 15 13 L 15 6 C 15 4.338 13.662 3 12 3 L 9.7363281 3 L 10.75 1.96875 C 10.82788 1.988708 10.907887 1.9992 10.988281 2 C 11.540566 2 11.988281 1.5522847 11.988281 1 C 11.988281 0.44771525 11.540566 0 10.988281 0 C 10.435996 1.1045693e-07 9.9882813 0.44771533 9.9882812 1 C 9.9898613 1.092697 10.004321 1.1847242 10.03125 1.2734375 L 8.3457031 2.9902344 L 7.6757812 3 L 5.9609375 1.2617188 C 5.9854944 1.1765948 5.9986302 1.0885848 6 1 C 6 0.44771525 5.5522847 0 5 0 z M 4 4 L 12 4 C 13.108 4 14 4.892 14 6 L 14 11 L 2 11 L 2 6 C 2 4.892 2.892 4 4 4 z M 2 12 L 14 12 L 14 13 C 14 14.108 13.108 15 12 15 L 11 15 L 4 15 C 2.892 15 2 14.108 2 13 L 2 12 z M 12.474609 13 C 12.209699 13.013342 12 13.23166 12 13.5 C 12 13.777 12.223 14 12.5 14 C 12.777 14 13 13.777 13 13.5 C 13 13.223 12.777 13 12.5 13 C 12.4913 13 12.483149 12.99957 12.474609 13 z " />
+</svg>

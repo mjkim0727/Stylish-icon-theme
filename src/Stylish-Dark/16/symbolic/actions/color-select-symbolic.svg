@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="color-select-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+   id="defs1">
+   <style
+    id="current-color-scheme"
+    type="text/css">
+    .ColorScheme-Text { color:#f2f2f2; }
+   </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 14.490234 1 C 14.360474 1.004 14.237204 1.0575006 14.146484 1.1503906 L 13.660156 1.6367188 C 13.445236 1.5338288 13.208893 1.4836144 12.970703 1.4902344 C 12.581143 1.5015344 12.211243 1.6640994 11.939453 1.9433594 L 10.292969 3.5898438 L 9.3535156 2.6503906 C 9.2593156 2.5529906 9.1296206 2.4980469 8.9941406 2.4980469 C 8.5447306 2.4981269 8.3235444 3.0448719 8.6464844 3.3574219 L 9.5859375 4.296875 L 3.4394531 10.443359 C 3.0841931 10.785849 2.9303 11.271608 3 11.742188 L 3 12.296875 L 1.1464844 14.150391 L 1.8535156 14.857422 L 3.7070312 13.003906 L 4.2519531 13.003906 C 4.7257331 13.076406 5.2162569 12.922903 5.5605469 12.564453 L 11.707031 6.4179688 L 12.646484 7.3574219 C 13.117754 7.8476519 13.843776 7.1216606 13.353516 6.6503906 L 12.414062 5.7109375 L 14.060547 4.0644531 C 14.519277 3.6156831 14.641754 2.9249031 14.365234 2.3457031 L 14.853516 1.8574219 C 15.178806 1.5394119 14.944924 0.98752 14.490234 1 z M 10.396484 4.9003906 L 11.103516 5.6074219 L 7.7070312 9.0039062 L 6.2929688 9.0039062 L 10.396484 4.9003906 z " />
+</svg>

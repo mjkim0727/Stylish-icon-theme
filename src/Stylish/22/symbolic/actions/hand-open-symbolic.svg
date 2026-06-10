@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg1"
+   sodipodi:docname="hand-open-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.727273"
+     inkscape:cx="10.986386"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11.5,3 C 11.223,3 11,3.223 11,3.5 V 10 c 0,0.554 -0.446,1 -1,1 C 9.446,11 9,10.554 9,10 V 4.5 C 9,4.223 8.777,4 8.5,4 8.223,4 8,4.223 8,4.5 V 11 C 8,11.554 7.554,12 7,12 6.446,12 6,11.554 6,11 V 10.265625 6.5 C 6,6.223 5.777,6 5.5,6 5.223,6 5,6.223 5,6.5 V 12 13.5 17 c 0,1.108 0.89201,2 2,2 h 6 c 0.76796,0 1.432178,-0.428657 1.767578,-1.060547 l 4.060547,-4.060547 c 0.19587,-0.19587 0.19587,-0.511161 0,-0.707031 -0.09793,-0.09793 -0.225706,-0.146484 -0.353516,-0.146484 -0.12781,0 -0.255575,0.04855 -0.353515,0.146484 l -2.345703,2.345703 c -0.07895,0.05205 -0.173231,0.08203 -0.275391,0.08203 -0.277,0 -0.5,-0.223 -0.5,-0.5 V 12 5.5 C 15,5.223 14.777,5 14.5,5 14.223,5 14,5.223 14,5.5 V 10 c 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 V 3.5 C 12,3.223 11.777,3 11.5,3 Z M 15,17 c 0,0.05804 -0.003,0.115125 -0.0078,0.171875 C 14.996976,17.115145 15,17.058011 15,17 Z m -0.04492,0.423828 c -0.01238,0.05781 -0.02769,0.114112 -0.04492,0.169922 0.01713,-0.05557 0.0326,-0.112367 0.04492,-0.169922 z" />
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   sodipodi:docname="com.usebottles.bottles-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   width="22"
+   height="22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.727273"
+     inkscape:cx="10.986386"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m 6.8476562,3 v 0.6152344 c 0,0.3716868 -0.1691982,0.7878315 -0.4042969,1.2402344 -0.63069,1.0964714 -1.2802919,2.1646368 -1.4335937,3.4316406 L 5,19 H 6 L 6.0097656,8.2871094 C 6.1630674,7.0201056 6.8126693,5.9519402 7.4433593,4.8554688 7.678458,4.4030659 7.8476562,3.9869213 7.8476562,3.6152344 V 3 Z M 9.845703,3 v 0.6152344 c 0,0.3716868 -0.169197,0.7878314 -0.404297,1.2402344 C 8.8107173,5.9519402 8.1630674,7.0201055 8.0097656,8.2871094 L 8,19 H 9 L 9.0098,8.2871094 C 9.163101,7.0201055 9.810751,5.9519401 10.44144,4.8554688 10.67654,4.4030659 10.845737,3.9869213 10.845737,3.6152344 V 3 Z M 13,3 V 3.6152344 C 12.684928,5.2932092 11.205134,6.7943016 11,8.3007812 V 19 h 6 V 8.3007812 C 16.678913,6.485026 15.452696,5.2199233 15,3.6152344 V 3 Z m 0.896484,1 h 0.191407 C 14.641494,5.8334958 15.733853,7.0241693 16,8.4375 V 18 H 12 V 8.4140625 C 12.070536,7.9364486 12.400528,7.2754047 12.830078,6.5117188 13.232269,5.7966744 13.669701,4.9602836 13.896484,4 Z"
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text" />
+</svg>

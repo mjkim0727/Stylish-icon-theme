@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mail-replied-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+          .ColorScheme-Text { color:#f2f2f2; }
+          .ColorScheme-NeutralText { color:#f67400; }
+          .ColorScheme-PositiveText { color:#37c837; }
+          .ColorScheme-NegativeText { color:#f44336; }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 9.742495,3.672 C 9.614685,3.672 9.48692,3.720554 9.38898,3.8184844 L 5.1467923,8.060672 c -0.10901,0.10901 -0.1510019,0.254644 -0.1386719,0.396484 -0.012465,0.14198 0.029552,0.287365 0.1386719,0.396485 L 9.38898,13.095828 c 0.19587,0.19587 0.511161,0.19587 0.707031,0 0.19587,-0.19587 0.19587,-0.511161 0,-0.707031 L 6.7073391,9.000125 h 6.2929689 c 2.216,0 4,1.784 4,4 0,2.216 -1.784,4 -4,4 H 6.0003079 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.011719,0 h 6.9882811 c 2.77,0 5,-2.23 5,-5 0,-2.77 -2.23,-5 -5,-5 H 6.6214017 L 10.096011,4.5255156 c 0.19587,-0.19587 0.19587,-0.5111612 0,-0.7070312 C 9.998077,3.7205504 9.870305,3.672 9.742495,3.672 Z" />
+</svg>

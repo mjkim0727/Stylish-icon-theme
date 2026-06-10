@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   sodipodi:docname="io.bassi.Amberol-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   width="22"
+   height="22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.727273"
+     inkscape:cx="10.986386"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="false" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     d="m 11,3 c -4.4182743,0 -8,3.5817273 -8,8 0,4.418274 3.5817257,8 8,8 4.418274,0 8,-3.581726 8,-8 0,-4.4182727 -3.581726,-8 -8,-8 z m 0,1 c 3.865993,-10e-8 7,3.1340067 7,7 0,3.865994 -3.134006,7 -7,7 C 7.1340068,18 3.9999999,14.865993 4,11 4,7.1340068 7.1340069,4 11,4 Z M 8.7246094,7 C 8.3428514,7.0144048 8.000675,7.3460341 8,7.8007812 v 6.3984378 c 8.53e-4,0.606325 0.610085,0.99295 1.109375,0.703125 l 5.5,-3.199219 c 0.521955,-0.303009 0.521955,-1.103242 0,-1.40625 l -5.5,-3.1992188 C 8.984553,7.0252003 8.8518624,6.9952 8.7246094,7 Z"
+     class="ColorScheme-Text" />
+</svg>

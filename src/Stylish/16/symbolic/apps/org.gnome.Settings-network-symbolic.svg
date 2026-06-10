@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="org.gnome.Settings-network-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.75"
+     inkscape:cx="7.9899497"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 4 0 C 2.892 0 2 0.892 2 2 L 2 7 C 2 8.108 2.892 9 4 9 L 5 9 L 5 11 L 4.5 11 C 4.223 11 4 11.223 4 11.5 C 4 11.777 4.223 12 4.5 12 L 7.5 12 L 7.5 15 L 1.5 15 C 1.223 15 1 15.223 1 15.5 C 1 15.777 1.223 16 1.5 16 L 7.5 16 L 8.5 16 L 14.5 16 C 14.777 16 15 15.777 15 15.5 C 15 15.223 14.777 15 14.5 15 L 8.5 15 L 8.5 12 L 11.5 12 C 11.777 12 12 11.777 12 11.5 C 12 11.223 11.777 11 11.5 11 L 11 11 L 11 9 L 12 9 C 13.108 9 14 8.108 14 7 L 14 2 C 14 0.892 13.108 0 12 0 L 4 0 z M 4 1 L 12 1 C 12.554 1 13 1.446 13 2 L 13 7 C 13 7.554 12.554 8 12 8 L 4 8 C 3.446 8 3 7.554 3 7 L 3 2 C 3 1.446 3.446 1 4 1 z M 6 9 L 10 9 L 10 11 L 6 11 L 6 9 z " />
+</svg>

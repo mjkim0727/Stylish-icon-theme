@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="audio-volume-high-danger.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#f2f2f2; }
+      .ColorScheme-NeutralText { color:#f67400; }
+      .ColorScheme-PositiveText { color:#37c837; }
+      .ColorScheme-NegativeText { color:#f44336; }
+    </style>
+  </defs>
+  <path
+     id="path1306"
+     style="fill:currentColor"
+     d="M 7.5,2 C 7.367401,2.0000255 7.24024,2.052717 7.146484,2.1464844 L 4,5 H 2 C 0.8920033,5 0,5.8920033 0,7 v 2 c 0,1.107997 0.8920033,2 2,2 h 2 l 3.146484,2.853516 C 7.461481,14.16829 7.999826,13.945316 8,13.5 V 2.5 C 7.999593,2.2981544 7.877872,2.1163436 7.691406,2.0390625 7.630793,2.0135845 7.565749,2.0003104 7.5,2 Z M 7,3.75 v 8.5 L 4.4570312,10 H 4 2 C 1.4460012,10 1,9.553999 1,9 V 7 C 1,6.446001 1.4460012,6 2,6 h 2 0.4570312 z"
+     class="ColorScheme-Text"
+     sodipodi:nodetypes="cccssssccccccccccssssccc" />
+  <path
+     id="path2589"
+     style="fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     class="ColorScheme-NegativeText error"
+     d="m 11.65625,2.5019531 c -0.194299,-0.011945 -0.386177,0.090255 -0.478516,0.2753907 -0.122745,0.2470334 -0.02224,0.5468044 0.22461,0.6699218 C 13.223454,4.3578211 13.99969,6.166614 14,8 c -3.1e-4,1.833386 -0.776546,3.642179 -2.597656,4.552734 -0.246848,0.123117 -0.347355,0.422888 -0.22461,0.669922 0.123117,0.246848 0.422888,0.347355 0.669922,0.22461 C 14.026538,12.357825 14.999634,10.166606 15,8 14.999634,5.833394 14.026538,3.6421749 11.847656,2.5527344 c -0.06176,-0.030686 -0.12664,-0.0468 -0.191406,-0.050781 z M 10.074219,5.0058594 A 0.5,0.5 0 0 0 9.552734,5.2773438 0.5,0.5 0 0 0 9.777344,5.9472656 C 10.598456,6.357822 11,7.166668 11,8 11,8.833332 10.598456,9.642178 9.777344,10.052734 a 0.5,0.5 0 0 0 -0.22461,0.669922 0.5,0.5 0 0 0 0.669922,0.22461 C 11.40154,10.357823 12,9.166664 12,8 12,6.833336 11.40154,5.6421759 10.222656,5.0527344 a 0.5,0.5 0 0 0 -0.148437,-0.046875 z" />
+</svg>

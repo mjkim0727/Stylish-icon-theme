@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="align-vertical-node-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     id="style1">@import &quot;../../highlights.css&quot;;</style>
+  <path
+     id="align-horizontal-node"
+     style="fill:currentColor;stroke-width:0.6666"
+     class="ColorScheme-Text"
+     d="m 15.999999,9.0000439 h -1.999997 v -1.000005 h -3.000005 v 1.000005 H 9.0000013 V 8.0000389 H 6.0000031 v 1.000005 H 3.9999998 V 8.0000389 H 1.0000016 v 1.000005 H 0 v 1.0000051 h 1.0000016 v 1.000005 h 2.9999982 v -1.000005 h 2.0000033 v 1.000005 h 2.9999982 v -1.000005 h 1.9999957 v 1.000005 h 3.000005 v -1.000005 h 1.999997 z m -1.000002,-7.000035 a 2.9927197,2.9933483 0 0 0 -2.999998,3.000015 v 2.00001 h 1.000002 v -2.00001 c 0,-1.1080056 0.89289,-2.00001 1.999996,-2.00001 z m -1.999996,7.000035 V 10.000049 H 11.999999 V 9.0000439 Z m 0,3.0000151 h -1.000002 c 0,1.108005 -0.89289,1.999943 -1.999996,1.999943 A 1.9955908,1.99601 0 0 1 7.9999997,12.000059 H 6.9999981 a 2.9927197,2.9933483 0 0 0 3.0000049,2.999948 2.9927197,2.9933483 0 0 0 2.999998,-2.999948 z M 7.9999997,7.0000339 A 2.9927197,2.9933483 0 0 0 5.0000015,4.0000189 2.9927197,2.9933483 0 0 0 2.0000033,7.0000339 h 0.9999949 c 0,-1.1080056 0.8922304,-2.00001 2.0000033,-2.00001 a 1.9955908,1.99601 0 0 1 1.9999966,2.00001 z m 0,2.00001 V 10.000049 H 6.9999981 V 9.0000439 Z m -5.0000015,0 V 10.000049 H 2.0000033 V 9.0000439 Z m 0,3.0000151 H 2.0000033 c 0,1.108005 -0.892897,1.999943 -2.0000033,1.999943 v 1.000005 a 2.9927197,2.9933483 0 0 0 2.9999982,-2.999948 z" />
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg1"
+   sodipodi:docname="org.gnome.Settings-printers-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.181818"
+     inkscape:cx="10.986181"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 7.5,4 C 6.67157,4 6,4.67157 6,5.5 V 6 H 5.5 C 4.1193,6 3,7.1193 3,8.5 v 5 C 3,14.3284 3.67157,15 4.5,15 H 6 v 1.5 C 6,17.3284 6.67157,18 7.5,18 h 7 C 15.3284,18 16,17.3284 16,16.5 V 15 h 1.5 c 0.8284,0 1.5,-0.6716 1.5,-1.5 v -5 C 19,7.1193 17.8807,6 16.5,6 H 16 V 5.5 C 16,4.67157 15.3284,4 14.5,4 Z m 0,1 h 7 C 14.7761,5 15,5.22386 15,5.5 V 6 H 7 V 5.5 C 7,5.22386 7.22386,5 7.5,5 Z m -2,2 h 11 C 17.3284,7 18,7.67157 18,8.5 v 5 C 18,13.77614 17.7761,14 17.5,14 H 16 V 12.5 C 16,11.67157 15.3284,11 14.5,11 h -7 C 6.67157,11 6,11.67157 6,12.5 V 14 H 4.5 C 4.22386,14 4,13.77614 4,13.5 v -5 C 4,7.67157 4.67157,7 5.5,7 Z m 11,1 A 0.5,0.5 0 0 0 16,8.5 0.5,0.5 0 0 0 16.5,9 0.5,0.5 0 0 0 17,8.5 0.5,0.5 0 0 0 16.5,8 Z m -9,4 h 7 c 0.2761,0 0.5,0.22386 0.5,0.5 v 4 c 0,0.2761 -0.2239,0.5 -0.5,0.5 h -7 C 7.22386,17 7,16.7761 7,16.5 v -4 C 7,12.22386 7.22386,12 7.5,12 Z" />
+</svg>

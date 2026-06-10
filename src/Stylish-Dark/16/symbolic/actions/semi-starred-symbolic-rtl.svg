@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg3"
+   sodipodi:docname="semi-starred-symbolic-rtl.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+    .ColorScheme-Text { color:#f2f2f2; }
+   </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     class="warning"
+     d="m 8.0414384,1 c 0.38233,0.016107 0.72199,0.24886 0.875,0.59961 l 1.4882996,3.4004 h 3.8457 c 0.91921,0.00104 1.3507,1.137 0.66406,1.748 l -2.9941,2.6523 1.5215,4.2637 c 0.31475,0.88725 -0.65851,1.6786 -1.4629,1.1895 l -3.9784996,-2.4316 c -1,-0.68347 -1,-0.50198 -1,-1.584 V 4.28521 1.87111 1.791032 l 0.083984,-0.19141 c 0.15922,-0.364 0.51871,-0.59933 0.91602,-0.59961 0.013672,-2.803e-4 0.027348,-2.803e-4 0.04102,0 z m -0.04102,1 v 9.25 l 4.4999996,2.75 -1.75,-4.8984 3.5,-3.1016 H 9.7504184 Z"
+     fill="#f9c440"
+     id="path1" />
+  <path
+     class="warning"
+     d="m 8.0004384,2 1.75,4 h 4.4999996 l -3.5,3.1016 1.75,4.8984 -4.4999996,-2.75 z"
+     fill="#f9c440"
+     opacity="0.3"
+     id="path2" />
+  <path
+     id="path3"
+     d="M 7.0004384,1.7910156 V 1.8710936 4.285156 L 6.2504384,6 h -4.5 l 3.5,3.1015625 L 3.5004384,14 7.1293446,11.783203 c 0.1258701,0.17341 0.3745938,0.299322 0.8710938,0.638672 l -3.978516,2.431641 a 1.0006,1.0006 0 0 1 -1.46289,-1.189454 L 4.0805164,9.4003906 1.0863764,6.7480469 A 1.0006,1.0006 0 0 1 1.7504384,5 h 3.845703 z"
+     style="opacity:0.75;fill:currentColor"
+     class="ColorScheme-Text" />
+</svg>

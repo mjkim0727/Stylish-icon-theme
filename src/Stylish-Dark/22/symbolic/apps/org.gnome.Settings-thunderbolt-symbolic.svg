@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg1"
+   sodipodi:docname="org.gnome.Settings-thunderbolt-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.181818"
+     inkscape:cx="10.986181"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 13.607502,3.006 -3.601563,6.4941406 h 3.582032 L 9.3125796,15.650532 10.670002,15.791157 8.0137515,17.9435 c 0,0 0.9268656,0.406589 1.7597661,0.517579 0.191319,0.0255 0.9131064,0.06055 1.2226564,0.06055 4.139,-5.98e-4 7.504506,-3.366863 7.503906,-7.505863 v -0.0039 C 18.48368,8.4824594 17.180064,5.8939 14.521564,4.4435 Z m -5.5937505,14.9375 0.28125,-3.283203 0.7207031,0.861328 2.5078134,-5.021484 H 7.7774234 L 10.984455,3.4630312 10.099689,3.5704531 c -3.5882,0.43325 -6.2588594,3.3857594 -6.5058594,6.9433599 -0.031899,0.26371 -0.039504,0.813483 -0.027344,1.001953 0.16823,2.5172 1.5491843,4.809281 3.7714843,6.050781 z M 9.2461736,4.8673281 6.2227358,11.500141 H 9.9063296 L 8.802814,13.709125 7.505939,12.158344 7.1700015,16.052875 c -1.5906,-1.2194 -2.6733219,-2.997209 -2.6699219,-5.037109 -6.171e-4,-2.9395758 2.0007292,-5.3611171 4.746094,-6.1484379 z m 4.3574224,0.1816406 0.175781,0.085937 c 2.5515,1.2397 3.705803,3.5833125 3.720703,5.8828133 -5.63e-4,3.5976 -2.906006,6.503405 -6.503906,6.503905 -0.18058,0 -0.475678,-0.02189 -0.767578,-0.03711 l 2.861328,-2.445311 -1.988281,-0.207031 4.40039,-6.3320314 h -3.802734 z" />
+</svg>

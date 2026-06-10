@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gnome-mahjongg-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.727273"
+     inkscape:cx="10.986386"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 6,3 C 4.892,3 4,3.892 4,5 v 12 c 0,1.108 0.892,2 2,2 h 9 c 1.108,0 2,-0.892 2,-2 V 5 C 17,3.892 16.108,3 15,3 Z m 0,1 h 9 c 0.554,0 1,0.446 1,1 v 12 c 0,0.554 -0.446,1 -1,1 H 6 C 5.446,18 5,17.554 5,17 V 5 C 5,4.446 5.446,4 6,4 Z m 1.5,2.1640625 c -0.66667,0 -0.66667,1 0,1 H 10 v 1 H 7.5 c -0.277,0 -0.5,0.223 -0.5,0.5 v 4.0000005 c 0,0.276999 0.223,0.500001 0.5,0.499999 h 1.625 l -1.3613281,2 c -0.34,0.5 0.017922,1 0.2949219,1 0.4409999,0 0.7522501,-0.27 0.90625,-0.5 L 10,14.111328 v 1.552734 c 0,0.66667 1,0.666672 1,0 v -1.552734 l 1.035156,1.552734 c 0.154,0.230001 0.46525,0.500002 0.90625,0.5 0.277,0 0.634922,-0.5 0.294922,-1 l -1.361328,-2 H 13.5 c 0.277,0 0.5,-0.222999 0.5,-0.499999 V 8.6640625 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 H 11 v -1 h 2.5 c 0.66667,0 0.66667,-1 0,-1 h -3 z M 8.25,9.164063 H 10 v 1 H 8.25 c -0.13807,0 -0.25,-0.11193 -0.25,-0.25 v -0.5 c 0,-0.138071 0.11193,-0.25 0.25,-0.25 z m 2.75,0 h 1.75 c 0.13807,0 0.25,0.111929 0.25,0.25 v 0.5 c 0,0.13807 -0.11193,0.25 -0.25,0.25 H 11 Z m -2.75,2 H 10 v 1 H 8.25 c -0.13807,0 -0.25,-0.11193 -0.25,-0.25 v -0.5 c 0,-0.138071 0.11193,-0.25 0.25,-0.25 z m 2.75,0 h 1.75 c 0.13807,0 0.25,0.111929 0.25,0.25 v 0.5 c 0,0.13807 -0.11193,0.25 -0.25,0.25 H 11 Z"
+     sodipodi:nodetypes="ssssssssssssssssssssccssscccsccssccsccssssccsscssccsssscssssccsccsssscsssscc" />
+</svg>

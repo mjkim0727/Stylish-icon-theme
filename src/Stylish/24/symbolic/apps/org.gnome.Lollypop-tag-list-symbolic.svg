@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="org.gnome.Lollypop-tag-list-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="33.166667"
+     inkscape:cx="11.984925"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#363636; }
+    </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 10.884766,4 5.9941406,4.03125 c -1.0983,0.0072 -1.9847281,0.8997469 -1.9863281,1.9980469 L 4,10.978516 c -8e-4,0.53143 0.2101375,1.042168 0.5859375,1.417968 l 6.6308595,6.63086 c 0.7811,0.7811 2.047075,0.7811 2.828125,0 L 15,18.072266 v -1.414063 l -1.662109,1.662109 c -0.3905,0.390601 -1.023513,0.3906 -1.414063,0 L 5.2929688,11.689453 C 5.1050686,11.501553 4.9996,11.246189 5,10.980469 L 5.0078125,6.03125 C 5.0086125,5.4821 5.4508,5.03485 6,5.03125 L 10.890625,5 c 0.2671,-0.00175 0.523791,0.1043786 0.712891,0.2929688 L 16.324219,10 h 1.417969 L 12.310547,4.5839844 C 11.932447,4.2068044 11.418866,3.9965 10.884766,4 Z M 8.0136719,7 c -0.5523,0 -1,0.44772 -1,1 0,0.55228 0.4477,1 1,1 0.5523,0 1,-0.44772 1,-1 0,-0.55228 -0.4477,-1 -1,-1 z" />
+  <path
+     id="path2"
+     style="fill:currentColor;stroke-linecap:round"
+     d="m 18,12 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 0,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 0,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     class="ColorScheme-Text" />
+</svg>

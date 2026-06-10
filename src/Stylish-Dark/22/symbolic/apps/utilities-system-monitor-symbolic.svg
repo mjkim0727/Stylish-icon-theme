@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="utilities-system-monitor-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.181818"
+     inkscape:cx="10.986181"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     id="path1"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 6,4 C 4.892,4 4,4.892 4,6 v 10 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 6 C 18,4.892 17.108,4 16,4 Z m 0,1 h 10 c 0.554,0 1,0.446 1,1 v 7 H 14.369141 L 12.939453,8.3105469 c -0.07,-0.25 -0.368906,-0.4198438 -0.628906,-0.3398438 -0.16,0.05 -0.289844,0.1798438 -0.339844,0.3398438 L 10.279297,14.410156 9.410156,13.220703 C 9.320156,13.090703 9.16,13 9,13 H 5 V 6 C 5,5.446 5.446,5 6,5 Z m 6.470703,5.189453 1.058594,3.470703 C 13.602317,13.858466 13.7888,13.9927 14,14 h 3 v 2 c 0,0.554 -0.446,1 -1,1 H 6 C 5.446,17 5,16.554 5,16 v -2 h 3.75 l 1.310547,1.779297 c 0.22,0.29 0.768906,0.189844 0.878906,-0.160156 z" />
+</svg>

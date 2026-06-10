@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="50.5"
-     inkscape:cx="8"
+     inkscape:cx="7.990099"
      inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -44,7 +44,7 @@
   </defs>
   <path
      id="rect232"
-     style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke-width:1.63299;stroke-linecap:square;stroke-linejoin:round"
-     d="M 8,0 C 5.2385819,0 3,2.2385819 3,5 c 3e-7,3.923753 3,3.851483 3,7 h 4 C 10,8.829344 13,8.985828 13,5 13,2.2385819 10.761418,0 8,0 Z m 0,1 c 2.20913,0 4,1.7908698 4,4 0,2.999988 -3.000001,4.000008 -3,6 H 7 C 7,9.000008 4.0000002,7.999988 4,5 4,2.7908698 5.7908698,1 8,1 Z M 6,13 v 1 h 4 v -1 z m 1,2 v 1 h 2 v -1 z"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.63299;stroke-linecap:square;stroke-linejoin:round;opacity:0.2"
+     d="M 8 0 C 5.2385819 0 3 2.2385819 3 5 C 3.0000003 8.9237526 6 8.8514834 6 12 L 10 12 C 10 8.8293439 13 8.9858279 13 5 C 13 2.2385819 10.761418 0 8 0 z M 8 1 C 10.20913 1 12 2.7908698 12 5 C 12 7.999988 8.999999 9.000008 9 11 L 7 11 C 7.0000002 9.000008 4.0000002 7.999988 4 5 C 4 2.7908698 5.7908698 1 8 1 z M 6 13 L 6 14 L 10 14 L 10 13 L 6 13 z M 7 15 L 7 16 L 9 16 L 9 15 L 7 15 z "
      class="ColorScheme-Text" />
 </svg>

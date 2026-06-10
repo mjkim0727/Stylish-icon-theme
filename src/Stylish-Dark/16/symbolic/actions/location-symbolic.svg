@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="location-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+      id="defs1">
+      <style
+          id="current-color-scheme"
+          type="text/css">
+          .ColorScheme-Text { color:#f2f2f2; }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 9 3 L 9 4 L 12 4 C 13.662 4 15 5.338 15 7 C 15 8.662 13.662 10 12 10 L 6.7050781 10 L 8.6816406 8.0234375 C 8.8775106 7.8275675 8.8775106 7.5122762 8.6816406 7.3164062 C 8.5837106 7.2184722 8.455935 7.1699219 8.328125 7.1699219 C 8.200315 7.1699219 8.0725494 7.2184799 7.9746094 7.3164062 L 5.1464844 10.144531 C 4.9995844 10.291431 4.9636694 10.505027 5.0371094 10.685547 L 5.0371094 10.6875 C 5.0615914 10.74712 5.0979084 10.803002 5.1464844 10.851562 L 7.9746094 13.681641 C 8.1704794 13.877511 8.4857706 13.877511 8.6816406 13.681641 C 8.8775106 13.485771 8.8775106 13.170479 8.6816406 12.974609 L 6.7089844 11 L 12 11 C 14.216 11 16 9.216 16 7 C 16 4.784 14.216 3 12 3 L 9 3 z M 2.5 9 C 1.6715729 9 1 9.6715729 1 10.5 C 1 11.328427 1.6715729 12 2.5 12 C 3.3284271 12 4 11.328427 4 10.5 C 4 9.6715729 3.3284271 9 2.5 9 z " />
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   enable-background="new"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="edit-copy-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+   id="defs1">
+   <style
+    id="current-color-scheme"
+    type="text/css">
+    .ColorScheme-Text { color:#f2f2f2; }
+    .ColorScheme-NegativeText { color:#da4453; }
+   </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 6 0 C 4.8954 0 4 0.89543 4 2 L 4 12 C 4 13.1046 4.89543 14 6 14 L 12 14 C 13.1046 14 14 13.1046 14 12 L 14 2 C 14 0.8954 13.1046 0 12 0 L 6 0 z M 6 1 L 12 1 C 12.5523 1 13 1.44772 13 2 L 13 12 C 13 12.5523 12.5523 13 12 13 L 6 13 C 5.44772 13 5 12.5523 5 12 L 5 2 C 5 1.44772 5.44772 1 6 1 z M 3 2.2675781 C 2.4022 2.6133781 2 3.25972 2 4 L 2 12.5 C 2 14.433 3.567 16 5.5 16 L 10 16 C 10.7403 16 11.386622 15.5978 11.732422 15 L 5.5 15 C 4.1193 15 3 13.8807 3 12.5 L 3 2.2675781 z " />
+</svg>

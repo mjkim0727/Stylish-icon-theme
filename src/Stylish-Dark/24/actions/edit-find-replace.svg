@@ -1,49 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="edit-find-replace.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="36.363636"
-     inkscape:cx="10.01"
-     inkscape:cy="11"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
-  <defs
-     id="defs2">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text { color:#f2f2f2; }
-    </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#f2f2f2;
+      }
+      </style>
   </defs>
-  <path
-     id="path181"
-     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     class="ColorScheme-Text"
-     d="m 10.5,5 a 5.5,5.5 0 0 0 -3.8886719,1.6113281 5.5,5.5 0 0 0 0,7.7773439 5.5,5.5 0 0 0 7.3984379,0.328125 l 3.914062,3.914062 c 0.195868,0.195868 0.511166,0.195868 0.707031,0 0.195869,-0.195866 0.195869,-0.511163 0,-0.707031 L 14.716797,14.009766 A 5.5,5.5 0 0 0 14.388672,6.6113281 5.5,5.5 0 0 0 10.5,5 Z m 0,1 A 4.5,4.5 0 0 1 15,10.5 4.5,4.5 0 0 1 10.5,15 4.5,4.5 0 0 1 6,10.5 4.5,4.5 0 0 1 10.5,6 Z M 6,18 c -0.5539946,0 -1,0.446006 -1,1 0,0.553994 0.4460054,1 1,1 0.5539946,0 1,-0.446006 1,-1 0,-0.553994 -0.4460054,-1 -1,-1 z m 4,0 c -0.5539946,0 -1,0.446006 -1,1 0,0.553994 0.4460054,1 1,1 0.553995,0 1,-0.446006 1,-1 0,-0.553994 -0.446005,-1 -1,-1 z m 4,0 c -0.553994,0 -1,0.446006 -1,1 0,0.553994 0.446006,1 1,1 0.553994,0 1,-0.446006 1,-1 0,-0.553994 -0.446006,-1 -1,-1 z" />
+ <path 
+     transform="translate(1,1)"
+    style="fill:currentColor;fill-opacity:1;stroke:none" 
+    d="M 9 3 C 5.6759952 3 3 5.6759952 3 9 C 3 12.324005 5.6759952 15 9 15 C 10.481205 15 11.830584 14.465318 12.875 13.582031 L 18.292969 19 L 19 18.292969 L 13.582031 12.875 C 14.465318 11.830584 15 10.481205 15 9 C 15 5.6759952 12.324005 3 9 3 z M 9 4 C 11.770005 4 14 6.2299952 14 9 C 14 11.770005 11.770005 14 9 14 C 6.2299952 14 4 11.770005 4 9 C 4 6.2299952 6.2299952 4 9 4 z M 4 17 C 3.4460048 17 3 17.446005 3 18 C 3 18.553995 3.4460048 19 4 19 C 4.5539952 19 5 18.553995 5 18 C 5 17.446005 4.5539952 17 4 17 z M 8 17 C 7.4460048 17 7 17.446005 7 18 C 7 18.553995 7.4460048 19 8 19 C 8.5539952 19 9 18.553995 9 18 C 9 17.446005 8.5539952 17 8 17 z M 12 17 C 11.446005 17 11 17.446005 11 18 C 11 18.553995 11.446005 19 12 19 C 12.553995 19 13 18.553995 13 18 C 13 17.446005 12.553995 17 12 17 z "
+    class="ColorScheme-Text"
+    />  
 </svg>

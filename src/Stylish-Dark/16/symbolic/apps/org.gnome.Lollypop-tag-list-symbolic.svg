@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="org.gnome.Lollypop-tag-list-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="49.75"
+     inkscape:cx="7.9899497"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#f2f2f2; }
+    </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 6.8847656 0 L 1.9941406 0.03125 C 0.89584062 0.03845 0.0094125 0.93099685 0.0078125 2.0292969 L 0 6.9785156 C -0.0008 7.5099456 0.2101375 8.0206844 0.5859375 8.3964844 L 7.2167969 15.027344 C 7.9978969 15.808444 9.2638721 15.808444 10.044922 15.027344 L 11 14.072266 L 11 12.658203 L 9.3378906 14.320312 C 8.9473906 14.710913 8.3143781 14.710912 7.9238281 14.320312 L 1.2929688 7.6894531 C 1.1050686 7.5015531 0.99959997 7.2461886 1 6.9804688 L 1.0078125 2.03125 C 1.0086125 1.4821 1.4508 1.03485 2 1.03125 L 6.890625 1 C 7.157725 0.99825 7.4144156 1.1043786 7.6035156 1.2929688 L 12.324219 6 L 13.742188 6 L 8.3105469 0.58398438 C 7.9324469 0.20680438 7.4188656 -0.0035 6.8847656 0 z M 4.0136719 3 C 3.4613719 3 3.0136719 3.44772 3.0136719 4 C 3.0136719 4.55228 3.4613719 5 4.0136719 5 C 4.5659719 5 5.0136719 4.55228 5.0136719 4 C 5.0136719 3.44772 4.5659719 3 4.0136719 3 z " />
+  <path
+     id="path2"
+     style="fill:currentColor;stroke-linecap:round"
+     d="M 14 8 A 1 1 0 0 0 13 9 A 1 1 0 0 0 14 10 A 1 1 0 0 0 15 9 A 1 1 0 0 0 14 8 z M 14 11 A 1 1 0 0 0 13 12 A 1 1 0 0 0 14 13 A 1 1 0 0 0 15 12 A 1 1 0 0 0 14 11 z M 14 14 A 1 1 0 0 0 13 15 A 1 1 0 0 0 14 16 A 1 1 0 0 0 15 15 A 1 1 0 0 0 14 14 z "
+     class="ColorScheme-Text" />
+</svg>

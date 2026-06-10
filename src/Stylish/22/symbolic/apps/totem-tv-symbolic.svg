@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="totem-tv-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.181818"
+     inkscape:cx="10.986181"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8,3 C 7.4477153,3 7,3.4477153 7,4 7,4.5522847 7.4477153,5 8,5 8.0844839,4.9988897 8.1684865,4.9870769 8.25,4.9648438 L 9.271484,6 H 7 C 5.338,6 4,7.338 4,9 v 7 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 V 9 C 18,7.338 16.662,6 15,6 H 12.736328 L 13.75,4.96875 C 13.82788,4.988708 13.907887,4.9992 13.988281,5 c 0.552285,0 1,-0.4477153 1,-1 0,-0.5522847 -0.447715,-1 -1,-1 -0.552285,10e-8 -1,0.4477153 -1,1 0.0016,0.092697 0.01604,0.1847242 0.04297,0.2734375 L 11.345703,5.9902344 10.675781,6 8.9609375,4.2617188 C 8.9854944,4.1765948 8.9986302,4.0885848 9,4 9,3.4477153 8.5522847,3 8,3 Z M 7,7 h 8 c 1.108,0 2,0.892 2,2 v 5 H 5 V 9 C 5,7.892 5.892,7 7,7 Z m -2,8 h 12 v 1 c 0,1.108 -0.892,2 -2,2 H 14 7 C 5.892,18 5,17.108 5,16 Z m 10.474609,1 C 15.209699,16.013342 15,16.23166 15,16.5 15,16.777 15.223,17 15.5,17 15.777,17 16,16.777 16,16.5 16,16.223 15.777,16 15.5,16 c -0.0087,0 -0.01685,-4.3e-4 -0.02539,0 z" />
+</svg>

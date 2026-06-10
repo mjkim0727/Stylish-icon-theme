@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="daytime-sunrise-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 7.5 1.5 L 4 6 L 7 6 L 7 8.5 A 0.5 0.5 0 0 0 8 8.5 L 8 6 L 11 6 L 7.5 1.5 z M 2.5507812 9.0488281 A 0.5 0.5 0 0 0 2.1972656 9.1972656 A 0.499 0.499 0 0 0 2.1972656 9.9042969 L 2.9042969 10.611328 A 0.498 0.498 0 0 0 3.6113281 10.611328 A 0.499 0.499 0 0 0 3.6113281 9.9042969 L 2.9042969 9.1972656 A 0.5 0.5 0 0 0 2.5507812 9.0488281 z M 12.449219 9.0507812 A 0.498 0.498 0 0 0 12.095703 9.1972656 L 11.388672 9.9042969 A 0.49994659 0.49994659 0 1 0 12.095703 10.611328 L 12.802734 9.9042969 A 0.499 0.499 0 0 0 12.449219 9.0507812 z M 7.5 10 C 5.186 10 3.3027813 11.753 3.0507812 14 L 11.949219 14 C 11.698219 11.753 9.814 10 7.5 10 z M 0.5 13 A 0.5 0.5 0 0 0 0.5 14 L 1.5 14 A 0.5 0.5 0 0 0 1.5 13 L 0.5 13 z M 13.5 13 A 0.5 0.5 0 0 0 13.5 14 L 14.5 14 A 0.5 0.5 0 0 0 14.5 13 L 13.5 13 z M 0 15 L 0 16 L 15 16 L 15 15 L 0 15 z " />
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="list-drag-handle-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 8.5,4 C 7.667968,4 7,4.671875 7,5.5 7,6.328125 7.667968,7 8.5,7 9.328125,7 10,6.328125 10,5.5 10,4.671875 9.328125,4 8.5,4 Z m 6,0 C 13.667968,4 13,4.671875 13,5.5 13,6.328125 13.667968,7 14.5,7 15.328125,7 16,6.328125 16,5.5 16,4.671875 15.328125,4 14.5,4 Z m -6,6 C 7.667968,10 7,10.671875 7,11.5 7,12.328125 7.667968,13 8.5,13 9.328125,13 10,12.328125 10,11.5 10,10.671875 9.328125,10 8.5,10 Z m 6,0 C 13.667968,10 13,10.671875 13,11.5 13,12.328125 13.667968,13 14.5,13 15.328125,13 16,12.328125 16,11.5 16,10.671875 15.328125,10 14.5,10 Z m -6,6 C 7.667968,16 7,16.671875 7,17.5 7,18.328125 7.667968,19 8.5,19 9.328125,19 10,18.328125 10,17.5 10,16.671875 9.328125,16 8.5,16 Z m 6,0 C 13.667968,16 13,16.671875 13,17.5 13,18.328125 13.667968,19 14.5,19 15.328125,19 16,18.328125 16,17.5 16,16.671875 15.328125,16 14.5,16 Z m 0,0"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>

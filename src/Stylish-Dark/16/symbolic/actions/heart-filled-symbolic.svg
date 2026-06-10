@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="heart-filled-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+   id="defs1">
+   <style
+    id="current-color-scheme"
+    type="text/css">
+    .ColorScheme-Text { color:#f2f2f2; }
+   </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 11.395,1.9648 C 10.42234,1.937456 9.4731,2.28902 8.7544,2.94918 L 8.00049,3.62496 7.24268,2.94918 C 6.24659,2.05074 4.84038,1.75778 3.56688,2.17965 c -1.2773,0.41797 -2.2305,1.4883 -2.5,2.8047 -0.26953,1.3164 0.18359,2.6758 1.1875,3.5664 l 5.7461,5.1172 5.7422,-5.1172 c 1.1719,-1.0117 1.6016,-2.6406 1.082,-4.0977 -0.5196,-1.4571 -1.8828,-2.4453 -3.4297,-2.4883 z"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>

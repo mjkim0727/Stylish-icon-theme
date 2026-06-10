@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="audio-headphones-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 12,4 C 7.5817,4 4,7.5817 4,12 v 6 c 0,1.1046 0.89543,2 2,2 H 8.5 C 8.77614,20 9,19.7761 9,19.5 v -6 C 9,13.2239 8.77614,13 8.5,13 H 5 v -1 c 0,-3.866 3.134,-7 7,-7 3.866,0 7,3.134 7,7 v 1 H 15.5 C 15.2239,13 15,13.2239 15,13.5 v 6 c 0,0.2761 0.2239,0.5 0.5,0.5 H 18 c 1.1046,0 2,-0.8954 2,-2 V 12 C 20,7.5817 16.4183,4 12,4 Z M 5,14 h 3 v 5 H 6 C 5.44772,19 5,18.5523 5,18 Z m 11,0 h 3 v 4 c 0,0.5523 -0.4477,1 -1,1 h -2 z" />
+</svg>

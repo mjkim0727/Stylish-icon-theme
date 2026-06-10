@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg1"
+   sodipodi:docname="org.gnome.Settings-notifications-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+     </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.166667"
+     inkscape:cx="11.984925"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11.994141,5 C 8.7675406,5 6.1226,7.4512594 6,10.568359 l -0.00391,0.22461 v 3.607422 L 5.0722656,16.621094 5.0292969,16.748047 5.0078125,16.875 c -0.0504,0.4635 0.1927356,0.881764 0.6035156,1.052734 l 0.125,0.04297 c 0.08456,0.0228 0.1718157,0.0332 0.2597657,0.0332 L 9.1777344,18 C 9.6007616,19.19651 10.730913,19.997393 12,20 c 1.269087,-0.0026 2.399239,-0.80349 2.822266,-2 l 3.175781,0.0039 0.134765,-0.0098 0.115235,-0.02734 c 0.4527,-0.129 0.75,-0.514891 0.75,-0.962891 l -0.0098,-0.130859 -0.01367,-0.08594 c -0.0127,-0.0569 -0.03013,-0.111915 -0.05273,-0.166015 l -0.925753,-2.222617 v -3.595704 l -0.0039,-0.224609 -0.01367,-0.222656 C 17.738016,7.3349687 15.143141,5 11.994141,5 Z m 0,1 c 2.697,0 4.892945,2.0340219 4.998047,4.607422 l 0.0039,0.205078 V 14.5 l 0.03906,0.191406 0.962891,2.3125 -0.04492,0.002 -11.9570312,-0.002 0.9628906,-2.3125 L 6.9960938,14.5 V 10.802734 L 7,10.597656 7.0136719,10.384766 C 7.2236919,7.9234656 9.3715406,6 11.994141,6 Z m -1.71875,12 h 3.449218 C 13.368676,18.616506 12.711871,18.997348 12,19 11.288129,18.9973 10.631324,18.616506 10.275391,18 Z" />
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="bluetooth-acquiring-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="33.666667"
+     inkscape:cx="11.985149"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+     </style>
+  </defs>
+  <path
+     id="path346"
+     style="opacity:0.35;fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 11.46875,5 C 11.420167,5.00146 11.370776,5.010854 11.322266,5.029297 11.128226,5.1030699 11,5.2885038 11,5.4960938 V 10 h 1 V 6.8125 L 14.572266,8.9316406 13.310547,10 h 1.722656 l 0.775391,-0.609375 c 0.10841,-0.08518 0.177183,-0.2122894 0.189453,-0.3496094 0.01227,-0.13733 -0.03341,-0.2739031 -0.125,-0.3769531 l -4,-3.5 C 11.75587,5.061538 11.6145,4.9956066 11.46875,5 Z M 7.4882812,7.9960938 C 7.3442449,7.9995494 7.20339,8.0653587 7.1074219,8.1875 6.9368119,8.40464 6.9742662,8.720015 7.1914062,8.890625 L 8.5058594,10 H 10.033203 L 7.8085938,8.1035156 C 7.713595,8.0288781 7.6003095,7.993406 7.4882812,7.9960938 Z M 8.4980469,14 7.1914062,15.103516 c -0.21714,0.1706 -0.2545943,0.484071 -0.083984,0.701172 0.17061,0.2172 0.4840318,0.256537 0.7011719,0.08594 L 10.025391,14 Z M 11,14 v 4.496094 c 0,0.2076 0.128226,0.39495 0.322266,0.46875 0.19404,0.0738 0.412861,0.01848 0.550781,-0.136719 l 4,-3.5 c 0.09159,-0.103 0.13727,-0.239553 0.125,-0.376953 -0.01227,-0.1373 -0.08104,-0.262556 -0.189453,-0.347656 L 15.041016,14 H 13.320313 L 14.572266,15.060547 12,17.181641 V 14 Z" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     d="m 8,11 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 4,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 4,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     class="ColorScheme-Text" />
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="printer-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+    .ColorScheme-Text { color:#363636; }
+   </style>
+  </defs>
+  <path
+     d="M 7,6.5 C 7,5.67157 7.67157,5 8.5,5 h 7 C 16.3284,5 17,5.67157 17,6.5 V 7 h 0.5 C 18.8807,7 20,8.1193 20,9.5 v 5 C 20,15.3284 19.3284,16 18.5,16 H 17 v 1.5 c 0,0.8284 -0.6716,1.5 -1.5,1.5 h -7 C 7.67157,19 7,18.3284 7,17.5 V 16 H 5.5 C 4.67157,16 4,15.3284 4,14.5 v -5 C 4,8.1193 5.1193,7 6.5,7 H 7 Z M 8,7 h 8 V 6.5 C 16,6.22386 15.7761,6 15.5,6 h -7 C 8.22386,6 8,6.22386 8,6.5 Z M 7,15 V 13.5 C 7,12.67157 7.67157,12 8.5,12 h 7 c 0.8284,0 1.5,0.67157 1.5,1.5 V 15 h 1.5 c 0.2761,0 0.5,-0.22386 0.5,-0.5 v -5 C 19,8.67157 18.3284,8 17.5,8 H 6.5 C 5.67157,8 5,8.67157 5,9.5 v 5 C 5,14.77614 5.22386,15 5.5,15 Z M 8.5,13 C 8.22386,13 8,13.22386 8,13.5 v 4 C 8,17.7761 8.22386,18 8.5,18 h 7 c 0.2761,0 0.5,-0.2239 0.5,-0.5 v -4 C 16,13.22386 15.7761,13 15.5,13 Z"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>

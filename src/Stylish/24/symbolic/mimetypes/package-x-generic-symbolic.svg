@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg3"
+   sodipodi:docname="package-x-generic-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+          .ColorScheme-Text { color:#363636; }
+          .ColorScheme-NeutralText { color:#f67400; }
+          .ColorScheme-PositiveText { color:#37c837; }
+          .ColorScheme-NegativeText { color:#f44336; }
+          .ColorScheme-Highlight { color:#3daee9; }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.166667"
+     inkscape:cx="11.984925"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8.0273438,5 C 6.3502437,5 5,6.3502437 5,8.0273438 V 15.972656 C 5,17.649756 6.3502438,19 8.0273438,19 H 15.972656 C 17.649756,19 19,17.649756 19,15.972656 V 8.0273438 C 19,6.3502437 17.649756,5 15.972656,5 Z M 8,6 h 8 c 1.108,0 2,0.892 2,2 v 8 c 0,1.108 -0.892,2 -2,2 H 8 C 6.892,18 6,17.108 6,16 V 8 C 6,6.892 6.892,6 8,6 Z" />
+  <path
+     id="path2"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8,5 C 6.338,5 5,6.338 5,8 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 8 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 H 8 C 6.892,10 6,9.108 6,8 6,6.892 6.892,6 8,6 Z" />
+  <path
+     id="path3"
+     style="opacity:0.45;fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 11,5 v 9 l 2,1 V 5 Z" />
+</svg>

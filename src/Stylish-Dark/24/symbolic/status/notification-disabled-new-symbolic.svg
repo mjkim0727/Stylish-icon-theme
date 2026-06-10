@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="notification-disabled-new-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="33.125"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#f2f2f2; }
+        .ColorScheme-NeutralText { color:#f67400; }
+        .ColorScheme-PositiveText { color:#37c837; }
+        .ColorScheme-NegativeText { color:#f44336; }
+        .ColorScheme-Highlight { color:#3daee9; }
+     </style>
+  </defs>
+  <path
+     d="M 12,5 C 11.408573,5.000584 10.946857,5.5115374 11.006,6.1 8.6727172,6.5685241 6.9954112,8.6201465 7,11 v 4.5 l -2,2 V 18 h 14 v -0.5 l -2,-2 v -3.63 c -0.326687,0.084 -0.662687,0.126332 -1,0.126 v 3.926 L 17,17 H 7 L 8,15.922 V 11 C 8,8.790861 9.790861,7 12,7 12.044,7.001 12.087,7.003 12.13,7.006 12.269553,6.4621742 12.522028,5.9538179 12.871,5.514 12.695088,5.1976587 12.361961,5.0010719 12,5 Z m -1.73,14 c 0.356899,0.618168 1.016202,0.999268 1.73,1 0.713084,-0.0014 1.371459,-0.382449 1.728,-1 z"
+     style="opacity:0.35;fill:currentColor;stroke-width:3;stroke-linecap:round"
+     id="path1"
+     class="ColorScheme-Text" />
+  <circle
+     style="fill:currentColor"
+     id="path2"
+     cx="16"
+     cy="8"
+     r="3"
+     class="ColorScheme-NeutralText warning" />
+</svg>
