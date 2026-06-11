@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="view-restore-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,11 +23,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="49.6875"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="36.363636"
+     inkscape:cx="11.01375"
+     inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,18 +37,18 @@
     <style
        id="current-color-scheme"
        type="text/css">
-        .ColorScheme-Text { color:#363636; }
+        .ColorScheme-Text { color:#f2f2f2; }
      </style>
   </defs>
   <path
      id="rect1"
      style="fill:currentColor"
      fill-opacity="0.5"
-     d="M 5 1 C 3.892 1 3 1.892 3 3 L 3 6 L 4 6 L 4 3 C 4 2.446 4.446 2 5 2 L 14 2 C 14.554 2 15 2.446 15 3 L 15 9 C 15 9.554 14.554 10 14 10 L 11 10 L 11 11 L 14 11 C 15.108 11 16 10.108 16 9 L 16 3 C 16 1.892 15.108 1 14 1 L 5 1 z "
+     d="M 8,4 C 6.892,4 6,4.892 6,6 V 9 H 7 V 6 C 7,5.446 7.446,5 8,5 h 9 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 h -3 v 1 h 3 c 1.108,0 2,-0.892 2,-2 V 6 C 19,4.892 18.108,4 17,4 Z"
      class="ColorScheme-Text" />
   <path
      id="rect2"
      style="fill:currentColor"
-     d="M 2 7 C 0.892 7 0 7.892 0 9 L 0 13 C 0 14.108 0.892 15 2 15 L 8 15 C 9.108 15 10 14.108 10 13 L 10 9 C 10 7.892 9.108 7 8 7 L 2 7 z M 2 8 L 8 8 C 8.554 8 9 8.446 9 9 L 9 13 C 9 13.554 8.554 14 8 14 L 2 14 C 1.446 14 1 13.554 1 13 L 1 9 C 1 8.446 1.446 8 2 8 z "
+     d="m 5,10 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 6 c 0.554,0 1,0.446 1,1 v 4 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,17 4,16.554 4,16 v -4 c 0,-0.554 0.446,-1 1,-1 z"
      class="ColorScheme-Text" />
 </svg>
