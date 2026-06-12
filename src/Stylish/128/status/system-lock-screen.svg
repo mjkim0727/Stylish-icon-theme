@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="system-lock-screen.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,26 +17,35 @@
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
+     bordercolor="#666666"
+     borderopacity="1.0"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="6.453125"
-     inkscape:cx="63.922518"
+     inkscape:zoom="6.28125"
+     inkscape:cx="64"
      inkscape:cy="64"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
-     showguides="false" />
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2116"
+       id="linearGradient2881"
+       x1="16.000002"
+       y1="3.0000002"
+       x2="29.000002"
+       y2="29.000002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.307692,0,0,4.307692,-4.9230768,-4.9230768)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2116">
@@ -49,27 +58,21 @@
          offset="1"
          id="stop2114" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2116"
-       id="linearGradient3500"
-       x1="2"
-       y1="2"
-       x2="30"
-       y2="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(4)" />
   </defs>
+  <circle
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.6154;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="path2871"
+     cx="64"
+     cy="65"
+     r="56" />
+  <circle
+     style="opacity:1;fill:url(#linearGradient2881);fill-opacity:1;stroke:none;stroke-width:8.6154;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="path2873"
+     cx="64"
+     cy="64"
+     r="56" />
   <path
-     d="M 52,9 C 15.595238,9 8,16.759268 8,53 v 24 c 0,36.24073 7.595238,44 44,44 h 24 c 36.40476,0 44,-7.75927 44,-44 V 53 C 120,16.759268 112.40476,9 76,9"
-     style="opacity:0.2;fill:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     id="path563" />
-  <path
-     id="path530"
-     style="fill:url(#linearGradient3500);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     d="M 52,8 C 15.595274,8 8,15.759304 8,52 v 24 c 0,36.2407 7.595274,44 44,44 h 24 c 36.40473,0 44,-7.7593 44,-44 V 52 C 120,15.759304 112.40473,8 76,8 Z" />
-  <path
-     id="rect345"
-     style="fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     d="M 64,24 C 52.920024,24 44,32.920024 44,44 v 12 h -4 c -4.431996,0 -8,3.568004 -8,8 v 32 c 0,4.432 3.568004,8 8,8 h 48 c 4.431996,0 8,-3.568 8,-8 V 64 c 0,-4.431996 -3.568004,-8 -8,-8 H 84 V 44 C 84,32.920024 75.079976,24 64,24 Z m 0,8 c 6.647984,0 12,5.352012 12,12 V 56 H 52 V 44 c 0,-6.647988 5.352016,-12 12,-12 z" />
+     d="M 64,24 C 52.92,24 44,32.92 44,44 V 56 H 32 V 96 H 96 V 56 H 84 V 44 C 84,32.92 75.08,24 64,24 Z m 0,4 c 8.864,0 16,7.136 16,16 V 56 H 48 V 44 c 0,-8.864 7.136,-16 16,-16 z"
+     style="fill:#ffffff;stroke-width:4"
+     id="path1" />
 </svg>

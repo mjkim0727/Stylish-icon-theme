@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="system-suspend-hibernate.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,28 +25,27 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="37.636364"
+     inkscape:zoom="36.545455"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
-     showguides="true" />
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2659"
-       id="linearGradient3500"
-       x1="2"
-       y1="2"
-       x2="28.666666"
-       y2="28.666666"
+       id="linearGradient2881"
+       x1="16"
+       y1="2.999999"
+       x2="29"
+       y2="29"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.75,-0.5,-0.5)" />
+       gradientTransform="matrix(0.76923075,0,0,0.76923075,-1.307692,-1.3076919)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2659">
@@ -60,13 +59,14 @@
          id="stop2657" />
     </linearGradient>
   </defs>
-  <path
-     id="path530"
-     style="fill:url(#linearGradient3500);fill-opacity:1.0;stroke-width:0.750005;stroke-linecap:round;stroke-linejoin:round"
-     d="M 9,1 C 2.174114,1 1,2.2048695 1,9 v 4 c 0,6.79513 1.174114,8 8,8 h 4 c 6.825886,0 8,-1.20487 8,-8 V 9 C 21,2.2048695 19.825886,1 13,1 Z"
-     sodipodi:nodetypes="sssssssss" />
+  <circle
+     style="fill:url(#linearGradient2881);stroke:none;stroke-width:1.53846;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="path2873"
+     cx="11"
+     cy="11"
+     r="10" />
   <path
      id="path1853"
      style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-     d="M 11 4 A 7 7 0 0 0 4 11 A 7 7 0 0 0 11 18 A 7 7 0 0 0 18 11 A 7 7 0 0 0 11 4 z M 11 5 A 6 6 0 0 1 17 11 A 6 6 0 0 1 11 17 A 6 6 0 0 1 5 11 A 6 6 0 0 1 11 5 z M 11 9 A 2 2 0 0 0 9 11 A 2 2 0 0 0 11 13 A 2 2 0 0 0 13 11 A 2 2 0 0 0 11 9 z " />
+     d="M 11,3.9999996 A 7,7 0 0 0 4,11 a 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7.0000004 z m 0,1 A 6,6 0 0 1 17,11 6,6 0 0 1 11,17 6,6 0 0 1 5,11 6,6 0 0 1 11,4.9999996 Z m 0,4 A 2,2 0 0 0 9,11 a 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2.0000004 z" />
 </svg>
