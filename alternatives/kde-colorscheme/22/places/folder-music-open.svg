@@ -39,7 +39,7 @@
        id="current-color-scheme"
        type="text/css">
          .ColorScheme-Text { color:#232629; }
-         .ColorScheme-Highlight { color:#3daee9; }
+         .ColorScheme-Accent { color:#3daee9; }
      </style>
   </defs>
   <path
@@ -50,7 +50,7 @@
   <path
      id="rect184"
      style="fill:currentColor;fill-opacity:1;stroke-width:0.5"
-     class="ColorScheme-Highlight"
+     class="ColorScheme-Accent"
      d="M 1,1 C 0.4460006,1 0,1.4460004 0,2 v 18 c 0,0.554 0.4460006,1 1,1 h 20 c 0.554,0 1,-0.446 1,-1 V 5 C 22,4.4460005 21.554,4 21,4 H 11 L 9,1.5 C 8.655655,1.1853323 8.554,1 8,1 Z"
      sodipodi:nodetypes="sccsssssccss" />
   <path

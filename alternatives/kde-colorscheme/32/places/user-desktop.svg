@@ -39,7 +39,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-         .ColorScheme-Highlight { color:#3daee9; }
+         .ColorScheme-Accent { color:#3daee9; }
      </style>
   </defs>
   <rect
@@ -52,7 +52,7 @@
      ry="2" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-     class="ColorScheme-Highlight"
+     class="ColorScheme-Accent"
      id="rect404"
      width="28"
      height="24"
