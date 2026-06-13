@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="accessories-clock.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="35.363636"
-     inkscape:cx="11.014139"
+     inkscape:zoom="36.545455"
+     inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,36 +39,26 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3147"
+       xlink:href="#linearGradient2"
        id="linearGradient3500"
-       x1="28.666666"
-       y1="28.666666"
-       x2="2"
-       y2="2"
+       x1="2"
+       y1="2"
+       x2="28.666666"
+       y2="28.666666"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.75,0,0,0.75,-0.50000002,-0.50000004)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3147">
+       id="linearGradient2">
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#aeaeae;stop-opacity:1;"
          offset="0"
-         id="stop3143" />
+         id="stop1" />
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#dedede;stop-opacity:1;"
          offset="1"
-         id="stop3145" />
+         id="stop2" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3147"
-       id="linearGradient2526"
-       x1="26"
-       y1="26"
-       x2="6.0000005"
-       y2="6"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.0000003,-5)" />
   </defs>
   <path
      id="path530"
@@ -82,7 +72,7 @@
      cy="11"
      r="8" />
   <rect
-     style="fill:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#3f3f3f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      id="rect451"
      width="2"
      height="7"
@@ -99,9 +89,15 @@
      ry="1"
      transform="rotate(135)" />
   <circle
-     style="fill:url(#linearGradient2526);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#3f3f3f;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="path2027"
      cx="11"
      cy="11"
      r="2" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="path2027-1"
+     cx="11"
+     cy="11"
+     r="1" />
 </svg>

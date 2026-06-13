@@ -7,7 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="accessories-clock.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.15625"
-     inkscape:cx="31.958869"
+     inkscape:zoom="12.5625"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,36 +38,26 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3147"
+       xlink:href="#linearGradient2"
        id="linearGradient4780"
-       x1="30"
-       y1="30"
-       x2="2"
-       y2="2"
+       x1="2"
+       y1="2"
+       x2="30"
+       y2="30"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(2)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3147">
+       id="linearGradient2">
       <stop
-         style="stop-color:#41bbff;stop-opacity:1;"
+         style="stop-color:#aeaeae;stop-opacity:1;"
          offset="0"
-         id="stop3143" />
+         id="stop1" />
       <stop
-         style="stop-color:#0091f9;stop-opacity:1;"
+         style="stop-color:#dedede;stop-opacity:1;"
          offset="1"
-         id="stop3145" />
+         id="stop2" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3147"
-       id="linearGradient2526"
-       x1="30"
-       y1="30"
-       x2="2"
-       y2="2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5,0,0,1.5,8,8)" />
   </defs>
   <path
      d="M 26,5 C 7.797619,5 4,8.879634 4,27 V 39 C 4,57.120366 7.797619,61 26,61 H 38 C 56.20238,61 60,57.120366 60,39 V 27 C 60,8.879634 56.20238,5 38,5"
@@ -84,7 +74,7 @@
      cy="32"
      r="20" />
   <rect
-     style="opacity:1;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#3f3f3f;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      id="rect451"
      width="4"
      height="18"
@@ -95,15 +85,21 @@
      style="opacity:1;fill:#1bc166;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
      id="rect1007"
      width="4"
-     height="16"
-     x="-2.0000002"
-     y="-59.257408"
+     height="15"
+     x="-2"
+     y="-58.257408"
      ry="2"
      transform="rotate(135)" />
   <circle
-     style="opacity:1;fill:url(#linearGradient2526);fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#3f3f3f;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      id="path2027"
      cx="32"
      cy="32"
-     r="3" />
+     r="4" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round"
+     id="path2027-5"
+     cx="32"
+     cy="32"
+     r="2" />
 </svg>
